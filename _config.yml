@@ -20,6 +20,39 @@ social:
     - "https://www.facebook.com/pages/Musikfestival-Tittemania"
     - "http://www.youtube.com/user/tittemania"
 
+# Site Author
+author:
+  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  avatar           :
+  bio              :
+  location         :
+  email            :
+  uri              : "https://t-mania.de"
+  home             : "https://t-mania.de"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : tmania.openair
+  foursquare       :
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # https://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #*twitter
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : tittemania
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
