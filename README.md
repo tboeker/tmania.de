@@ -1,2 +1,2 @@
 # tmania.de
-t-maniae homepage
+t-mania.de homepage
