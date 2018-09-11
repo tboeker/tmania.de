@@ -2,8 +2,8 @@
 permalink: /history/
 title: History
 type: page
-header:
-  image: /assets/images/header1.jpeg
+# header:
+#   image: /assets/images/header1.jpeg
 ---
 
 ## Es war einmal...

@@ -2,8 +2,8 @@
 permalink: /infos/
 title: Infos
 type: page
-header:
-  image: /assets/images/header1.jpeg
+# header:
+#   image: /assets/images/header1.jpeg
 ---
 
 <!-- ![Logo]({{site.url}}{{site.baseurl}}/assets/images/logo_vermuku.png) -->
