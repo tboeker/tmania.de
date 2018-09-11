@@ -13,6 +13,13 @@ logo: /assets/images/t-mania-logo.jpg
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://www.facebook.com/pages/Musikfestival-Tittemania"
+    - "http://www.youtube.com/user/tittemania"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
