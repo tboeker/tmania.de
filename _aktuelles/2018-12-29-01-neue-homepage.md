@@ -1,5 +1,5 @@
 ---
-title:  "Neue Hompage"
+title:  "Neue Homepage"
 ---
 
 Liebe Freunde,
