@@ -70,6 +70,10 @@ defaults:
 
 footer:
   links:
+    - label: "Faceboook"
+      url: "https://www.facebook.com/tmania.openair/"
+    - label: "YoutTube"
+      url: "https://www.youtube.com/user/tittemania/videos"
     - label: "Impressum"
       url: "/impressum"
     - label: "Datenschutz"
