@@ -1,15 +1,11 @@
 main:
-  # - title: "Aktuelles"
-  #   url: /aktuelles/
-  - title: "Infos"
-    url: /infos/
+  - title: "Aktuelles"
+    url: /aktuelles/
+  - title: "Festival"
+    url: /festival/
   - title: "Bands"
     url: /bands/
   - title: "History"
     url: /history/
   - title: "Partner"
     url: /partner/
-  - title: "Impressum"
-    url: /impressum/
-  - title: "Datenschutz"
-    url: /datenschutz/

@@ -1,57 +1,14 @@
 title: "T-Mania"
-# title: "VERMUKU"
 description: "T-Mania Open-Air Festival"
 
 locale: "de-DE"
 remote_theme: "mmistakes/minimal-mistakes"
 url: "http://monaboeker.de"
-# baseurl: "/tboeker"
-# repository: "tboeker/vermuku.de"
 
 logo: /assets/images/t-mania-logo.png
 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - "https://www.facebook.com/pages/Musikfestival-Tittemania"
-    - "http://www.youtube.com/user/tittemania"
-
-# Site Author
-author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           :
-  bio              :
-  location         :
-  email            :
-  uri              : "https://t-mania.de"
-  home             : "https://t-mania.de"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : tmania.openair
-  foursquare       :
-  github           :
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #*twitter
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : tittemania
 
 # Plugins (previously gems:)
 plugins:
@@ -60,6 +17,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -68,9 +26,16 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 include:
   - _pages
+
+# Collections
+collections:
+  aktuelles:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -91,3 +56,21 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _aktuelles
+  - scope:
+      path: ""
+      type: aktuelles
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      comment: false
+      related: false
+
+footer:
+  links:
+    - label: "Impressum"
+      url: "/impressum"
+    - label: "Datenschutz"
+      url: "/datenschutz"

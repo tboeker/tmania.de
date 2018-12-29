@@ -5,9 +5,10 @@ title:  "Termin 2019"
 Liebe Freunde,
 
 ab sofort haben wir eine neue Homepage.
+Sie ist noch nicht ganz fertig, wird aber in der nächsten Zeit aufgebaut.
 Viel Spaß damit.
 
 
 Schöne Grüße
 
-Euer Vorstand
+Euer Vorstand vom Vermuku
