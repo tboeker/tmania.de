@@ -9,6 +9,8 @@ type: page
 
 Ohne unsere Partner und Sponsoren geht nix. Hier sind sie..
 
+## Downloads
+- [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2019.pdf' | relative_url }} )
 
 ..
 ..
