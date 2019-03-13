@@ -6,4 +6,14 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
- Bands...
+# Freitag:
+STRAIGHT
+
+# Samstag:
+LUCAS RIEGER
+SPIT PINK
+SCUNKS
+BLACK PALMS
+UWE AGAINST THE MACHINE
+KAPELLE PETRA
+BAD NENNDORF BOYS

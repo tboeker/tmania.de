@@ -12,34 +12,45 @@ header:
 
 | Freitag 05.07.19 | Band |
 |-------|--------|
-| 20:00 - 21:00 | Band 1 |
-| 21:30 - 23:00 | Band 2 |
+| 20:00 - 23:00 | STRAIGHT |
 
 | Samstag 06.07.19 | Band |
 |-------|--------|
-| 14:00 - 14:30 | Band 1 |
-| 14:45 - 15:40 | Band 2 |
-| 16:00 - 17:00 | Band 3 |
-| 17:30 - 18:30 | Band 4 |
-| 19:00 - 20:30 | Band 5 |
-| 21:00 - 22:30 | Band 6 |
-| 23:00 - 24:00 | Band 7 |
+| 14:00 -  | LUCAS RIEGER |
+| - | SPIT PINK |
+| - | SCUNKS |
+| - | BLACK PALMS |
+| - | UWE AGAINST THE MACHINE |
+| - | KAPELLE PETRA |
+| - 23:30 | BAD NENNDORF BOYS |
 
+Download folgt, wenn die Zeiten fest stehen.
+<!--
 Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )
+-->
 
 ## Eintrittspreise und Tickets
 
-das ist alles günstig.
-Immer nur Abendkasse
+Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
+- Freitag: 8 €
+- Samstag: 12 €
+- Kombiticket: 15 €
+
+Es gibt nur Tickets an der Tageskasse. Ein Online Vorverkauf findet nicht statt. Die Gebühren und das Port können wir uns sparen und statt dessen ein Bier mehr trinken. Es kommt jeder rein, versprochen.
 
 ## Essen und Trinken
 
-Waffel, Bier, Cola, Fanta, Döner oder so...
+Wir vom Verein organsieren
+- Bierbude mit Rheder Bier, Cola, Fanta, Sprite, Wasser, Bionade...
+- und eine Waffelbude mit Waffeln, Kaffe und Tee...
+- sowie eine Wurst-Grill-Station.
+
+Zusätzlich dazu haben wir noch einen Verkaufwagen vor Ort bei dem es Döner oder Pizza oder so gibt.
 
 ## Parken
 
-oben bei Beku
+Bitte nur in den vorgesehen Flächen in der Urentalstr. parken. Sollte dies belegt sein, einfach der Beschilderugn zum Parkplatz folgen und die Strasse weiter hoch fahren. Ca. eine Bierlänge vom Festival entfernt gibt es bei der Firma BQ ausreichend Parkmöglichkeiten. Diese sind ausgeschildert.
 
 ## Camping
 
-direkt hinterm Haus
+Wir freuen uns immer auf unsere Campinggäste. Ihr könnt kostenlos euer Zelt direkt hinter dem Festivalgelände aufbauen. Aber bitte vor der Abreise aufräumen und den Müll einsammeln.
