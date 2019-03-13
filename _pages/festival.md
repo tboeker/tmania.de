@@ -49,7 +49,7 @@ Zusätzlich dazu haben wir noch einen Verkaufwagen vor Ort bei dem es Döner ode
 
 ## Parken
 
-Bitte nur in den vorgesehen Flächen in der Urentalstr. parken. Sollte dies belegt sein, einfach der Beschilderugn zum Parkplatz folgen und die Strasse weiter hoch fahren. Ca. eine Bierlänge vom Festival entfernt gibt es bei der Firma BQ ausreichend Parkmöglichkeiten. Diese sind ausgeschildert.
+Bitte nur in den vorgesehen Flächen in der Urentalstraße parken. Sollte dies belegt sein, einfach der Beschilderung zum Parkplatz folgen und die Strasse weiter hoch fahren. Ungefähr eine Bierlänge vom Festival entfernt gibt es bei der Firma BQ ausreichend Parkmöglichkeiten. Diese sind ausgeschildert.
 
 ## Camping
 
