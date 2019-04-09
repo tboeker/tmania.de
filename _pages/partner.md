@@ -7,7 +7,13 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
-Ohne unsere Partner und Sponsoren geht nix. Hier sind sie..
+Wir bedanken und bei unseren Partnern und Sponsoren!!!
+
+<!-- 200 -->
+
+<!-- 100 -->
+
+<!-- 50 -->
 
 ## Downloads
 - [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2019.pdf' | relative_url }} )

@@ -3,8 +3,8 @@ main:
     url: /aktuelles/
   - title: "Festival"
     url: /festival/
-  - title: "Bands"
-    url: /bands/
+  - title: "Line-Up"
+    url: /lineup/
   - title: "History"
     url: /history/
   - title: "Partner"
