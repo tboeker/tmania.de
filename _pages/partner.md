@@ -14,6 +14,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 <!-- 100 -->
 
 <!-- 50 -->
+![Heinrich Nolte GmbH & Co. KG](/assets/partner-logos/nolte_bau.jpg)
 
 ## Downloads
 - [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2019.pdf' | relative_url }} )
