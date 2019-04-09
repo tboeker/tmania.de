@@ -2,8 +2,8 @@
 permalink: /datenschutz/
 title: Datenschutzerklärung
 type: page
-header:
-  image: /assets/images/header3.jpg
+# header:
+#   image: /assets/images/header3.jpg
 ---
 
 <h2>1. Datenschutz auf einen Blick</h2>

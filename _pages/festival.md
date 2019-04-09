@@ -2,8 +2,8 @@
 permalink: /festival/
 title: Festival
 type: page
-header:
-  image: /assets/images/header4.jpg
+# header:
+#   image: /assets/images/header4.jpg
 ---
 
 <!-- ![Logo]({{site.url}}{{site.baseurl}}/assets/images/logo_vermuku.png) -->

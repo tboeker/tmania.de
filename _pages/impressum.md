@@ -2,8 +2,8 @@
 permalink: /impressum/
 title: Impressum
 type: page
-header:
-  image: /assets/images/header4.jpg
+# header:
+#   image: /assets/images/header4.jpg
 ---
 
 <h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
