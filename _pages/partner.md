@@ -15,7 +15,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 [![Interpane](/assets/partner-logos/interpane2.jpg)](http://www.interpane.de/)
 
 <!-- 100 -->
-[![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg)](http://www.interpane.de/)
+[![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg)](https://www.wuerttembergische.de/versicherungen/florian.nutt)
 
 [![Haarbude](/assets/partner-logos/haarbude_web.jpg)](https://haarbude.de/)
 
