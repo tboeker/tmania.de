@@ -9,12 +9,8 @@ header:
 
 ## 5. Juli 2019 + 6. Juli 2019
 
-Der Termin steht... 
+Das Line-Up ist komplett!
 
-Die ersten Bands stehen fest...
+![Flyer 2019 Vorderseite]( {{ '/assets/images/2019-flyer.jpg' | relative_url }} ) {:class="img-responsive"}
 
-Die neue Homepage ist in Arbeit... 
-
-... in Kürze gibt es hier ganz viel Neues ...
-
-... wir freuen uns :musical_note: :beers:
+Mehr in
