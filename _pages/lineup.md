@@ -10,7 +10,7 @@ type: page
 
 | Freitag 05.07.19 | Band |
 |-------|--------|
-| 20:00 - 23:00 | STRAIGHT |
+| 20:00 - 23:00 | STRAIGHT(#STRAIGHT) |
 
 | Samstag 06.07.19 | Band |
 |-------|--------|
@@ -27,15 +27,23 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 -->
 
 # Samstag
-- KAPELLE PETRA
-- BAD NENNDORF BOYS
-- UWE AGAINST THE MACHINE
-- BLACK PALMS
-- SCUNKS
-- SPIT PINK
-- LUCAS RIEGER
+
+## KAPELLE PETRA
+
+## BAD NENNDORF BOYS
+
+## UWE AGAINST THE MACHINE
+
+## BLACK PALMS
+
+## SCUNKS
+
+## SPIT PINK
+
+## LUCAS RIEGER
 
 # Freitag
-- STRAIGHT
+
+## STRAIGHT
 
 
