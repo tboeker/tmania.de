@@ -34,6 +34,14 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ## BAD NENNDORF BOYS
 {: #bnboys }
 
+![BAD NENNDORF BOYS]( {{'/assets/bands-2019/bnboys.jpg'|relative_url}} ){:class="img-responsive"}
+
+Sie veredeln mitreißende Ska-Rythmen mit einer gehörigen Prise Punk-Rock, schreiben ihren Songs melodiöses Herzblut ein und wenn man sie auf die Bühne lässt, kracht es gewaltig. Gestatten? Die Bad Nenndorf Boys.
+
+Seit 2002 musiziert sich die niedersächsische Ska-Punk-Kapelle mit ihren deutschen Texten quer durch die Republik. Ihre energiegeladenen Live-Auftritte sind mittlerweile legendär. Wo einem anderswo die Füße einschlafen, locken die Bad Nenndorf Boys mit ihren charakter-starken Hymnen unfreiwillig zur Ekstase.
+
+Aber nicht nur auf der Bühne haben sich die sechs Musiker einen Namen gemacht. Nach dem Debütalbum „Le Ska c‘est moi“ legten sie mit „Wir lügen nicht“, „Ich will alles“ und „Noch ´ne Runde“ in den vergangenen Jahren drei weitere überzeugende Gesamtkompositionen auf den Plattenteller. Die Jungs ruhen sich aber keineswegs auf ihren Hits aus. Es juckt ihnen in den Fingern, und so halten die Bad Nenndorf Boys immer neue Rock´n´Roll-verliebte Skanummern für die Zukunft bereit.
+
 ## UWE AGAINST THE MACHINE
 {: #uwe }
 
@@ -42,7 +50,9 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 
 ![BLACK PALMS]( {{'/assets/bands-2019/blackpalms.jpg'|relative_url}} ){:class="img-responsive"}
 
-Black Palms ist eine Psychedelic-/Garage Rock Projekt aus Berlin, das von Fabian Peters (Gitarre//Bass/Gesang) gegründet wurde. Zusammen mit Jan Sönnichsen (Gitarre/Gesang) bilden die beiden ein Duo, das die musikalischen Ideen hinter dem Projekt verkörpert und mit teilweise wechselnden Live-Musikern auf die Bühne bringt. Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (Drums). Sowohl sämtliche Instrumentalspuren als auch die Gesänge für die beiden bisher veröffentlichten Singles „9/4“ und „LSD-Cleopatra, haben Black Palms darüber hinaus ausschließlich mit Smartphones aufgenommen und anschließend am Computer für das Mixing & Mastering arrangiert. Die Musik transportiert dabei einen rohen, melodischen Sound und liefert Freiraum für die Instrumente. 
+Black Palms ist eine Psychedelic-/Garage Rock Projekt aus Berlin, das von Fabian Peters (Gitarre//Bass/Gesang) gegründet wurde. Zusammen mit Jan Sönnichsen (Gitarre/Gesang) bilden die beiden ein Duo, das die musikalischen Ideen hinter dem Projekt verkörpert und mit teilweise wechselnden Live-Musikern auf die Bühne bringt. 
+
+Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (Drums). Sowohl sämtliche Instrumentalspuren als auch die Gesänge für die beiden bisher veröffentlichten Singles „9/4“ und „LSD-Cleopatra, haben Black Palms darüber hinaus ausschließlich mit Smartphones aufgenommen und anschließend am Computer für das Mixing & Mastering arrangiert. Die Musik transportiert dabei einen rohen, melodischen Sound und liefert Freiraum für die Instrumente. 
 
 [Facebook](https://www.facebook.com/blackpalmsband)
 [Instagram](https://www.instagram.com/blackllpalms)
