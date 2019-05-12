@@ -64,7 +64,15 @@ Spit Pink sind energiegeladener 77er-Punk mit Einflüssen von Rock'n‘Roll und 
 
 ![LUCAS RIEGER]( {{'/assets/bands-2019/lucasrieger.jpg'|relative_url}} ){:class="img-responsive"}
 
-Ankommen war gestern, denn ein Heimweg endet nie. Und der von Lucas Rieger (mit C) sowieso nicht. Seit einigen Jahren schreibt er deutschsprachige Songs, wo jeder seinen Platz findet, egal ob in oder zwischen den Zeilen. Platz finden diese Songs nicht nur in Kopf und Herz, sondern auch in einigen Radiosendern und auf vielen Bühnen. Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er bundesweit, sowie im deutschsprachigen Ausland tourte und sich die Bühne mit Acts wie Revolverheld oder Bela B. teilte. Auf Platte ein bisschen Pop und Live ein bisschen Punk - so nahm er 2015 im eigenen kleinen Studio die mittlerweile nicht mehr erhältliche EP „Durch jede Wand“ auf. Da der Motor immer weiter und runder läuft gibt es nun neue Auftritte und neue Songs. Und die sind gut. Richtig gut.
+Ankommen war gestern, denn ein Heimweg endet nie. Und der von Lucas Rieger (mit C) sowieso nicht. Seit einigen Jahren schreibt er deutschsprachige Songs, wo jeder seinen Platz findet, egal ob in oder zwischen den Zeilen. Platz finden diese Songs nicht nur in Kopf und Herz, sondern auch in einigen Radiosendern und auf vielen Bühnen. 
+
+Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er bundesweit, sowie im deutschsprachigen Ausland tourte und sich die Bühne mit Acts wie Revolverheld oder Bela B. teilte. 
+
+Auf Platte ein bisschen Pop und Live ein bisschen Punk - so nahm er 2015 im eigenen kleinen Studio die mittlerweile nicht mehr erhältliche EP „Durch jede Wand“ auf. 
+
+Da der Motor immer weiter und runder läuft gibt es nun neue Auftritte und neue Songs. 
+
+Und die sind gut. Richtig gut.
 
 [Facebook](https://www.facebook.com/riegerlucas)
 [Instagram](https://www.instagram.com/lucas_rieger_mit_c)
