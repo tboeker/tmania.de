@@ -10,7 +10,7 @@ type: page
 
 | Freitag 05.07.19 | Band |
 |-------|--------|
-| 20:00 - 23:00 | [STRAIGHT](#STRAIGHT) |
+| 20:00 - 23:00 | STRAIGHT[STRAIGHT](#STRAIGHT) |
 
 | Samstag 06.07.19 | Band |
 |-------|--------|
