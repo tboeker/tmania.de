@@ -40,6 +40,15 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ## BLACK PALMS
 {: #blackpalms }
 
+![BLACK PALMS]( {{'/assets/bands-2019/blackpalms.jpg'|relative_url}} ){:class="img-responsive"}
+
+Black Palms ist eine Psychedelic-/Garage Rock Projekt aus Berlin, das von Fabian Peters (Gitarre//Bass/Gesang) gegründet wurde. Zusammen mit Jan Sönnichsen (Gitarre/Gesang) bilden die beiden ein Duo, das die musikalischen Ideen hinter dem Projekt verkörpert und mit teilweise wechselnden Live-Musikern auf die Bühne bringt. Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (Drums). Sowohl sämtliche Instrumentalspuren als auch die Gesänge für die beiden bisher veröffentlichten Singles „9/4“ und „LSD-Cleopatra, haben Black Palms darüber hinaus ausschließlich mit Smartphones aufgenommen und anschließend am Computer für das Mixing & Mastering arrangiert. Die Musik transportiert dabei einen rohen, melodischen Sound und liefert Freiraum für die Instrumente. 
+
+[Facebook](https://www.facebook.com/blackpalmsband)
+[Instagram](https://www.instagram.com/blackllpalms)
+[YouTube](https://youtu.be/kEs-oYjKp_k)
+[Spotify](https://open.spotify.com/artist/7u6KwmWRrCKIbawNTQqFuw?si=GBjVZqKxTSusVp8qDJk8RA)
+
 ## SCUNKS
 {: #scunks }
 
