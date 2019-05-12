@@ -20,6 +20,11 @@ Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
 
 Es gibt nur Tickets an der Tageskasse. Ein Online Vorverkauf findet nicht statt. Die Gebühren und das Port können wir uns sparen und statt dessen ein Bier mehr trinken. Es kommt jeder rein, versprochen.
 
+## Location
+
+Der ganze Spaß findet auf dem Sportplatz in Dalhausen in der Urentalstraße statt. 
+
+
 ## Essen und Trinken
 
 Wir vom Verein organsieren
