@@ -31,6 +31,23 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ## KAPELLE PETRA
 {: #kapelle }
 
+![KAPELLE PETRA]( {{'/assets/bands-2019/kapellepetra.jpg'|relative_url}} ){:class="img-responsive"}
+
+Den Namen hat wohl inzwischen jeder, der sich auch nur annähernd für Musik interessiert, schon mindestens einmal gehört. Beständiges Touren, Auftritte bei diversen TV-Shows von Joko & Klaas, astreine YouTube-Klick-Millionäre mit ihrem Song "Geburtstag".
+
+Umtriebig und unterhaltsam – nein, tragen wir ruhig etwas dicker auf:  umwerfend. Das trifft es besser.
+
+Bei oberflächlicher Betrachtung der Band drängt sich manchmal der Eindruck auf, sie würden alles nicht ganz so ernst nehmen. Da ist durchaus was dran, aber doch ist man hier meilenweit entfernt von einer reinen Spaß-Truppe. Und das hört man in ihrer Discographie wohl selten so deutlich wie auf dem neuen Album. Sänger Guido textet wie gewohnt auf den Punkt. Er zeigt sich als aufmerksamer Beobachter und begnadeter Erzähler, der es schafft seine Geschichten in gut dreiminütige Popsongs zu packen.
+
+Musikalisch wurde zur neuen Platte an ein paar Stellschrauben gedreht. Um näher an die unangefochtenen Live-Qualitäten der Band anzudocken, wurde das Album in wenigen Tagen komplett gemeinsam und live (sogar teilweise vor geladenem Publikum) aufgenommen. In den Kölner Maarweg Studios fingen Kapelle Petra gemeinsam mit Produzent Tobias Röger dabei die besten Momente ein. Apropos Röger: der vereint wie kein zweiter Punkrock-Attitüde mit astreinem Pop-Appeal, ist der frühere Frontmann der "Wohlstandskinder" nun doch unter anderem für Hits von Udo Lindenberg und Johannes Oerding mitverantwortlich.
+
+Nach einer ausverkauften Jubiläumstour und einigen Sommerfestivals gilt der Fokus der neuen Platte, die im Frühjahr 2019 erscheinen soll und von einer ausgeprägten – von Extratours gebuchten – Tour begleitet wird.
+
+[Homepage](https://www.kapellepetra.de/)
+[Facebook](https://www.facebook.com/KapellePetra/)
+[Instagram](https://www.instagram.com/kapelle_petra/)
+[YouTube](https://www.youtube.com/channel/UChvRAHxXFVj9dnAKK_Su3Tw)
+
 ## BAD NENNDORF BOYS
 {: #bnboys }
 
