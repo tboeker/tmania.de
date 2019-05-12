@@ -116,3 +116,12 @@ Und die sind gut. Richtig gut.
 ## STRAIGHT 
 {: #straight }
 
+![STRAIGHT]( {{'/assets/bands-2019/straight.jpg'|relative_url}} ){:class="img-responsive"}
+
+30 Jahre Banderfahrung prägen die Beverunger Rockformation „Straight“. Neben den altgedienten Musikern der ersten Stunde -Thomas Neu (guitars), Gerherd Gretschel (guitars) und Achim Rickmeier (drums)- wird das line up mit Alexander Stiens (vocals), Hanni Otto (bass) und Ralf Liebelt (keys) vervollständigt. 
+
+Straight steht nach wie vor für dieselbe Gangart: Qualitativ hochwertig gespielter erdiger Rock. Das Fähnchen nach dem jeweiligen Wind der Musikszene zu hängen ist nicht ihr Ding. Das Programm der Band hält die großen Hits der Rockgeschichte genauso bereit, wie einige Raritäten.
+
+Die Jungs beherrschen das Alphabet von AC/DC bis ZZ Top mit echtem Wiedererkennungswert, wobei den Stücken durchaus die ein oder andere „eigene Note“ beigemischt wird. Das mehrstündige Repertoire umfasst Songs von „Thunderstruck“ über „Radar love“ bis hin zu „Highway Star“. Die sechs „Straight“ Musiker heizen dem Rock’n Roll Train instrumental und stimmlich ordentlich ein: „Wir haben uns zum Ziel gemacht, dem Publikum mit sattem Sound gute Rockmusik vor den Latz zu knallen und damit für musikalische Vollbedienung zu sorgen.“
+
+[Homepage](http://www.straight-theband.de)
