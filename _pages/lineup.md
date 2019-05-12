@@ -10,7 +10,7 @@ type: page
 
 | Freitag 05.07.19 | Band |
 |-------|--------|
-| 20:00 - 23:00 | [STRAIGHT](#STRAIGHT) |
+| 20:00 - 23:00 | [STRAIGHT](#straight) |
 
 | Samstag 06.07.19 | Band |
 |-------|--------|
@@ -44,6 +44,6 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 
 # Freitag
 
-## STRAIGHT
+## STRAIGHT {: #straight }
 
 
