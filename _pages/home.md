@@ -11,6 +11,4 @@ header:
 
 Das Line-Up ist komplett!
 
-![Flyer 2019 Vorderseite]( {{ '/assets/images/2019-flyer.jpg' | relative_url }} )('/lineup'){:class="img-responsive"}
-
-Mehr in
+[![Flyer 2019 Vorderseite]( {{'/assets/images/2019-flyer.jpg'|relative_url}} )]('/lineup'){:class="img-responsive"}
