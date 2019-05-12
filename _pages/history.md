@@ -6,15 +6,10 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
-[1 - 2004](/history/2004) 
-[2 - 2005](/history/2005)
-[3 - 2006](/history/2006)
+[2004 - 01](/history/2004) | [2005 - 02](/history/2005) | [2006 - 03](/history/2006)
 
-[4 - 2007](/history/2007)
+[2007 - 04](/history/2007) | [2008 - 05](/history/2008) | [2009 - 06](/history/2009)
 
-[5 - 2008](/history/2008)
-
-[6 - 2009](/history/2009)
 
 [7 - 2010](/history/2010)
 
