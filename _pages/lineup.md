@@ -46,6 +46,10 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ## SPIT PINK
 {: #spitpink }
 
+[![SPIT PINK]( {{'/assets/bands-2019/spitpink.jpg'|relative_url}} )]{:class="img-responsive"}
+
+Spit Pink sind energiegeladener 77er-Punk mit Einflüssen von Rock'n‘Roll und Garage, irgendwo zwischen den Kids und Iggy Pop, als der noch kein Yoga gemacht hat. Schweißtreibend, dreckig, wie das Detroit der 70er. Mit stampfendem Beat und massivem Gitarrensound - ausgefeilt und brachial. Live immer ein Erlebnis. Bring einen Freund mit, du wirst einen brauchen!
+
 ## LUCAS RIEGER
 {: #lucasrieger }
 
