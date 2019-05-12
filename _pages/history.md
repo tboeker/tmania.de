@@ -8,9 +8,9 @@ type: page
 
 ## Es war einmal...
 
-Hier könnt ihr euch einen Überblick über die letzten Festivals verschaffen!!
-Einfach unten auf die einzelnen Jahre klicken.
+[2007](/history/2007)
 
+Hier könnt ihr euch einen Überblick über die letzten Festivals verschaffen!!
 
 Ach so, noch was zum Namen:
 Also, ein Freund von uns hatte nen Fahrradunfall und brach sich das Schlüsselbein. Das sah dann aus wie eine "Titte". Und so war sein Spitzname geboren.
@@ -23,4 +23,3 @@ Also nichts Anstößiges, Obzönes oder Vulgäres!!! ;-)
 
 Gut das wir darüber mal gesprochen haben!!
 
-[2007](/history/2007)
