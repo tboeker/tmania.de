@@ -42,6 +42,11 @@ Seit 2002 musiziert sich die niedersächsische Ska-Punk-Kapelle mit ihren deutsc
 
 Aber nicht nur auf der Bühne haben sich die sechs Musiker einen Namen gemacht. Nach dem Debütalbum „Le Ska c‘est moi“ legten sie mit „Wir lügen nicht“, „Ich will alles“ und „Noch ´ne Runde“ in den vergangenen Jahren drei weitere überzeugende Gesamtkompositionen auf den Plattenteller. Die Jungs ruhen sich aber keineswegs auf ihren Hits aus. Es juckt ihnen in den Fingern, und so halten die Bad Nenndorf Boys immer neue Rock´n´Roll-verliebte Skanummern für die Zukunft bereit.
 
+[Homepage](http://www.bnboys.de/)
+[YouTube](http://www.youtube.com/user/hahu1983)
+[MySpace](http://www.myspace.com/badnenndorfboys)
+[Facebook](https://www.facebook.com/BadNenndorfBoys)
+
 ## UWE AGAINST THE MACHINE
 {: #uwe }
 
