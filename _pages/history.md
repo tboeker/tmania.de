@@ -7,9 +7,7 @@ type: page
 ---
 
 [1 - 2004](/history/2004) 
-
 [2 - 2005](/history/2005)
-
 [3 - 2006](/history/2006)
 
 [4 - 2007](/history/2007)
