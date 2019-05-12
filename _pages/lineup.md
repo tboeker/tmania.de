@@ -44,6 +44,6 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 
 # Freitag
 
-## STRAIGHT {: #straight }
-
+## STRAIGHT 
+{: #straight }
 
