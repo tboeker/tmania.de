@@ -84,6 +84,15 @@ Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (
 ## SCUNKS
 {: #scunks }
 
+![SPIT PINK]( {{'/assets/bands-2019/scunks.jpg'|relative_url}} ){:class="img-responsive"}
+
+Erfolg ist ja immer relativ: Für die einen ist es ein Erfolg, in die heute unbedeutenden Charts zu kommen, für die anderen schon, morgens überhaupt aufzustehen. Für die SCUNKS ist es Erfolg, nach über 16 Jahren Bandgeschichte immer noch in Originalbesetzung zu spielen und sich dabei zwar langsam, aber kontinuierlich weiter zu entwickeln. „Der stete Tropfen höhlt den Stein“, weiß Bandorakel Hippe und blickt dabei bedeutungsschwanger in die Ferne. Einige der Songs, die den Typen von Chefdenker an eine „Mischung aus Kettcar, Muff Potter und Pascow“ erinnert haben, sind in der SCUNKS-Heimat um Paderborn fast schon kleine Szenehits. 
+
+Mit ihrer unaufgeregten Art erobern die vier Schulfreunde (Realschulabschluss 2003) eh jedes Publikum. Das konnten sie auf vielen größeren Bühnen (AStA-Sommerfestival 2017, Support für Knorkator [warum auch immer], Drittel Wahl, Sondaschule, und immer und immer wieder T-Mania.) beweisen, aber auch immer wieder in Kneipen und bei ausverkauften Heimspielen rund um Warburg. „Unsere treue Anhängerschaft hat schon so manche marode Wirtschaft durch den Kauf von Bier gesundgesoffen“, orakelt Hippe weiter und mahnt gleichsam, die Getränkepreise im Rahmen zu halten: „Sonst drohen Unruhen!“
+
+[Homepage](www.scunks.de)
+
+
 ## SPIT PINK
 {: #spitpink }
 
