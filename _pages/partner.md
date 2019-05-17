@@ -9,6 +9,8 @@ type: page
 
 Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
+<!-- Stand: 13.05.2019 -->
+
 <!-- [![alt text](image link)](web link) -->
 
 <!-- 200 -->
