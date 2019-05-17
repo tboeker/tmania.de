@@ -68,6 +68,8 @@ Aber nicht nur auf der Bühne haben sich die sechs Musiker einen Namen gemacht. 
 {: #uwe }
 
 Ausnahmekünstler „Uwe“ hat extra für die T-Mania Familie eine Rock-Show mit Coversongs aus den 90ern gezaubert. Er kommt aus dem Ruhrpott angereist, mit einer Auswahl an exzellenten Musikern aus dem Paderborner Raum. Mit „uwe against the machine“ spielen Musiker, die seit Jahrzehnten auf den Bühnen der Hardcore-, Punk-, Rock- und Metalszene ihr Unwesen treiben. Weit über 1.000 Konzerte in Deutschland und Europa haben sie gespielt und kommen nun endlich nach Dalhausen! Die Musiker haben nicht nur internationale Bühnenerfahrung, man munkelt sie seien auch aus Funk und Fernsehen bekannt - im Zusammenhang mit verschiedenen Gesetzeskonflikten. 
+
+
 Ein besonderes Highlight: Uwe konnte die aus Dalhausen stammende Sängerin Stefanie für die Bühne gewinnen. 
 Beim Show-Programm wird für jeden etwas dabei sein, sodass alle Anwesenden mindestens bei einem Lied komplett durchdrehen können! Also, vorab bitte ausreichend Flüssigkeiten einnehmen!
 
