@@ -57,7 +57,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg)](https://www.kuehlert.de/)
 
-![SIBA Bauunternehmen](/assets/partner-logos/siba_web.jpg)
+![SIBA Bauunternehmen](/assets/partner-logos/siba_web.png)
 
 <!-- 50 -->
 ![Heinrich Nolte GmbH & Co. KG](/assets/partner-logos/nolte_bau.jpg)
@@ -72,7 +72,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg)
 
-
 <!-- Sonstige -->
 ![Gasthaus Groll](/assets/partner-logos/groll.png)
 
@@ -83,7 +82,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 [![wildwechsel](/assets/partner-logos/ww_web.jpg](https://www.wildwechsel.de/)
 
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg](http://www.schlossbrauerei-rheder.de/)
-
 
 
 ## Downloads
