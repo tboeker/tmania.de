@@ -64,7 +64,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![BQ Rohrsysteme](/assets/partner-logos/bq.jpg)
 
-![Bröker und Nolte](/assets/partner-logos/broeker-nolte-png)
+![Bröker und Nolte](/assets/partner-logos/broeker-nolte.png)
 
 [Fleischerei Ernst](https://www.dasoertliche.de/Themen/Ernst-Thomas-Fleischerei-Beverungen-Dalhausen-Untere-Hauptstr)
 
