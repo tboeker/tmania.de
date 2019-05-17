@@ -25,7 +25,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![KW-Engineering](/assets/partner-logos/kw-web.png)](https://www.kwcg.de)
 
-[![EDEKA Falke](/assets/partner-logos/falke.png)](https://www.kwcg.dehttps://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
+[![EDEKA Falke](/assets/partner-logos/falke.png)](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
 <!-- 100 -->
 
@@ -35,11 +35,11 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Haarbude](/assets/partner-logos/haarbude_web.jpg)](https://haarbude.de)
 
-[![Scheideler Schlosserei & Metallbau](/assets/partner-logos/scheideler-schlosserei.jpg)](https://www.marien-apotheke-dalhausen.de)
+![Scheideler Schlosserei & Metallbau](/assets/partner-logos/scheideler-schlosserei.jpg)
 
 [![Marien Apotheke Dalhausen](/assets/partner-logos/apotheke.jpg)](https://www.marien-apotheke-dalhausen.de)
 
-[![Meschede Heizsparfreund GmbH](/assets/partner-logos/meschede.jpg)](https://https://www.meschede-haustechnik.de)
+[![Meschede Heizsparfreund GmbH](/assets/partner-logos/meschede.jpg)](https://www.meschede-haustechnik.de)
 
 [![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg)](https://www.zahnarzt-ziegler.de)
 
@@ -85,7 +85,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg)](http://www.schlossbrauerei-rheder.de/)
 
-2 
 ## Downloads
 - [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2019.pdf' | relative_url }} )
 
