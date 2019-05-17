@@ -68,7 +68,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [Fleischerei Ernst](https://www.dasoertliche.de/Themen/Ernst-Thomas-Fleischerei-Beverungen-Dalhausen-Untere-Hauptstr)
 
-![Verbund Volksbank OWL](/assets/partner-logos/teamdecker-logo-web.png)
+![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg)
 
 ![Gasthaus Groll](/assets/partner-logos/groll.png)
 
