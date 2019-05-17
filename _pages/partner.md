@@ -23,7 +23,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![KW-Engineering](/assets/partner-logos/kw-web.png)](https://www.kwcg.de)
 
-
+[![EDEKA Falke](/assets/partner-logos/falke.png)](https://www.kwcg.dehttps://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
 <!-- 100 -->
 
@@ -72,7 +72,19 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg)
 
+
+<!-- Sonstige -->
 ![Gasthaus Groll](/assets/partner-logos/groll.png)
+
+[![Turnverein Dalhausen](/assets/partner-logos/tvd.jpg)](http://tv-dalhausen.de)
+
+[![Sportverein Dalhausen](/assets/partner-logos/svd.png)](https://www.sv-dalhausen.de/)
+
+[![wildwechsel](/assets/partner-logos/ww_web.jpg](https://www.wildwechsel.de/)
+
+[![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg](http://www.schlossbrauerei-rheder.de/)
+
+
 
 ## Downloads
 - [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2019.pdf' | relative_url }} )
