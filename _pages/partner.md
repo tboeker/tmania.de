@@ -51,13 +51,13 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Tischlerei Pape](/assets/partner-logos/pape_web.png)](http://www.tischlerei-pape.com)
 
-[Forstunternehmen Nübel](/assets/partner-logos/forst-nuebel.jpg)]
+[Forstunternehmen Nübel](/assets/partner-logos/forst-nuebel.jpg)
 
 [![Conzedruck](/assets/partner-logos/conzedruck_web.png)](https://www.conzedruck.de)
 
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg)](https://www.kuehlert.de/)
 
-[SIBA Bauunternehmen](/assets/partner-logos/siba_web.jpg)]
+[SIBA Bauunternehmen](/assets/partner-logos/siba_web.jpg)
 
 <!-- 50 -->
 ![Heinrich Nolte GmbH & Co. KG](/assets/partner-logos/nolte_bau.jpg)
