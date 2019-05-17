@@ -17,7 +17,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://www.decker.de)
 
-[![HEGLA](/assets/partner-logos/hegla.png)](hegla.de)
+[![HEGLA](/assets/partner-logos/hegla.png)](http://www.hegla.de)
 
 [![Interpane](/assets/partner-logos/interpane2.jpg)](http://www.interpane.de)
 
@@ -47,11 +47,13 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [Schlüsseldienst Kottwitz](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
 
-[![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg)](elektro-hartmann.de)
+[![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg)](http://www.elektro-hartmann.de)
 
-[![Tischlerei Pape](/assets/partner-logos/pape_web.jpg)](tischlerei-pape.com)
+[![Tischlerei Pape](/assets/partner-logos/pape_web.jpg)](http://www.tischlerei-pape.com)
 
 [Forstunternehmen Nübel](/assets/partner-logos/forst-nuebel.jpg)]
+
+[![Conzedruck](/assets/partner-logos/conzedruck_web.png)](https://www.conzedruck.de)
 
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg)](https://www.kuehlert.de/)
 
