@@ -77,17 +77,15 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 <!-- Sonstige -->
 ![Gasthaus Groll](/assets/partner-logos/groll.png)
 
-1
-
 [![Turnverein Dalhausen](/assets/partner-logos/tvd.jpg)](http://tv-dalhausen.de)
 
 [![Sportverein Dalhausen](/assets/partner-logos/svd.png)](https://www.sv-dalhausen.de/)
 
-[![wildwechsel](/assets/partner-logos/ww_web.jpg](https://www.wildwechsel.de/)
+[![wildwechsel](/assets/partner-logos/ww_web.jpg)](https://www.wildwechsel.de/)
 
-[![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg](http://www.schlossbrauerei-rheder.de/)
+[![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg)](http://www.schlossbrauerei-rheder.de/)
 
-
+2 
 ## Downloads
 - [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2019.pdf' | relative_url }} )
 
