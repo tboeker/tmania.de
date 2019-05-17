@@ -77,6 +77,8 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 <!-- Sonstige -->
 ![Gasthaus Groll](/assets/partner-logos/groll.png)
 
+1
+
 [![Turnverein Dalhausen](/assets/partner-logos/tvd.jpg)](http://tv-dalhausen.de)
 
 [![Sportverein Dalhausen](/assets/partner-logos/svd.png)](https://www.sv-dalhausen.de/)
