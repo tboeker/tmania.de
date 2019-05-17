@@ -43,13 +43,13 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Software Pioniere GmbH und Co. KG](/assets/partner-logos/softwarepioniere.jpg)](https://softwarepioniere.de)
 
-[![Autohaus Bodach](/assets/partner-logos/bodach_web.jpg)](https://www.ford-bodach-borgentreich.de)
+[![Autohaus Bodach](/assets/partner-logos/bodach-web.jpg)](https://www.ford-bodach-borgentreich.de)
 
 [Schlüsseldienst Kottwitz](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
 
 [![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg)](http://www.elektro-hartmann.de)
 
-[![Tischlerei Pape](/assets/partner-logos/pape_web.jpg)](http://www.tischlerei-pape.com)
+[![Tischlerei Pape](/assets/partner-logos/pape_web.png)](http://www.tischlerei-pape.com)
 
 [Forstunternehmen Nübel](/assets/partner-logos/forst-nuebel.jpg)]
 
