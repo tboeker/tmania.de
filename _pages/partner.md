@@ -27,6 +27,8 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![EDEKA Falke](/assets/partner-logos/falke.png)](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
+[![SCHEIDELER GmbH & Co. KG](/assets/partner-logos/scheideler-stanz.png)](https://scheideler-gmbh.de/)
+
 <!-- 100 -->
 
 [![BeSte Stadtwerke](/assets/partner-logos/beste.jpg)](https://www.beste-stadtwerke.de)
@@ -47,7 +49,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Autohaus Bodach](/assets/partner-logos/bodach-web.jpg)](https://www.ford-bodach-borgentreich.de)
 
-[Schlüsseldienst Kottwitz](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
+[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png)](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
 
 [![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg)](http://www.elektro-hartmann.de)
 

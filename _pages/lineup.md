@@ -14,13 +14,13 @@ type: page
 
 | Samstag 06.07.19 | Band |
 |-------|--------|
-| 14:00 -  | [LUCAS RIEGER](#lucasrieger) |
-| - | [SPIT PINK](#spitpink) |
-| - | [SCUNKS](#scunks) |
-| - | [BLACK PALMS](#blackpalms) |
-| - | [UWE AGAINST THE MACHINE](#uwe) |
-| - | [KAPELLE PETRA](#kapelle) |
-| - 23:30 | [BAD NENNDORF BOYS](#bnboys) |
+| 14:00 - 14:30 | [LUCAS RIEGER](#lucasrieger) |
+| 14:50 - 15:20 | [SPIT PINK](#spitpink) |
+| 15:50 - 16:30 | [SCUNKS](#scunks) |
+| 17:00 - 17:50 | [BLACK PALMS](#blackpalms) |
+| 18:20 - 19:30 | [UWE AGAINST THE MACHINE](#uwe) |
+| 20:00 - 21:30 | [KAPELLE PETRA](#kapelle) |
+| 22:00 - 23:30 | [BAD NENNDORF BOYS](#bnboys) |
 
 <!--
 Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )

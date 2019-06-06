@@ -12,3 +12,5 @@ permalink: /
 Das Line-Up ist komplett!
 
 [![Flyer 2019 Vorderseite]( {{'/assets/images/2019-flyer.jpg'|relative_url}} )](/lineup){:class="img-responsive"}
+
+[![Flyer 2019 Rückseite]( {{'/assets/images/2019-flyer-2.jpg'|relative_url}} )](/partner){:class="img-responsive"}
