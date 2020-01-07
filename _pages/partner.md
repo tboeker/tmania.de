@@ -88,5 +88,5 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg)](http://www.schlossbrauerei-rheder.de/)
 
 ## Downloads
-- [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2019.pdf' | relative_url }} )
+- [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag2020.pdf' | relative_url }} )
 
