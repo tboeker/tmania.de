@@ -15,15 +15,15 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 <!-- 200 -->
 
-[![Bauer & Humburg Bauelemente](/assets/partner-logos/bundh.png)](https://www.b-h-bauelemente.de)
+[![Bauer & Humburg Bauelemente](/assets/partner-logos/bundh.png)](https://b-h-bauelemente.de)
 
-[![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://www.decker.de)
+[![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://decker.de)
 
-[![HEGLA](/assets/partner-logos/hegla.png)](https://www.hegla.com/)
+[![HEGLA](/assets/partner-logos/hegla.png)](https://hegla.com/)
 
-[![Interpane](/assets/partner-logos/interpane2.jpg)](https://www.interpane.com/)
+[![Interpane](/assets/partner-logos/interpane2.jpg)](https://interpane.com)
 
-[![KW-Engineering](/assets/partner-logos/kw-web.png)](https://www.kwcg.de)
+[![KW-Engineering](/assets/partner-logos/kw-web.png)](https://kwcg.de)
 
 [![EDEKA Falke](/assets/partner-logos/falke.png)](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
@@ -31,7 +31,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 <!-- 100 -->
 
-[![BeSte Stadtwerke](/assets/partner-logos/beste.jpg)](https://www.beste-stadtwerke.de)
+[![BeSte Stadtwerke](/assets/partner-logos/beste.jpg)](https://beste-stadtwerke.de)
 
 [![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg)](https://www.wuerttembergische.de/versicherungen/florian.nutt)
 
