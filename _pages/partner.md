@@ -19,9 +19,9 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://www.decker.de)
 
-[![HEGLA](/assets/partner-logos/hegla.png)](http://www.hegla.de)
+[![HEGLA](/assets/partner-logos/hegla.png)](https://www.hegla.com/)
 
-[![Interpane](/assets/partner-logos/interpane2.jpg)](http://www.interpane.de)
+[![Interpane](/assets/partner-logos/interpane2.jpg)](https://www.interpane.com/)
 
 [![KW-Engineering](/assets/partner-logos/kw-web.png)](https://www.kwcg.de)
 
