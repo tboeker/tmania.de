@@ -14,9 +14,9 @@ type: page
 ## Eintrittspreise und Tickets
 
 Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
-- Freitag: 8 €
-- Samstag: 12 €
-- Kombiticket: 15 €
+- Freitag: 15€
+- Samstag: 15 €
+- Kombiticket: 20 €
 
 Es gibt nur Tickets an der Tageskasse. Ein Online Vorverkauf findet nicht statt. Die Gebühren und das Port können wir uns sparen und statt dessen ein Bier mehr trinken. Es kommt jeder rein, versprochen.
 

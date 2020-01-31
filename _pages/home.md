@@ -5,12 +5,10 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-# 16. T-Mania Open-Air Festival
+# 17. T-Mania Open-Air Festival
 
-## 5. Juli 2019 + 6. Juli 2019
+## 26. Juni 2020 + 27. Juni 2020
 
-Das Line-Up ist komplett!
 
-[![Flyer 2019 Vorderseite]( {{'/assets/images/2019-flyer.jpg'|relative_url}} )](/lineup){:class="img-responsive"}
+Das Line-Up ist komplett! Wir aber noch nicht verraten!
 
-[![Flyer 2019 Rückseite]( {{'/assets/images/2019-flyer-2.jpg'|relative_url}} )](/partner){:class="img-responsive"}
