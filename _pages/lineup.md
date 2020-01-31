@@ -10,10 +10,21 @@ type: page
 
 | Freitag 26.06.20 | Band |
 |-------|--------|
-<!-- | 20:00 - 23:00 | [STRAIGHT](#straight) | -->
+| ... | ... |
 
 | Samstag 27.06.20 | Band |
 |-------|--------|
+| ... | ... |
+
+<!--
+Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )
+
+-->
+
+
+<!-- | 20:00 - 23:00 | [STRAIGHT](#straight) | -->
+
+
 <!-- | 14:30 - 15:15 | [LUCAS RIEGER](#lucasrieger) |
 | 15:35 - 16:05 | [SCUNKS](#scunks) |
 | 16:25 - 16:55 | [SPIT PINK](#spitpink) |
@@ -22,10 +33,6 @@ type: page
 | 20:20 - 21:50 | [KAPELLE PETRA](#kapelle) |
 | 22:30 - 23:30 | [BAD NENNDORF BOYS](#bnboys) | -->
 
-<!--
-Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )
-
--->
 
 # Freitag
 
