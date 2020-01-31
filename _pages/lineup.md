@@ -8,13 +8,21 @@ type: page
 
 ## Spielplan
 
-| Freitag 26.06.20 | Band |
+| Freitag 26.06.2020 | Band |
 |-------|--------|
+| ... | ... |
 | ... | ... |
 
-| Samstag 27.06.20 | Band |
+| Samstag 27.06.2020 | Band |
 |-------|--------|
 | ... | ... |
+| ... | ... |
+| ... | ... |
+| ... | ... |
+| ... | ... |
+| ... | ... |
+| ... | ... |
+
 
 <!--
 Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )
