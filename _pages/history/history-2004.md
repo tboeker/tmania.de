@@ -1,6 +1,6 @@
 ---
 permalink: /history/2004
-title: T-Mania 1
+title: T-Mania 1 - 2004
 type: page
 ---
 

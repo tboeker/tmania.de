@@ -1,6 +1,6 @@
 ---
 permalink: /history/2012
-title: T-Mania 9
+title: T-Mania 9 - 2012
 type: page
 ---
 

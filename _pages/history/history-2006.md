@@ -1,6 +1,6 @@
 ---
 permalink: /history/2006
-title: T-Mania 3
+title: T-Mania 3 - 2006
 type: page
 ---
 

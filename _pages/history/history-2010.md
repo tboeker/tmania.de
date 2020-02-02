@@ -1,6 +1,6 @@
 ---
 permalink: /history/2010
-title: T-Mania 7
+title: T-Mania 7 - 2010
 type: page
 ---
 

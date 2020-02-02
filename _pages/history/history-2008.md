@@ -1,6 +1,6 @@
 ---
 permalink: /history/2008
-title: T-Mania 5
+title: T-Mania 5 - 2008
 type: page
 ---
 
