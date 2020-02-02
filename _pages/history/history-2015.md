@@ -1,6 +1,6 @@
 ---
 permalink: /history/2015
-title: T-Mania 12
+title: T-Mania 12 - 2015
 type: page
 ---
 

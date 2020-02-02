@@ -1,6 +1,6 @@
 ---
 permalink: /history/2016
-title: T-Mania 13
+title: T-Mania 13 - 2016
 type: page
 ---
 

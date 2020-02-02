@@ -1,6 +1,6 @@
 ---
 permalink: /history/2017
-title: T-Mania 14
+title: T-Mania 14 - 2017
 type: page
 ---
 
