@@ -13,6 +13,8 @@ type: page
 
 ## Six Nation
 
+![Six Nation]( {{'/assets/2010/sixnation.jpg'|relative_url}} ){:class="img-responsive"}
+
 Acht Musiker aus sechs Nationen Argentinien, Deutschland, Italien, Kosovo, Polen und Tansania/Sansibar!
 
 Six Nation entstand Anfang des Jahres 2006 aus diversen Bandprojekten/Vorläuferprojekten von Frontmann Pachango und Moe „Basshead“, welche seit 2002 zusammenarbeiten. Mittlerweile zählt die Band acht Mitglieder, alles leidenschaftliche Musiker, die sich vorgenommen haben, den Reggae mit Elementen des Ska und lateinamerikanischen Rhythmen aufzumischen. Während ihres relativ kurzen Bestehens war die Band dank ihrer hervorragenden Live-Qualitäten bereits bei zahlreichen Auftritten erfolgreich.
@@ -20,6 +22,8 @@ Six Nation entstand Anfang des Jahres 2006 aus diversen Bandprojekten/Vorläufer
 # Samstag 
 
 ## Dritte Wahl
+
+![Dritte Wahl]( {{'/assets/2010/drittewahl.jpg'|relative_url}} ){:class="img-responsive"}
 
 Die Geschichte von DRITTE WAHL
  
