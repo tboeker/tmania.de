@@ -18,7 +18,6 @@ type: page
 
 Die Rollin‘ Racketeers liefern dreckigen Rock n Roll mit klassischer Note. Seit 2007 schrauben die Jungs mit ihren Werkzeugen (Kontrabass, Drums, Gitarre, Sax, Waschbrett, Harp und Vocals) an dem Motor der die Band antreibt. Bei ihren zahlreichen Tankstops auf dem Weg durch die Republik trafen die Jungs auf Bands wie Al and the Black Cats, The Adicts, The Long Tall Texans, Bob Wayne and the outlaw carnies und Mr. Irish Bastard.
 
-
 ## Lucas Rieger
 
 ![lucasrieger]( {{'/assets/images/2015/lucasrieger.jpg'|relative_url}} ){:class="img-responsive"}
