@@ -9,4 +9,4 @@ sort_by: date
 sort_order: reverse
 ---
 
-Hier findest Die aktuellen Neuigkeiten
+Hier findest die aktuellen Neuigkeiten
