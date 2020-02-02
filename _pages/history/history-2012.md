@@ -10,6 +10,30 @@ type: page
 
 ![2012]( {{ '/assets/images/2012-plakat.jpg' | relative_url }} )
 
+# Freitag
+
+## Rocco Recycle
+
+![rocco]( {{'/assets/images/2012/rocco.jpg'|relative_url}} ){:class="img-responsive"}
+
+ROCCO RECYCLE spielt Gitarre, Schlagzeug und singt gleichzeitig.
+Kennst Du schon? ...Falsch!
+Alle Instrumente sind vom Meister aus Schrott selbst erschaffen. Bevorzugte Materialien sind Kanister, Auspuffe, Mülltonnen, Wasserrohre etc.
+ROCCO RECYCLE recycelt nicht nur Schrott sondern auch Musik. So reicht sein Repertoire von Rock, Blues, Pop, bis hin zu Reggae und Country. Eigenkompositionen und unerwartete Cover garantieren einen Abend mit höchstem Unterhaltungswert.
+
+## Stage Band
+
+![stageband]( {{'/assets/images/2012/stageband.jpg'|relative_url}} ){:class="img-responsive"}
+
+Die Stage-Band steht für Musik aus den 60er, 70er und den frühen 80er Jahren. Bekannt seit mehr als 40 Jahren trat ursprünglich unter dem Namen "Teleus" in klassischer 3-Mann-Besetzung auf.
+Von Anfang an dabei ist der Geseker Uli Vassmer und bildet mit seinem unverkennbaren Gitarrensound das Rückrad der Band. Ebenfalls ein Urgestein der Band, seit nunmehr 20 Jahren dabei, ist der Natzunger Keyboarder und Gitarrist Michael Suermann. Seine Ausstrahlung spiegelt sich in der Interpretation und im Arrangement der Stücke.
+In der weiteren Besetzung sind am Schlagzeug Klaus Böckmann, Peter Conze am Bass sowie Alexander Stiens, bekannt von den Bands Scream und Straight, der jetzt für noch mehr Stimme, noch mehr Vielfalt und rockige Gesangseinlagen sorgt.
+Stage-Band versetzt sein Publikum zurück in die Zeit der 60er, 70er und bis hinein in die 80er Jahre; so mit Flower-Power, Beat und allem, was dazu gehört. Das Repertoire geht von gefühlsbetont bis rockig, von leisen Streichern und Organsounds bis zu fetzigen Gitarrensolos.
+Freuen Sie sich auf Songs der Beatles, Troggs, Mamas and Papas, Manfred Mann's Earth Band, Slade, Mike Oldfield, Shadows, John Denver, Monkees, Kings, CCR, Dire Straits, Rolling Stones, Fleetwood Mac, AC/DC und vieler anderer bekannter Interpreten. Partyspaß ist garantiert - für ältere Jüngere und junggebliebene Ältere.
+Geselligkeit bei Musik, die man einfach mögen muss - dass ist das Motto von Stage Band.
+
+# Samstag
+
 ## Montreal
 
 ![montreal]( {{'/assets/images/2012/montreal.jpg'|relative_url}} ){:class="img-responsive"}
@@ -27,15 +51,6 @@ Als sich das Krokodil, durch die quälende Einöde der syrische Hammada zwang,
 Bandmitglieder:
 Hendrik Gossmann, Markus Hartung, Mike Gaußmann, Tim Krieger,
 André Borkowski
-
-## Rocco Recycle
-
-![rocco]( {{'/assets/images/2012/rocco.jpg'|relative_url}} ){:class="img-responsive"}
-
-ROCCO RECYCLE spielt Gitarre, Schlagzeug und singt gleichzeitig.
-Kennst Du schon? ...Falsch!
-Alle Instrumente sind vom Meister aus Schrott selbst erschaffen. Bevorzugte Materialien sind Kanister, Auspuffe, Mülltonnen, Wasserrohre etc.
-ROCCO RECYCLE recycelt nicht nur Schrott sondern auch Musik. So reicht sein Repertoire von Rock, Blues, Pop, bis hin zu Reggae und Country. Eigenkompositionen und unerwartete Cover garantieren einen Abend mit höchstem Unterhaltungswert.
 
 ## Die Dukes of Mist
 
@@ -62,17 +77,6 @@ Dennis Weichinger – Lead Guitar
 Johannes Damjantschitsch – Drums / Percussion
 Lukas Schätzl – Drums / Percussion
 Lukas Preiß – Bass
-
-## Stage Band
-
-![stageband]( {{'/assets/images/2012/stageband.jpg'|relative_url}} ){:class="img-responsive"}
-
-Die Stage-Band steht für Musik aus den 60er, 70er und den frühen 80er Jahren. Bekannt seit mehr als 40 Jahren trat ursprünglich unter dem Namen "Teleus" in klassischer 3-Mann-Besetzung auf.
-Von Anfang an dabei ist der Geseker Uli Vassmer und bildet mit seinem unverkennbaren Gitarrensound das Rückrad der Band. Ebenfalls ein Urgestein der Band, seit nunmehr 20 Jahren dabei, ist der Natzunger Keyboarder und Gitarrist Michael Suermann. Seine Ausstrahlung spiegelt sich in der Interpretation und im Arrangement der Stücke.
-In der weiteren Besetzung sind am Schlagzeug Klaus Böckmann, Peter Conze am Bass sowie Alexander Stiens, bekannt von den Bands Scream und Straight, der jetzt für noch mehr Stimme, noch mehr Vielfalt und rockige Gesangseinlagen sorgt.
-Stage-Band versetzt sein Publikum zurück in die Zeit der 60er, 70er und bis hinein in die 80er Jahre; so mit Flower-Power, Beat und allem, was dazu gehört. Das Repertoire geht von gefühlsbetont bis rockig, von leisen Streichern und Organsounds bis zu fetzigen Gitarrensolos.
-Freuen Sie sich auf Songs der Beatles, Troggs, Mamas and Papas, Manfred Mann's Earth Band, Slade, Mike Oldfield, Shadows, John Denver, Monkees, Kings, CCR, Dire Straits, Rolling Stones, Fleetwood Mac, AC/DC und vieler anderer bekannter Interpreten. Partyspaß ist garantiert - für ältere Jüngere und junggebliebene Ältere.
-Geselligkeit bei Musik, die man einfach mögen muss - dass ist das Motto von Stage Band.
 
 ## Pari Pari
 
