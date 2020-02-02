@@ -39,7 +39,7 @@ Für das Jahr 2006 ist eine Live-DVD und eine LP/CD mit mehreren Singles, die zu
 
 ## Dreadnut INC.
 
-![Dreadnut INC]( {{'/assets/2010/dreadnut.jpg'|relative_url}} ){:class="img-responsive"}
+![Dreadnut INC]( {{'/assets/2010/dreadnut.png'|relative_url}} ){:class="img-responsive"}
 
 Neben nem dicken Beat und fetten Bläsern liefern Dreadnut Inc. vor allem eine unglaubliche Spielfreude und Überzeugungskraft.
 
