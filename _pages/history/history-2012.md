@@ -6,7 +6,9 @@ type: page
 
 [2011](/history/2011) -- [2013](/history/2013)
 
-<!-- ![2012]( {{ '/assets/images/2007-plakat.jpg' | relative_url }} ) -->
+# 6. und 7. Juli 2012
+
+![2012]( {{ '/assets/images/2012-plakat.jpg' | relative_url }} )
 
 ## Montreal
 
