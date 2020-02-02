@@ -10,5 +10,5 @@ permalink: /
 ## 26. Juni 2020 + 27. Juni 2020
 
 
-Das Line-Up ist komplett! Wir aber noch nicht verraten!
+Das Line-Up ist komplett! Wird aber noch nicht verraten!
 
