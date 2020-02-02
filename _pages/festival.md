@@ -18,6 +18,7 @@ Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
 - Samstag: 15 €
 - Kombiticket: 20 €
 
+Auch wenn es auf jeden Fall genügend Tageskasse gibt, hier ein Link zu unserem Ticket-Partner zum Vorverkauf:
 
 <a href='https://www.ticketino.com/de/Event/T-Mania-Open-Air-Festival/95589'><img src="http://cockpitv2.ticketino.com/imagesnew/de/button_kaufen_02.png" alt="Tickets bei TICKETINO" border="0"/> </a>
 
