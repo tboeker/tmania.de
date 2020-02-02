@@ -17,7 +17,7 @@ type: page
 ## KAPELLE PETRA
 {: #kapelle }
 
-![KAPELLE PETRA]( {{'/assets/2019/kapellepetra.jpg'|relative_url}} ){:class="img-responsive"}
+![KAPELLE PETRA]( {{'/assets/images/2019/kapellepetra.jpg'|relative_url}} ){:class="img-responsive"}
 
 Den Namen hat wohl inzwischen jeder, der sich auch nur annähernd für Musik interessiert, schon mindestens einmal gehört. Beständiges Touren, Auftritte bei diversen TV-Shows von Joko & Klaas, astreine YouTube-Klick-Millionäre mit ihrem Song "Geburtstag".
 
@@ -37,7 +37,7 @@ Nach einer ausverkauften Jubiläumstour und einigen Sommerfestivals gilt der Fok
 ## BAD NENNDORF BOYS
 {: #bnboys }
 
-![BAD NENNDORF BOYS]( {{'/assets/2019/bnboys.jpg'|relative_url}} ){:class="img-responsive"}
+![BAD NENNDORF BOYS]( {{'/assets/images/2019/bnboys.jpg'|relative_url}} ){:class="img-responsive"}
 
 Sie veredeln mitreißende Ska-Rythmen mit einer gehörigen Prise Punk-Rock, schreiben ihren Songs melodiöses Herzblut ein und wenn man sie auf die Bühne lässt, kracht es gewaltig. Gestatten? Die Bad Nenndorf Boys.
 
@@ -62,7 +62,7 @@ Beim Show-Programm wird für jeden etwas dabei sein, sodass alle Anwesenden mind
 ## BLACK PALMS
 {: #blackpalms }
 
-![BLACK PALMS]( {{'/assets/2019/blackpalms.jpg'|relative_url}} ){:class="img-responsive"}
+![BLACK PALMS]( {{'/assets/images/2019/blackpalms.jpg'|relative_url}} ){:class="img-responsive"}
 
 Black Palms ist eine Psychedelic-/Garage Rock Projekt aus Berlin, das von Fabian Peters (Gitarre//Bass/Gesang) gegründet wurde. Zusammen mit Jan Sönnichsen (Gitarre/Gesang) bilden die beiden ein Duo, das die musikalischen Ideen hinter dem Projekt verkörpert und mit teilweise wechselnden Live-Musikern auf die Bühne bringt. 
 
@@ -76,7 +76,7 @@ Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (
 ## SCUNKS
 {: #scunks }
 
-![SPIT PINK]( {{'/assets/2019/scunks.jpg'|relative_url}} ){:class="img-responsive"}
+![SPIT PINK]( {{'/assets/images/2019/scunks.jpg'|relative_url}} ){:class="img-responsive"}
 
 Erfolg ist ja immer relativ: Für die einen ist es ein Erfolg, in die heute unbedeutenden Charts zu kommen, für die anderen schon, morgens überhaupt aufzustehen. Für die SCUNKS ist es Erfolg, nach über 16 Jahren Bandgeschichte immer noch in Originalbesetzung zu spielen und sich dabei zwar langsam, aber kontinuierlich weiter zu entwickeln. „Der stete Tropfen höhlt den Stein“, weiß Bandorakel Hippe und blickt dabei bedeutungsschwanger in die Ferne. Einige der Songs, die den Typen von Chefdenker an eine „Mischung aus Kettcar, Muff Potter und Pascow“ erinnert haben, sind in der SCUNKS-Heimat um Paderborn fast schon kleine Szenehits. 
 
@@ -88,14 +88,14 @@ Mit ihrer unaufgeregten Art erobern die vier Schulfreunde (Realschulabschluss 20
 ## SPIT PINK
 {: #spitpink }
 
-![SPIT PINK]( {{'/assets/2019/spitpink.jpg'|relative_url}} ){:class="img-responsive"}
+![SPIT PINK]( {{'/assets/images/2019/spitpink.jpg'|relative_url}} ){:class="img-responsive"}
 
 Spit Pink sind energiegeladener 77er-Punk mit Einflüssen von Rock'n‘Roll und Garage, irgendwo zwischen den Kids und Iggy Pop, als der noch kein Yoga gemacht hat. Schweißtreibend, dreckig, wie das Detroit der 70er. Mit stampfendem Beat und massivem Gitarrensound - ausgefeilt und brachial. Live immer ein Erlebnis. Bring einen Freund mit, du wirst einen brauchen!
 
 ## LUCAS RIEGER
 {: #lucasrieger }
 
-![LUCAS RIEGER]( {{'/assets/2019/lucasrieger.jpg'|relative_url}} ){:class="img-responsive"}
+![LUCAS RIEGER]( {{'/assets/images/2019/lucasrieger.jpg'|relative_url}} ){:class="img-responsive"}
 
 Ankommen war gestern, denn ein Heimweg endet nie. Und der von Lucas Rieger (mit C) sowieso nicht. Seit einigen Jahren schreibt er deutschsprachige Songs, wo jeder seinen Platz findet, egal ob in oder zwischen den Zeilen. Platz finden diese Songs nicht nur in Kopf und Herz, sondern auch in einigen Radiosendern und auf vielen Bühnen. 
 
@@ -117,7 +117,7 @@ Und die sind gut. Richtig gut.
 ## STRAIGHT 
 {: #straight }
 
-![STRAIGHT]( {{'/assets/2019/straight.jpg'|relative_url}} ){:class="img-responsive"}
+![STRAIGHT]( {{'/assets/images/2019/straight.jpg'|relative_url}} ){:class="img-responsive"}
 
 30 Jahre Banderfahrung prägen die Beverunger Rockformation „Straight“. Neben den altgedienten Musikern der ersten Stunde -Thomas Neu (guitars), Gerherd Gretschel (guitars) und Achim Rickmeier (drums)- wird das line up mit Alexander Stiens (vocals), Hanni Otto (bass) und Ralf Liebelt (keys) vervollständigt. 
 
