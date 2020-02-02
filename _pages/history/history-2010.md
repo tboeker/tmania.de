@@ -6,6 +6,8 @@ type: page
 
 [2009](/history/2009) -- [2011](/history/2011)
 
+# 23. und 24. Juli 2010
+
 ![2010]( {{ '/assets/images/2010-flyer.jpg' | relative_url }} )
 
 
