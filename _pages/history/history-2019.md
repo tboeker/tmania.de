@@ -1,6 +1,6 @@
 ---
 permalink: /history/2019
-title: T-Mania 16 - 2019
+title: T-Mania 16
 type: page
 ---
 

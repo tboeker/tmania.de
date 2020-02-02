@@ -1,6 +1,6 @@
 ---
 permalink: /history/2007
-title: T-Mania 4 - 2007
+title: T-Mania 4
 type: page
 ---
 

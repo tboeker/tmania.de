@@ -1,6 +1,6 @@
 ---
 permalink: /history/2011
-title: T-Mania 8 - 2011
+title: T-Mania 8
 type: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 permalink: /history/2005
-title: T-Mania 2 - 2005
+title: T-Mania 2
 type: page
 ---
 

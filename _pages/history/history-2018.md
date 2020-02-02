@@ -1,6 +1,6 @@
 ---
 permalink: /history/2018
-title: T-Mania 15 - 2018
+title: T-Mania 15
 type: page
 ---
 

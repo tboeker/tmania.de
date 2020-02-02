@@ -1,6 +1,6 @@
 ---
 permalink: /history/2010
-title: T-Mania 7 - 2010
+title: T-Mania 7
 type: page
 ---
 
@@ -72,7 +72,7 @@ Nicht nur die Herren der Band sind sympathisch, ihr Sound (und vor allem die gut
 
 ## Vier zurück
 
-Angefangen hat Alles wie immer im Suff. Wir(Kitto, Bögge, Elvis, Beckmann) dachten uns:"Ey lasst uns Musik machen!" Bögge und Elvis hatten schon etwas Gitarrenerfahrung . Beckmann und Kitto konnten nix, aber der Wille war da.Bögge bekam Bruder Spanky`s E-Gitarre und Elvis kaufte sich Gitarre und Verstärker. Später erwarb Kitto ein "erstklassiges" und sehr Preiswertes Bass-set, bestehend aus Bass-Gitarre und 15Watt High-Tech Verstärker. Eines schönen Tages traf auch bei Familie Beckmann ein exorbitant großes Paket ein. Inhalt war ein Drum-set von Milleniumn. Zu dieser Zeit stellten Bögge, Elvis und Kitto breits mit Schlagzeuger Mike aus Bredelar auf Kriener`s Dachboden ihr können unter beweis. Parallel dazu spielte Elvis mit Beckmann in dessen Ballerbude. Mike`s Schlagzeug hat Meerhof seitdem Nie mehr verlassen und ging von jetzt an in Beckmann`s Besitz über, denn Mike hörte auf.Später versuchte Bögge dann mit Mike eine neue Band zu gründen. Naja…… Also legten Kitto Beckmann und Elvis den Grundstein für die heutige Band.
+Angefangen hat Alles wie immer im Suff. Wir(Kitto, Bögge, Elvis, Beckmann) dachten uns:"Ey lasst uns Musik machen!" Bögge und Elvis hatten schon etwas Gitarrenerfahrung . Beckmann und Kitto konnten nix, aber der Wille war da.Bögge bekam Bruder Spanky's E-Gitarre und Elvis kaufte sich Gitarre und Verstärker. Später erwarb Kitto ein "erstklassiges" und sehr Preiswertes Bass-set, bestehend aus Bass-Gitarre und 15Watt High-Tech Verstärker. Eines schönen Tages traf auch bei Familie Beckmann ein exorbitant großes Paket ein. Inhalt war ein Drum-set von Milleniumn. Zu dieser Zeit stellten Bögge, Elvis und Kitto breits mit Schlagzeuger Mike aus Bredelar auf Kriener's Dachboden ihr können unter beweis. Parallel dazu spielte Elvis mit Beckmann in dessen Ballerbude. Mike's Schlagzeug hat Meerhof seitdem Nie mehr verlassen und ging von jetzt an in Beckmann`s Besitz über, denn Mike hörte auf.Später versuchte Bögge dann mit Mike eine neue Band zu gründen. Naja…… Also legten Kitto Beckmann und Elvis den Grundstein für die heutige Band.
 
 ## Destination Anywhere
 
