@@ -39,6 +39,8 @@ Für das Jahr 2006 ist eine Live-DVD und eine LP/CD mit mehreren Singles, die zu
 
 ## Dreadnut INC.
 
+![Dreadnut INC]( {{'/assets/2010/dreadnut.jpg'|relative_url}} ){:class="img-responsive"}
+
 Neben nem dicken Beat und fetten Bläsern liefern Dreadnut Inc. vor allem eine unglaubliche Spielfreude und Überzeugungskraft.
 
 Klar, dass das am Besten mit Offbeats funktioniert. Ohne Umschweife bauen die acht Musiker das in ihre Musik ein, was sie selbst am dicksten abfeiern und teilen dies vorzugsweise Live.
@@ -55,9 +57,13 @@ Im Sommer 2011 erschien ihr Debüt Namens „First Drop“ in Zusammenarbeit mit
 
 ## Vocal Heights
 
+![vocalheights]( {{'/assets/2010/vocalheights.jpg'|relative_url}} ){:class="img-responsive"}
+
 Vier junge Musiker aus der Nähe von Beverungen proben die Indie-Rock Rebellion in der Provinz. Nun kommen die Vocals mit ihrem Entwurf von Rockmusik und mit dem unbedingten Willen zu dynamischem Rock, hergestellt aus einer hemmungslosen Mischung exzessiver Tönen und dem bittersüßen Duft der Melancholie auf das Tittemania Festival. Im Reisegepäck haben sie ihr erstes Album Between Moles and Durans. Damit alle Mädels laut ihre Namen kreischen können, wenn möglich in der Verniedlichungsform: Basti, Andy, Henni und ähhh .... Erwi (??)...Musik aus der Peripherie sollte jedenfalls niemals unterschätzt werden.
 
 ##  Barney´s Boogie Train
+
+![barneys]( {{'/assets/2010/barneys.jpg'|relative_url}} ){:class="img-responsive"}
 
 Rock´n´Roll mit Barney`s Boogie Train
 Statt Electrobeat und Bürstenschnitt geht’s beim Rock´n´Roll um schwere Lederjacken, alte Blue-Jeans, grobe Bikerboots, monströse Tollen und natürlich Chicks und Sex.
@@ -72,9 +78,13 @@ Nicht nur die Herren der Band sind sympathisch, ihr Sound (und vor allem die gut
 
 ## Vier zurück
 
+![vierzurueck]( {{'/assets/2010/vierzurueck.jpg'|relative_url}} ){:class="img-responsive"}
+
 Angefangen hat Alles wie immer im Suff. Wir(Kitto, Bögge, Elvis, Beckmann) dachten uns:"Ey lasst uns Musik machen!" Bögge und Elvis hatten schon etwas Gitarrenerfahrung . Beckmann und Kitto konnten nix, aber der Wille war da.Bögge bekam Bruder Spanky's E-Gitarre und Elvis kaufte sich Gitarre und Verstärker. Später erwarb Kitto ein "erstklassiges" und sehr Preiswertes Bass-set, bestehend aus Bass-Gitarre und 15Watt High-Tech Verstärker. Eines schönen Tages traf auch bei Familie Beckmann ein exorbitant großes Paket ein. Inhalt war ein Drum-set von Milleniumn. Zu dieser Zeit stellten Bögge, Elvis und Kitto breits mit Schlagzeuger Mike aus Bredelar auf Kriener's Dachboden ihr können unter beweis. Parallel dazu spielte Elvis mit Beckmann in dessen Ballerbude. Mike's Schlagzeug hat Meerhof seitdem Nie mehr verlassen und ging von jetzt an in Beckmann`s Besitz über, denn Mike hörte auf.Später versuchte Bögge dann mit Mike eine neue Band zu gründen. Naja…… Also legten Kitto Beckmann und Elvis den Grundstein für die heutige Band.
 
 ## Destination Anywhere
+
+![destinationanywhere]( {{'/assets/2010/destinationanywhere.jpg'|relative_url}} ){:class="img-responsive"}
 
 Destination Anywhere ist eine 8-köpfige Band, die frischen Poppunk mit einer Prise Blasorchester und Offbeat macht und seit dem Frühjahr 2006 existiert. Mit viel Energie und einer atemberaubenden Show begeistert die Band das Publikum in ganz Deutschland schon bei über 100 Auftritten in 4 Jahren Bandgeschichte.
 
@@ -88,10 +98,14 @@ Deutschland auf den großen und kleinen Festivalbühnen zu sehen sein.
 
 ## Jerk off Kid
 
+![jerkoffkid]( {{'/assets/2010/jerkoffkid.jpg'|relative_url}} ){:class="img-responsive"}
+
 UGLY PUNK Punkrock Zine:
 Wie fängt man eine Besprechung an, wenn man von einem Album regelrecht aus den Latschen gehauen wird? Man versucht sich erstmal zu sammeln und auf dem Boden zu bleiben. JERK OFF KID wissen wie man Hits schreibt, soviel schon mal gleich vorab. Die mir bis vor kurzem noch völlig unbekannte Paderborner Punk´n´Roll Band, bewegt sich meistens im gefühlvollen Midtempo Bereich und lässt sich nicht jagen. “Das ist ja unspektakulär“ werden sich nun die ersten denken, aber weit gefehlt, denn JERK OFF KID haben das gewisse Etwas, ja sogar soviel davon, dass selbst die punkuntypischen Songs auf diesem Album zu spektakulären Nummern mit hohem Widererkennungswert werden. Das Gitarrenspiel, bzw. die Solos, mit denen nicht gespart wird, sind hierbei wohl am prägnantesten, aber auch die angerauten Stimmen und die gelegentlichen Chöre sorgen dafür, dass man bedenkenlos Vergleiche irgendwo zwischen SOCIAL DISTORTION und SCREECHING WEASEL ziehen kann, ohne dabei in Sorge zu fallen, die Messlatte vielleicht zu hoch gelegt zu haben. Denn mit dem Potential, was diese Paderborner Punkband hier an den Tag legt, braucht sie sich hinter keiner internationalen Größe verstecken und das ist mein scheiß ernst. Einzig und allein beim mageren Booklet hätte man vielleicht noch etwas dicker auftragen können, aber das ist dann auch das Einzige, was ich zu beanstanden habe. Ansonsten bin ich voll des Lobes und kann hier nichts anderes als eine Empfehlung aussprechen.
 
 ## Redlich
+
+![redlich]( {{'/assets/2010/redlich.jpg'|relative_url}} ){:class="img-responsive"}
 
 Oft schon ist aus Schnapsideen Großes entstanden: Aristoteles sinnierte über einem Glas Kirschlikör, Alexander triumphierte sturzbetrunken über Tyros. Grund genug für redlich, die bierselige Freude über den gemeinsamen Nachnamen zum Anlass einer Bandgründung zu machen. Dass der Schlagzeuger nun Lietzmann heißt oder dass die Hälfte der Band zu Beginn kein Instrument beherrschte: Geschenkt.
 
