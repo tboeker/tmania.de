@@ -6,11 +6,13 @@ type: page
 
 [2018](/history/2018)
 
-<!-- ![2019]( {{ '/assets/images/2019-plakat.jpg' | relative_url }} ) -->
+# 5. und 6. Juli 2019
 
-[![Flyer 2019 Vorderseite]( {{'/assets/images/2019-flyer.jpg'|relative_url}} )](/lineup){:class="img-responsive"}
+![2019]( {{ '/assets/images/2019-plakat.jpg' | relative_url }} )
 
-[![Flyer 2019 Rückseite]( {{'/assets/images/2019-flyer-2.jpg'|relative_url}} )](/partner){:class="img-responsive"}
+<!-- [![Flyer 2019 Vorderseite]( {{'/assets/images/2019-flyer.jpg'|relative_url}} )](/lineup){:class="img-responsive"}
+
+[![Flyer 2019 Rückseite]( {{'/assets/images/2019-flyer-2.jpg'|relative_url}} )](/partner){:class="img-responsive"} -->
 
 # Samstag
 
