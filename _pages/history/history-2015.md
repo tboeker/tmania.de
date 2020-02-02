@@ -24,7 +24,7 @@ Die Rollin‘ Racketeers liefern dreckigen Rock n Roll mit klassischer Note. Sei
 
 ehemals Gitarrist bei den KAFKAS, hat sich als Singer/Songwriter seinen Platz in der neuen, alten Schule gefestigt.
 Während er sich musikalisch zwischen Folk und Pop, Energie und Melancholie begibt, treffen seine deutschsprachigen Lyrics genau den Puls der Zeit - mal ironisch, mal melancholisch, mal witzig, aber in jedem Fall echt. Seine Live-Shows bringen perfekte Schnittmenge von Energie und Unterhaltung.Der junge Musiker aus Marburg-Biedenkopf produziert und spielt seine Songs selbst ein in seinen eigenen vier Wänden – ganz nach dem do it yourself-Motto." "...klingt, als ob der Sänger von den Wohlstandskindern bei Jupiter Jones singen würde, denen der Strom abgedreht wurde."
-- ein kluger Mann in der Vergangenheit
+... ein kluger Mann in der Vergangenheit
 
 # Samstag
 
