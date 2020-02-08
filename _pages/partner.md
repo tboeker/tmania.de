@@ -33,7 +33,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![BeSte Stadtwerke](/assets/partner-logos/beste.jpg)](https://beste-stadtwerke.de)
 
-[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.jpg)](https://www.kaelte-voessing.de/)
+[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png)](https://www.kaelte-voessing.de/)
 
 [![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg)](https://www.wuerttembergische.de/versicherungen/florian.nutt)
 
