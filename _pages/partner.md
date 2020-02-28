@@ -29,6 +29,8 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![SCHEIDELER GmbH & Co. KG](/assets/partner-logos/scheideler-stanz.png)](https://scheideler-gmbh.de/)
 
+[![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png)](https://www.sanders-online.de/)
+
 <!-- 100 -->
 
 [![BeSte Stadtwerke](/assets/partner-logos/beste.jpg)](https://beste-stadtwerke.de)
