@@ -15,13 +15,13 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 <!-- 200 -->
 
+[![Interpane](/assets/partner-logos/interpane2.jpg)](https://interpane.com)
+
 [![Bauer & Humburg Bauelemente](/assets/partner-logos/bundh.png)](https://b-h-bauelemente.de)
 
 [![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://decker.de)
 
 [![HEGLA](/assets/partner-logos/hegla.png)](https://hegla.com/)
-
-[![Interpane](/assets/partner-logos/interpane2.jpg)](https://interpane.com)
 
 [![KW-Engineering](/assets/partner-logos/kw-web.png)](https://kwcg.de)
 
