@@ -8,7 +8,7 @@ type: page
 
 # 5. und 6. Juli 2020
 
-## ABGESAGT WEGEN COVID-19 !!!
+# ABGESAGT WEGEN COVID-19 !!!
 
 ![2020]( {{ '/assets/images/2020-plakat.jpg' | relative_url }} )
 
