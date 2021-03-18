@@ -7,8 +7,7 @@ permalink: /
 
 # 17. T-Mania Open-Air Festival
 
-## 26. Juni 2020 + 27. Juni 2020
+## 24. Juni 2022 + 25. Juni 2022
 
-
-Das Line-Up ist komplett! Wird aber noch nicht verraten!
+Wenn es denn mit Corona diesmal klappt!!
 
