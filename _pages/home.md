@@ -11,3 +11,8 @@ permalink: /
 
 Wenn es denn mit Corona diesmal klappt!!
 
+
+
+auf jeden Fall dabei sind:
+
+__Thorbjørn Risager & The Black Tornado__

@@ -8,7 +8,7 @@ type: page
 
 <!-- -- [2022](/history/2022) -->
 
-# 25. und 26. Juni 2021
+# 24. und 25. Juni 2022
 
 ## Thorbjørn Risager & The Black Tornado 
 
