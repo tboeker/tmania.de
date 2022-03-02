@@ -66,6 +66,6 @@ Gitarrensound und einer unfassbar sanften, aber auch kraftvollen Stimme
 unserer Sängerin Jette, sind wir trotz unseres jungen Alters auf einem guten Weg
 uns in die Musikszene zu etablieren.
 
-[Zeitungsartikel Weser Kuriert](https://www.weser-kurier.de/bremen/kultur/die-bremer-band-halftime-der-traum-von-vollenstadien-
+[Zeitungsartikel Weser Kurier](https://www.weser-kurier.de/bremen/kultur/die-bremer-band-halftime-der-traum-von-vollenstadien-
 doc7e4f2b07bc9ri6lnckz)
 
