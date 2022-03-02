@@ -10,8 +10,8 @@ type: page
 
 | Freitag 24.06.2022 | Band |
 |-------|--------|
-| ... | ... |
-| ... | ... |
+| 20:00 - 21:00 | John Allen |
+| 21:00 - 23:00 | Thorbjørn Risager & The Black Tornado |
 
 | Samstag 25.06.2022 | Band |
 |-------|--------|
