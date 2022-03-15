@@ -15,13 +15,13 @@ type: page
 
 | Samstag 25.06.2022 | Band |
 |-------|--------|
-| ... | ... |
-| ... | ... |
-| ... | ... |
-| ... | ... |
-| ... | ... |
-| ... | ... |
-| ... | ... |
+| 14:30 - 15:00 | ABK |
+| 15:20 - 15:50 | Geheimratszecken |
+| 16:10 - 16:40 | Tag des dümmsten Gesichts |
+| 17:00 - 17:35 | Halftime |
+| 18:05 - 19:35 | Monsters of Liedermaching |
+| 20:15 - 21:25 | Die Liga der gewöhnlichen Gentlemen |
+| 22:05 - 22:50 | Scunks |
 
 
 <!--
