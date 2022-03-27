@@ -54,6 +54,10 @@ Seit er erstmals kurz nach dem Millenium auf dem Radar erschien, als eine Handvo
 
 ## JOHN ALLEN
 
+Fast 10 Jahre sind seit John Allen's beinahe märchenhafter Entdeckung durch Frank Turner im Frühjahr 2013 vergangen. In mehr als 700 Shows in ganz Europa hat er sich dank seiner treuen und stets wachsenden Fangemeinde als feste Größe in der deutschen Singer-Songwriter Landschaft etabliert.
+
+​Seine musikalische Heimat siedelt Allen “irgendwo zwischen klassischem Singer-Songwriter, Folk, Country, Rock'n'Roll und Americana” an. In seinen Songs beschwört er die Geister der Vergangenheit herauf, spinnt Geschichten von Tod, Angst, Verzweiflung und Weltuntergang, haucht geheimnisvollen Charakteren Leben ein und wird von Song zu Song, von Zeile zu Zeile schwieriger zu charakterisieren.​​
+
 [Homepage](https://www.john-allen.de/)
 
 
