@@ -17,7 +17,7 @@ type: page
 |-------|--------|
 | 14:30 - 15:00 | ABK |
 | 15:20 - 15:50 | Geheimratszecken |
-| 16:10 - 16:40 | Tag des dümmsten Gesichts |
+| 16:10 - 16:40 | Der Tag des dümmsten Gesichts |
 | 17:00 - 17:35 | Halftime |
 | 18:05 - 19:35 | Monsters of Liedermaching |
 | 20:15 - 21:25 | Die Liga der gewöhnlichen Gentlemen |
@@ -98,7 +98,7 @@ uns in die Musikszene zu etablieren.
 [Zeitungsartikel Weser Kurier](https://www.weser-kurier.de/bremen/kultur/die-bremer-band-halftime-der-traum-von-vollenstadien-
 doc7e4f2b07bc9ri6lnckz)
 
-## TAG DES DÜMMSTEN GESICHTS
+## DER TAG DES DÜMMSTEN GESICHTS
 
 <!-- [Homepage](https://scunks.bandcamp.com/) -->
 
