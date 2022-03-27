@@ -40,7 +40,7 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 
 # Freitag
 
-## Thorbjørn Risager & The Black Tornado 
+## THORBJØRN RISAGER & THE BLACK TORNADO
 {: #tris }
 
 ![RISAGER]( {{'/assets/images/2022/TRBand2.jpg'|relative_url}} ){:class="img-responsive"}
@@ -52,7 +52,22 @@ Seit er erstmals kurz nach dem Millenium auf dem Radar erschien, als eine Handvo
 
 ## JOHN ALLEN
 
+[Homepage](https://www.john-allen.de/)
+
+
 # Samstag
+
+## MONSTERS OF LIEDERMACHING
+
+[Homepage](https://www.monstersofliedermaching.de/)
+
+## DIE LIGA DER GEWÖHNLICHEN GENTLEMEN
+
+[Homepage](diegentlemen.de/)
+
+## SCUNKS
+
+[Homepage](https://scunks.bandcamp.com/)
 
 ## HALFTIME
 {: #halftime }
@@ -77,3 +92,15 @@ uns in die Musikszene zu etablieren.
 [Zeitungsartikel Weser Kurier](https://www.weser-kurier.de/bremen/kultur/die-bremer-band-halftime-der-traum-von-vollenstadien-
 doc7e4f2b07bc9ri6lnckz)
 
+## TAG DES DÜMMSTEN GESICHTS
+
+<!-- [Homepage](https://scunks.bandcamp.com/) -->
+
+
+## GEHEIMRATSZECKEN
+
+<!-- [Homepage](https://scunks.bandcamp.com/) -->
+
+## ABK
+
+<!-- [Homepage](https://scunks.bandcamp.com/) -->
