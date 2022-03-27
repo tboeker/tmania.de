@@ -43,7 +43,7 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ## Thorbjørn Risager & The Black Tornado 
 {: #tris }
 
-![RISAGER]( {{'/assets/images/2022/TRBand#2.jpg'|relative_url}} ){:class="img-responsive"}
+![RISAGER]( {{'/assets/images/2022/TRBand2.jpg'|relative_url}} ){:class="img-responsive"}
 
 Seit er erstmals kurz nach dem Millenium auf dem Radar erschien, als eine Handvoll dänischer Kneipengänger in den Bluesbars von Kopenhagen einen Rohdiamanten entdeckten, hat Thorbjørn Risagers kometenhafter Aufstieg ihm kaum die Zeit gelassen, einmal einen Blick zurück zu werfen. Für diesen von der Kritik gefeierten Songschreiber, unvergleichlichen Sänger, gefühlvollen Gitarristen und Bandleader des mächtigen Black Tornado war es ein Karrierestart, bei dem er stets den Horizont vor Augen hatte: die nächste Stadt, die nächste Show, den nächsten Song, das nächste Album.
  „Ich kann es kaum glauben, dass es schon 20 Jahre her ist, dass wir diese große Reise begonnen haben“, sagt Risager im Rückblick auf eine Karriere, die ihn prestigeträchtige europäische und britische Bluespreise im Sturm hat abräumen sehen, seine Musik in über 20 Länder tragen und es auf der Bühne mit Legenden wie Buddy Guy aufnehmen ließ. „Wir sind so froh darüber, dieses Jubiläum mit dieser Sammlung von Songs feiern zu können, die die letzten beiden Dekaden repräsentieren.“
