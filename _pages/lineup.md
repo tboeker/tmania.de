@@ -69,7 +69,7 @@ Fast 10 Jahre sind seit John Allen's beinahe märchenhafter Entdeckung durch Fra
 
 ## DIE LIGA DER GEWÖHNLICHEN GENTLEMEN
 
-[Homepage](diegentlemen.de/)
+[Homepage](http://diegentlemen.de/)
 
 ## SCUNKS
 

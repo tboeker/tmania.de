@@ -9,7 +9,7 @@ permalink: /
 
 ## 24. Juni 2022 + 25. Juni 2022
 
-Hallo Liebe Feestival-Freunde,
+Hallo Liebe Festival-Freunde,
 
 dieses Jahr wird es wieder ein T-Mania geben. 
 Das [Line-Up](/lineup) ist komplett und wir sind schon fleißig am Organisieren.
