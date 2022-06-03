@@ -10,7 +10,7 @@ type: page
 
 # 24. und 25. Juni 2022
 
-![2021]( {{ '/assets/images/2021-plakat.png' | relative_url }} )
+![2022]( {{ '/assets/images/2022-plakat.png' | relative_url }} )
 
 ![Flyer 2022 Vorderseite]( {{ '/assets/images/2022-flyer.png' | relative_url }} )
 
