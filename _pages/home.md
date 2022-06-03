@@ -19,3 +19,8 @@ Wir freuen uns!
 Schöne Grüße
 Euer T-Mania Team
 
+
+
+### Gefördert von:
+
+[![Neustart Miteinander](/assets/partner-logos/neustart-miteinander.png)](https://www.bra.nrw.de/foerderportal-wirtschaft/foerderportal/verbaende-vereine/sonderprogramm-neustart-miteinander)
