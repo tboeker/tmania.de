@@ -14,7 +14,7 @@ type: page
 
 ![Flyer 2022 Vorderseite]( {{ '/assets/images/2022-flyer.png' | relative_url }} )
 
-![Flyer 2022 Rückseite]( {{ '/assets/images/2022-flyer-2.png' | relative_url }} )
+![Flyer 2022 Rückseite]( {{ '/assets/images/2022-flyer2.png' | relative_url }} )
 
 <!-- [![Flyer 2019 Vorderseite]( {{'/assets/images/2019-flyer.jpg'|relative_url}} )](/lineup){:class="img-responsive"}
 
