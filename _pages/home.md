@@ -19,7 +19,7 @@ Wir freuen uns!
 Schöne Grüße
 Euer T-Mania Team
 
-
+![Flyer 2022 Vorderseite]( {{ '/assets/images/2022-flyer.png' | relative_url }} )
 
 ### Gefördert von:
 
