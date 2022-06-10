@@ -16,7 +16,7 @@ type: page
 | Samstag 25.06.2022 | Band |
 |-------|--------|
 | 14:30 - 15:00 | ABK |
-| 15:20 - 15:50 | Geheimratszecken |
+| 15:20 - 15:50 | Vostok Import |
 | 16:10 - 16:40 | Der Tag des dümmsten Gesichts |
 | 17:00 - 17:35 | Halftime |
 | 18:05 - 19:35 | Monsters of Liedermaching |
@@ -103,7 +103,7 @@ doc7e4f2b07bc9ri6lnckz)
 <!-- [Homepage](https://scunks.bandcamp.com/) -->
 
 
-## GEHEIMRATSZECKEN
+## VOSTOK IMPORT
 
 <!-- [Homepage](https://scunks.bandcamp.com/) -->
 
