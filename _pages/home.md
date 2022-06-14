@@ -9,6 +9,8 @@ permalink: /
 
 ## 24. Juni 2022 + 25. Juni 2022
 
+### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
+
 Hallo Liebe Festival-Freunde,
 
 dieses Jahr wird es wieder ein T-Mania geben. 
@@ -18,6 +20,8 @@ Wir freuen uns!
 
 Schöne Grüße
 Euer T-Mania Team
+
+### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
 
 ![Flyer 2022 Vorderseite]( {{ '/assets/images/2022-flyer.png' | relative_url }} )
 
