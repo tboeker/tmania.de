@@ -84,6 +84,9 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg)
 
+[![Sartor Systemintegration](/assets/partner-logos/sartor.png)](https://www.sartor-systemintegration.de/)
+
+
 <!-- Sonstige -->
 ![Gasthaus Groll](/assets/partner-logos/groll.png)
 
