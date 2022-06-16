@@ -17,13 +17,13 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Interpane](/assets/partner-logos/interpane2.jpg)](https://interpane.com)
 
-[![Bauer & Humburg Bauelemente](/assets/partner-logos/bundh.png)](https://b-h-bauelemente.de)
+<!-- [![Bauer & Humburg Bauelemente](/assets/partner-logos/bundh.png)](https://b-h-bauelemente.de) -->
 
-[![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://decker.de)
+<!-- [![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://decker.de) -->
 
 [![HEGLA](/assets/partner-logos/hegla.png)](https://hegla.com/)
 
-[![KW-Engineering](/assets/partner-logos/kw-web.png)](https://kwcg.de)
+<!-- [![KW-Engineering](/assets/partner-logos/kw-web.png)](https://kwcg.de) -->
 
 [![EDEKA Falke](/assets/partner-logos/falke.png)](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
@@ -45,7 +45,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg)](https://www.wuerttembergische.de/versicherungen/florian.nutt)
 
-[![Haarbude](/assets/partner-logos/haarbude_web.jpg)](https://haarbude.de)
+<!-- [![Haarbude](/assets/partner-logos/haarbude_web.jpg)](https://haarbude.de) -->
 
 ![Scheideler Schlosserei & Metallbau](/assets/partner-logos/scheideler-schlosserei.jpg)
 
@@ -69,7 +69,11 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg)](https://www.kuehlert.de/)
 
-![SIBA Bauunternehmen](/assets/partner-logos/siba_web.png)
+[![Nübel Dach](/assets/partner-logos/nuebel-dach.jpg)](http://www.nuebeldach.de/)
+
+<!-- ![SIBA Bauunternehmen](/assets/partner-logos/siba_web.png) -->
+
+![Physiotherapie Stromberg](/assets/partner-logos/stromberg.jpg)
 
 <!-- 50 -->
 ![Heinrich Nolte GmbH & Co. KG](/assets/partner-logos/nolte_bau.jpg)
@@ -84,11 +88,13 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg)
 
-[![Sartor Systemintegration](/assets/partner-logos/sartor.png)](https://www.sartor-systemintegration.de/)
+![Sartor Systemintegration](/assets/partner-logos/sartor.png)
+
+
 
 
 <!-- Sonstige -->
-![Gasthaus Groll](/assets/partner-logos/groll.png)
+<!-- ![Gasthaus Groll](/assets/partner-logos/groll.png) -->
 
 [![Turnverein Dalhausen](/assets/partner-logos/tvd.jpg)](http://tv-dalhausen.de)
 
