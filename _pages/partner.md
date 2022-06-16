@@ -31,6 +31,12 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png)](https://www.sanders-online.de/)
 
+[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png)](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
+
+[![Rempe Heizung Kälte Klima](/assets/partner-logos/rempe-kaelte.png)](https://www.rempe-anlagenbau.de)
+
+[![Lieber & Lieber](/assets/partner-logos/lieber_lieber.jpg)](http://www.lieber-lieber.de/)
+
 <!-- 100 -->
 
 [![BeSte Stadtwerke](/assets/partner-logos/beste.jpg)](https://beste-stadtwerke.de)
@@ -49,11 +55,9 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg)](https://www.zahnarzt-ziegler.de)
 
-[![Software Pioniere GmbH und Co. KG](/assets/partner-logos/softwarepioniere.jpg)](https://softwarepioniere.de)
+[![Software Pioniere GmbH und Co. KG](/assets/partner-logos/sopi.png)](https://softwarepioniere.de)
 
 [![Autohaus Bodach](/assets/partner-logos/bodach-web.jpg)](https://www.ford-bodach-borgentreich.de)
-
-[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png)](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
 
 [![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg)](http://www.elektro-hartmann.de)
 
