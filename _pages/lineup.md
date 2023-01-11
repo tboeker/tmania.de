@@ -40,6 +40,7 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 
 # Freitag
 
+<!-- 
 ## THORBJØRN RISAGER & THE BLACK TORNADO
 {: #tris }
 
@@ -60,9 +61,9 @@ Fast 10 Jahre sind seit John Allen's beinahe märchenhafter Entdeckung durch Fra
 
 [Homepage](https://www.john-allen.de/)
 
-
+ -->
 # Samstag
-
+<!-- 
 ## MONSTERS OF LIEDERMACHING
 
 [Homepage](https://www.monstersofliedermaching.de/)
@@ -97,16 +98,15 @@ uns in die Musikszene zu etablieren.
 
 [Zeitungsartikel Weser Kurier](https://www.weser-kurier.de/bremen/kultur/die-bremer-band-halftime-der-traum-von-vollenstadien-
 doc7e4f2b07bc9ri6lnckz)
+ -->
 
-## DER TAG DES DÜMMSTEN GESICHTS
 
 <!-- [Homepage](https://scunks.bandcamp.com/) -->
 
 
-## VOSTOK IMPORT
+
 
 <!-- [Homepage](https://scunks.bandcamp.com/) -->
 
-## ABK
 
 <!-- [Homepage](https://scunks.bandcamp.com/) -->

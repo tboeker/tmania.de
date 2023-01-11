@@ -4,7 +4,7 @@ title: T-Mania 17
 type: page
 ---
 
-[2019](/history/2019) -- [2021](/history/2021)
+[2019 - 16](/history/2019) -- [2021 - 17 X](/history/2021)
 
 # 5. und 6. Juli 2020
 

@@ -4,7 +4,7 @@ title: T-Mania 9
 type: page
 ---
 
-[2011](/history/2011) -- [2013](/history/2013)
+[2011 - 08](/history/2011) -- [2013 - 10](/history/2013)
 
 # 6. und 7. Juli 2012
 

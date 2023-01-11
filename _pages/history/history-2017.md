@@ -4,7 +4,7 @@ title: T-Mania 14
 type: page
 ---
 
-[2016](/history/2016) -- [2018](/history/2018)
+[2016 - 13](/history/2016) -- [2018 - 15](/history/2018)
 
 # 21. und 22. Juli 2017
 

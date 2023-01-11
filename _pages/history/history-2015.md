@@ -4,7 +4,7 @@ title: T-Mania 12
 type: page
 ---
 
-[2014](/history/2014) -- [2016](/history/2016)
+[2014 - 11](/history/2014) -- [2016 - 13](/history/2016)
 
 # 12. und 13. Juni 2015
 

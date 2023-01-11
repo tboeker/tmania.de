@@ -4,7 +4,7 @@ title: T-Mania 11
 type: page
 ---
 
-[2013](/history/2013) -- [2015](/history/2015)
+[2013 - 10](/history/2013) -- [2015 - 12](/history/2015)
 
 # 27. und 28. Juni 2014
 

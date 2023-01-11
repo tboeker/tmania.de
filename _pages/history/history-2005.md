@@ -4,7 +4,7 @@ title: T-Mania 2
 type: page
 ---
 
-[2004](/history/2004) -- [2006](/history/2006)
+[2004 - 01](/history/2004) -- [2006 - 03](/history/2006)
 
 # 2. Juli 2005
 

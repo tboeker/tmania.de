@@ -4,7 +4,7 @@ title: T-Mania 10
 type: page
 ---
 
-[2012](/history/2012) -- [2014](/history/2014)
+[2012 - 09](/history/2012) -- [2014 - 11](/history/2014)
 
 # 28. und 29. Juni 2013
 

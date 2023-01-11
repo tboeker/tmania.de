@@ -4,7 +4,7 @@ title: T-Mania 13
 type: page
 ---
 
-[2015](/history/2015) -- [2017](/history/2017)
+[2015 - 12](/history/2015) -- [2017 - 14](/history/2017)
 
 # 10. und 11. Juni 2016
 
@@ -38,7 +38,7 @@ Hellboys from Cowboy
 „Du siehst nur drei Leute mit kleinen Instrumenten auf der Bühne, aber Du hörst ‘König der Löwen‘“ – so beschreibt Sänger Nils Hofmann gern seine Band Mandowar. Nur mit Mandoline, Gitarre und Ukulelen-Bass tritt er mit seinen zwei Bandkollegen auf und interpretiert große Rock- und Metalsongs.
 Gods of Folk
 
-Klassiker wie AC/DCs „Hells Bells“, Metallicas „Enter Sandman“ oder Alice Coopers „Poison“ wirken in den Mandowar-Versionen erstaunlich frisch. Aus Metal wird Polka, aus Rock wird Country. Mandowar gelingt ein verblüffender Stil-Crossover, der jedem Song eine ganz eigene Note verleiht. Die Mandoline spielt dabei immer eine tragende Rolle und prägte den Namen der Band. Manowar – die lauteste Band der Welt – stand bei der Namenswahl aber auch Pate. Natürlich fehlen Manowar-Hits nicht im über zwei-stündigem Programm der Band.  Ihren Stil bezeichnen die Musiker selbst als Country-Folk-Metal.
+Klassiker wie AC/DCs „Hells Bells“, Metallicas „Enter Sandman“ oder Alice Coopers „Poison“ wirken in den Mandowar-Versionen erstaunlich frisch. Aus Metal wird Polka, aus Rock wird Country. Mandowar gelingt ein verblüffender Stil-Crossover, der jedem Song eine ganz eigene Note verleiht. Die Mandoline spielt dabei immer eine tragende Rolle und prägte den Namen der Band. Manowar – die lauteste Band der Welt – stand bei der Namenswahl aber auch Pate. Natürlich fehlen Manowar-Hits nicht im über zwei-stündigem Programm der Band. Ihren Stil bezeichnen die Musiker selbst als Country-Folk-Metal.
 
 Fakt ist: Diese Band ist einzigartig und rockt einfach jedes Publikum. Seit Bandgründung im Jahr 2010 gab Mandowar über 200 Konzerte. Die drei Musiker aus Wetzlar spielten vor tausenden Zuschauern wie beim Wacken Open Air aber auch in kleinen Kneipen vor 50 Zuschauern.
 

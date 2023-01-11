@@ -4,7 +4,7 @@ title: T-Mania 6
 type: page
 ---
 
-[2008](/history/2008) -- [2010](/history/2010)
+[2008 - 05](/history/2008) -- [2010 - 07](/history/2010)
 
 # 10. und 11. Juli 2009
 

@@ -5,10 +5,11 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-# 17. T-Mania Open-Air Festival
+# 18. T-Mania Open-Air Festival
 
-## 24. Juni 2022 + 25. Juni 2022
+## 23. Juni 2023 + 24. Juni 2023
 
+<!-- 
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
 
 Hallo Liebe Festival-Freunde,
@@ -28,3 +29,5 @@ Euer T-Mania Team
 ### Gefördert von:
 
 [![Neustart Miteinander](/assets/partner-logos/neustart-miteinander.png)](https://www.bra.nrw.de/foerderportal-wirtschaft/foerderportal/verbaende-vereine/sonderprogramm-neustart-miteinander)
+
+ -->

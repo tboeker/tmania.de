@@ -13,12 +13,14 @@ type: page
 
 ## Eintrittspreise und Tickets
 
+<!-- 
 Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
 - Freitag Abendkasse: 20€
 - Samstag Tageskasse: 20€
 - Kombiticket: 35 €
 
 Für Vereinsmitglieder wird es noch einen ordentlichen Rabatt geben. Genaue Zahlen werden noch bekannt gegeben.
+ -->
 
 <!-- Auch wenn es auf jeden Fall genügend Tageskasse gibt, hier ein Link zu unserem Ticket-Partner zum Vorverkauf:  -->
 

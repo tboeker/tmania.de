@@ -4,7 +4,7 @@ title: T-Mania 17
 type: page
 ---
 
-[2020](/history/2020) -- [2022](/history/2022)
+[2020 - 17 X](/history/2020) -- [2022 - 17](/history/2022)
 
 <!-- -- [2022](/history/2022) -->
 

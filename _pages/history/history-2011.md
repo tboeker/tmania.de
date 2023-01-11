@@ -4,7 +4,7 @@ title: T-Mania 8
 type: page
 ---
 
-[2010](/history/2010) -- [2012](/history/2012)
+[2010 - 07](/history/2010) -- [2012 - 09](/history/2012)
 
 # 22. und 23. Juli 2011
 

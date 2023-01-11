@@ -4,7 +4,7 @@ title: T-Mania 3
 type: page
 ---
 
-[2005](/history/2005) -- [2007](/history/2007)
+[2005 - 02](/history/2005) -- [2007 - 04](/history/2007)
 
 # 8. Juli 2006
 
