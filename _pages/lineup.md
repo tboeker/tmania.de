@@ -8,20 +8,20 @@ type: page
 
 ## Spielplan
 
-| Freitag 24.06.2022 | Band |
+| Freitag 23.06.2023 | Band |
 |-------|--------|
-| 20:00 - 21:00 | John Allen |
-| 21:00 - 23:00 | Thorbjørn Risager & The Black Tornado |
+| 20:00 - 21:00 | ... |
+| 21:00 - 23:00 | ... |
 
-| Samstag 25.06.2022 | Band |
+| Samstag 24.06.2023 | Band |
 |-------|--------|
-| 14:30 - 15:00 | ABK |
-| 15:20 - 15:50 | Vostok Import |
-| 16:10 - 16:40 | Der Tag des dümmsten Gesichts |
-| 17:00 - 17:35 | Halftime |
-| 18:05 - 19:35 | Monsters of Liedermaching |
-| 20:15 - 21:25 | Die Liga der gewöhnlichen Gentlemen |
-| 22:05 - 22:50 | Scunks |
+| 14:30 - 15:00 | ... |
+| 15:20 - 15:50 | ... |
+| 16:10 - 16:50 | ... |
+| 17:10 - 17:50 | ... |
+| 18:20 - 19:30 | ... |
+| 20:10 - 21:20 | ... |
+| 21:50 - 23:20 | ... |
 
 
 <!--
