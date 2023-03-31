@@ -39,6 +39,7 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 Like the bands they admire, such as Camper Van Beethoven, Nick Cave and the Bad Seeds and Kaiser Chiefs, the Great Crusades seem to be in it for the long haul—still writing outstanding tunes and playing mind-blowing live shows. Vocalist/guitarist Brian Krumm gathered the current band members in Chicago 20 years ago, including collaborators Brian Hunt, Brian Leach and Christian Moder. He had already released the band’s first album, The First Spilled Drink of the Evening. Soon after, Rolling Stone’s David Fricke wrote, “The Great Crusades look at life through a shot-glass lens, mixing anger, muscle and minor-key remorse like a roughneck Tindersticks with the bonus of a singer who’s got the tubercular pipes of Tom Waits and Axl Rose’s love child.” (Mud Records reissued First Spilled Drink in Summer 2017.)
 
 [Homepage](https://thegreatcrusades.com/?cat=3)
+
 [Facebook](https://www.facebook.com/greatcrusades)
 
 ## JOE ASTRAY
@@ -49,6 +50,7 @@ Like the bands they admire, such as Camper Van Beethoven, Nick Cave and the Bad 
 DIY – Do It Yourself – sind für einige nur drei Großbuchstaben, für andere ist es so etwas wie ihre DNA. Zu diesen Leuten gehört ohne Zweifel Joe Astray. Kompromisslos folgt er der Idee des Singer/Songwriters mit Punkvergangenheit. Er ist Protestsänger und Romantiker und hat den ganzen Struggle mitgemacht, hat auf Bühnen gespielt, auf denen nebenbei gekickert wurde, ist hingefallen und aufgestanden, hat kassiert und ausgezahlt. Seine Tourneen organisiert er selber, die Geschichten, die er erzählt, hat er auch erlebt.
 
 [Homepage](https://joeastray.com)
+
 [Backstagepro](https://www.backstagepro.de/musiker/joe-astray-musiker-saenger-gitarrist-bassist-hamburg-Cb6BGGFNq)
 
 # Samstag
