@@ -114,6 +114,8 @@ Spaßpunk mit Asitüde, witzig aber bestimmend, schnell und dynamisch, deutschsp
 ## WE AGAINST MONDAY
 {: #weagainstmonday }
 
+![weagainstmonday]( {{'/assets/images/2023/weagainstmonday.jpg'|relative_url}} ){:class="img-responsive"}
+
 „So etwas wie Schicksal gibt es nicht“
 Und doch gibt es: WeAgainstMonday.
 
