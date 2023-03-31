@@ -34,12 +34,17 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ## THE GREAT CRUSADES
 {: #thegreatcrusades }
 
+![thegreatcrusades]( {{'/assets/images/2023/thegreatcrusades.jpg'|relative_url}} ){:class="img-responsive"}
+
 Like the bands they admire, such as Camper Van Beethoven, Nick Cave and the Bad Seeds and Kaiser Chiefs, the Great Crusades seem to be in it for the long haul—still writing outstanding tunes and playing mind-blowing live shows. Vocalist/guitarist Brian Krumm gathered the current band members in Chicago 20 years ago, including collaborators Brian Hunt, Brian Leach and Christian Moder. He had already released the band’s first album, The First Spilled Drink of the Evening. Soon after, Rolling Stone’s David Fricke wrote, “The Great Crusades look at life through a shot-glass lens, mixing anger, muscle and minor-key remorse like a roughneck Tindersticks with the bonus of a singer who’s got the tubercular pipes of Tom Waits and Axl Rose’s love child.” (Mud Records reissued First Spilled Drink in Summer 2017.)
 
 [Homepage](https://thegreatcrusades.com/?cat=3)
+[Facebook](https://www.facebook.com/greatcrusades)
 
 ## JOE ASTRAY
 {: #joeastray }
+
+![trixsi]( {{'/assets/images/2023/joeastray.jpg'|relative_url}} ){:class="img-responsive"}
 
 [Homepage](https://joeastray.com)
 
@@ -91,10 +96,18 @@ So nahm er 2015 im eigenen kleinen Studio die nicht mehr erhältliche EP „Durc
 ## FRESSE
 {: #fresse }
 
+![trixsi]( {{'/assets/images/2023/fresse.jpg'|relative_url}} ){:class="img-responsive"}
+
+FRESSE, fünf mittelalte Herren sind im Namen des Punk unterwegs. Seit Gründung 2010 ist viel passiert und heute, 2019, is das Stand der Dinge:
+
+Spaßpunk mit Asitüde, witzig aber bestimmend, schnell und dynamisch, deutschsprachig und gerne auch albern, mehr Bier als Politik.
+
 [Backstagepro](https://m.backstagepro.de/fresse)
 
 ## MUSKELPROTZ
 {: #muskelprotz }
+
+![muskelprotz]( {{'/assets/images/2023/muskelprotz.jpg'|relative_url}} ){:class="img-responsive"}
 
 [Bandcamp](https://muskelprotz.bandcamp.com/album/arm-statt-abi)
 
