@@ -46,7 +46,10 @@ Like the bands they admire, such as Camper Van Beethoven, Nick Cave and the Bad 
 
 ![trixsi]( {{'/assets/images/2023/joeastray.jpg'|relative_url}} ){:class="img-responsive"}
 
+DIY – Do It Yourself – sind für einige nur drei Großbuchstaben, für andere ist es so etwas wie ihre DNA. Zu diesen Leuten gehört ohne Zweifel Joe Astray. Kompromisslos folgt er der Idee des Singer/Songwriters mit Punkvergangenheit. Er ist Protestsänger und Romantiker und hat den ganzen Struggle mitgemacht, hat auf Bühnen gespielt, auf denen nebenbei gekickert wurde, ist hingefallen und aufgestanden, hat kassiert und ausgezahlt. Seine Tourneen organisiert er selber, die Geschichten, die er erzählt, hat er auch erlebt.
+
 [Homepage](https://joeastray.com)
+[Backstagepro](https://www.backstagepro.de/musiker/joe-astray-musiker-saenger-gitarrist-bassist-hamburg-Cb6BGGFNq)
 
 # Samstag
 
