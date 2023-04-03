@@ -84,6 +84,19 @@ ACHT EIMER HÜHNERHERZEN aus Berlin-Kreuzberg sind ein halbakustisches Nylon-Pun
 ## UWE AGAINST THE MACHINE
 {: #uweagainstthemachine }
 
+![uweagainstthemachine]( {{'/assets/images/2023/uweagainstthemachine.jpg'|relative_url}} ){:class="img-responsive"}
+
+Ausnahmekünstler „Uwe“ hat für die Dalhäuser Punk-Rock Familie wieder eine ganz besondere Auswahl an 90er Coversongs vorbereitet. 
+
+
+In den letzten vier Jahren hat die Band nun ein optimales Verhältnis zwischen Spaß und Wahnsinn gefunden. Die Musiker haben Ihre Heimat bereits vor vielen Jahren in der Hardcore-, Punk-, Rock- und Metalszene gefunden und wollen euch am Samstag einen würdevolles Festivalfinale bieten.
+
+
+Ein besonderes Dankeschön geht jetzt schon an die gesamte T-Mania Truppe, denn ohne diese Mannschaft würden wir wahrscheinlich nicht in dieser Form existieren. 
+Fester Bestandteil der Band ist zudem die aus Dalhausen stammende Sängerin Stefanie (vonne Kolonie wech). 
+
+Beim Show-Programm wird für jeden etwas dabei sein, sodass alle Anwesenden mindestens bei einem Lied komplett durchdrehen können! Also, vorab bitte ausreichend Flüssigkeiten einnehmen!
+
 [Instagram](https://www.instagram.com/uwe_againstthemachine/)
 
 ## LUCAS RIEGER
