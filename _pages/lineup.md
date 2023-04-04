@@ -127,7 +127,23 @@ Spaßpunk mit Asitüde, witzig aber bestimmend, schnell und dynamisch, deutschsp
 
 ![muskelprotz]( {{'/assets/images/2023/muskelprotz.jpg'|relative_url}} ){:class="img-responsive"}
 
-[Bandcamp](https://muskelprotz.bandcamp.com/album/arm-statt-abi)
+Der fleischgewordene Traum aus fettfreier Muskelmasse verwandelt mit seinem Synthesizer garnierten Pop-Punk Laucharme in echte 50er. 
+
+MuskelProtz glänzt wie ein eingelölter Beachbody und bleibt mit Hits wie „Arm statt Abi“, „Fürst der Fitness“ oder „Venice Beach“ nicht nur für immer in deinem Ohr, sondern erzählt auch authentische Geschichten aus dem Gym ohne dabei das Augenzwinkern zu vergessen. 
+Live überzeugt MuskelProtz mit seiner starken Bühnenpräsenz und perfekt abgestimmten Sound. 
+
+Lass dir dieses schwitzende Gold’s Gym Ehrenmitglied auf dem Weg zur Legende nicht entgehen und sing laut mit, wenn es wieder heißt:
+
+#MuskelProtz #FuenfzigerArm #FuerstDerFitness
+
+Ich bin MuskelProtz!
+
+
+[Bandcamp](https://muskelprotz.bandcamp.com)
+[Facebook](https://www.facebook.com/muskelprotzpunk)
+[Instagram](https://www.instagram.com/muskelprotzpunk/)
+[Twitter](https://twitter.com/msklprtz)
+
 
 ## WE AGAINST MONDAY
 {: #weagainstmonday }
