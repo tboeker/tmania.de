@@ -22,7 +22,7 @@ dieses Jahr wird es wieder ein T-Mania geben.
 Wir arbeiten fleißig am Line-Up und melden uns wieder.
  -->
 
-Das [Line-Up](/lineup) ist FAST komplett und wir sind schon fleißig am Organisieren.
+Das [Line-Up](/lineup) ist komplett und wir sind schon fleißig am Organisieren.
 
 Wir freuen uns!
 

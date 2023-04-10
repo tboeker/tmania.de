@@ -15,7 +15,7 @@ type: page
 
 | Samstag 24.06.2023 | Band |
 |-------|--------|
-| 14:30 - 15:00 | ... |
+| 14:30 - 15:00 | [RHINOSAURS](#rhinosaurs) |
 | 15:20 - 15:50 | [FRESSE](#fresse) |
 | 16:10 - 16:45 | [MUSKELPROTZ](#muskelprotz) |
 | 17:05 - 17:40 | [WE AGAINST MONDAY](#weagainstmonday) |
@@ -104,23 +104,30 @@ Beim Show-Programm wird für jeden etwas dabei sein, sodass alle Anwesenden mind
 
 ![lucasrieger]( {{'/assets/images/2023/lucasrieger.jpg'|relative_url}} ){:class="img-responsive"}
 
-"Ankommen war gestern, denn ein Heimweg endet nie. Und der von Lucas Rieger (mit C) sowieso nicht. Seit einigen Jahren schreibt er deutschsprachige Songs, wo jeder seinen Platz findet, egal ob in oder zwischen den Zeilen. Platz finden diese Songs nicht nur in Kopf und Herz, sondern auch in einigen Radiosendern und auf vielen Bühnen.
-Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er bundesweit, sowie im deutschsprachigen Ausland tourte und sich die Bühne mit Acts wie Revolverheld oder Bela B. teilte.
-Neben der Bühnenerfahrung hat er sich über die Jahre auch die entsprechenden Recording-Skills angeeignet, was in seinen Produktionen deutlich zu hören ist. Das klingt mal warm, intim und reduziert und mal kraftvoll und groß. Aber immer aus einem Guss – der Schliff der Industrie sozusagen, nur eben DIY.
-So nahm er 2015 im eigenen kleinen Studio die nicht mehr erhältliche EP „Durch jede Wand“ auf. Da konstant zur Erfahrung auch manchmal das Equipment wächst und der Motor immer weiter und runder läuft gibt es nun neue Auftritte und neue Songs."
+Lucas Rieger (mit C) schreibt nun seit einigen Jahren seine Songs irgendwo zwischen Pop, Punk und Folk. Also Musik sowohl für Boots, als auch für 
+Sneakers. 
+
+Was sich textlich um Alltag, Politik oder auch mal Coming-of-Age dreht, wird Live mit Akustikgitarre und Stimme dargeboten. Die Loop-Station ist genauso oft dabei, wie hier und da ein kleiner Beat. Das macht er alleine, sowohl auf der Bühne als auch im eigenen Studio.
+Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er 
+bundesweit, sowie im deutschsprachigen Ausland tourte und sich die Bühne mit Acts wie Bela B. oder auch Revolverheld teilte.
+
+Solo spielte er mit Acts wie Jupiter Jones, Kapelle Petra, Austin Lucas oder Matze Rossi.
+
+
+Aber hören sie selbst
 
 [Backstagepro](https://m.backstagepro.de/lucasrieger)
 
 ## FRESSE
 {: #fresse }
 
-![trixsi]( {{'/assets/images/2023/fresse.jpg'|relative_url}} ){:class="img-responsive"}
+![fresse]( {{'/assets/images/2023/fresse.jpg'|relative_url}} ){:class="img-responsive"}
 
 FRESSE, fünf mittelalte Herren sind im Namen des Punk unterwegs. Seit Gründung 2010 ist viel passiert und heute, 2019, is das Stand der Dinge:
 
 Spaßpunk mit Asitüde, witzig aber bestimmend, schnell und dynamisch, deutschsprachig und gerne auch albern, mehr Bier als Politik.
 
-[Backstagepro](https://m.backstagepro.de/fresse)
+[Backstagepro](https://m.backstagepro.de/fresse)4
 
 ## MUSKELPROTZ
 {: #muskelprotz }
@@ -184,3 +191,10 @@ Für uns als Künstler gibt es nichts größeres als die Emotionen die wir in un
 Join our journey. Für alle Montagshasser und Fans des Bühnenpop & Radiorocks!
 
 [Facebook](https://m.facebook.com/100085912365473)
+
+## RHINOSAURS
+{: #rhinosaurs }
+
+![rhinosaurs]( {{'/assets/images/2023/rhinosaurs.jpg'|relative_url}} ){:class="img-responsive"}
+
+[Facebook](https://www.facebook.com/Rhinosaurs.band/)
