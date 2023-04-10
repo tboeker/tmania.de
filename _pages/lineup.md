@@ -47,7 +47,17 @@ Like the bands they admire, such as Camper Van Beethoven, Nick Cave and the Bad 
 
 ![trixsi]( {{'/assets/images/2023/joeastray.jpg'|relative_url}} ){:class="img-responsive"}
 
-DIY – Do It Yourself – sind für einige nur drei Großbuchstaben, für andere ist es so etwas wie ihre DNA. Zu diesen Leuten gehört ohne Zweifel Joe Astray. Kompromisslos folgt er der Idee des Singer/Songwriters mit Punkvergangenheit. Er ist Protestsänger und Romantiker und hat den ganzen Struggle mitgemacht, hat auf Bühnen gespielt, auf denen nebenbei gekickert wurde, ist hingefallen und aufgestanden, hat kassiert und ausgezahlt. Seine Tourneen organisiert er selber, die Geschichten, die er erzählt, hat er auch erlebt.
+Joe Astray veröffentlicht 2021 mit „Reconstruction“ seine erste LP, die viel preisgibt, (wieder-) aufbaut und neue Wege einschlägt. Joe sah sich sowohl in
+privater als auch in künstlerischer Hinsicht an einem Scheideweg angelangt, wusste, dass sich etwas ändern muss und wollte diese spannende Zeit in einem
+Album einfangen. Um diese Geschichten adäquat erzählen zu können, hat er sich mit den Produzenten Gregor Hennig (Studio Nord Bremen) und Valentin Hebel
+(Monako) zwei atypische Leute für einen Punkrocker mit Vorliebe für Akustikgitarren an die Seite gestellt und dabei gelernt, loszulassen. Gar nicht so
+leicht für jemanden, für den DIY – Do It Yourself nicht nur drei Großbuchstaben, sondern fester Bestandteil der eigenen DNA sind. Doch letzten Endes ließ sich die
+
+Kompromisslosigkeit so auf anderen Feldern austragen - kompositorisch. Joe hatte nämlich für seine beiden Mitstreiter bereits die Proberaumtür entriegelt, die beiden früh hineingelassen und in den Prozess involviert, bis sich schließlich zwischen variablen Koordinaten ein eigenes Universum entwickelt hat, in dem die
+musikalische Atmosphäre ein wesentlicher Teil der Erzählung geworden ist. Die Einflüsse lassen sich nicht mehr länger an einer Hand abzählen. Diese Platte kann
+reduziert und opulent sein und man glaubt ihr beides. Schließlich endet sie mit einer Art Explosion.
+
+Grund genug für noch mehr Rekonstruktion.
 
 [Homepage](https://joeastray.com)
 
