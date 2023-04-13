@@ -207,4 +207,23 @@ Join our journey. Für alle Montagshasser und Fans des Bühnenpop & Radiorocks!
 
 ![rhinosaurs]( {{'/assets/images/2023/rhinosaurs.jpg'|relative_url}} ){:class="img-responsive"}
 
+
+RHINOSAURS – Post-Grunge aus Marsberg
+
+RHINOSAURS aus Marsberg ist eine außergewöhnliche Band, die ehrliche handge-machte Musik macht. So außergewöhnlich und ehrlich, dass es keine außergewöhnliche Gründungsstory um die Band gibt. Sie haben nicht mal eine Story erfunden! „Wir haben uns einfach getroffen und dann ging das los!“, sagt Picko. Für ihn begann im Jahr 2018, als er RHINOSAURS gründete, die Suche nach mehr als nur der Seele der Musik. Die Suche, die schon so viele Musiker vor ihm nach einem Besuch im „Club 27“ aufgegeben haben.
+
+Mit Jannis, Marcel und Kitto ist die Band seitdem komplett. Ihr Credo „More is all we need“ zieht sie immer wieder auf die Bühnen. Mit Elementen aus Post-Grunge, Stoner-Rock und Punk laden sie zum Feiern und Tanzen in ihren ganz eigenen Sphären ein. Ehrliche, handgemachte Musik, die mitfühlen lässt.
+Mit einem Gefühl von „My Way Home“ geht es bald los und ganz im Sinne von Alt-meister Dave Grohl: „It's not about being perfect, it's not about sounding absolutely correct. It's not about what goes on in a computer. It's about what goes on in your heart and what goes on in your head“.
+
+RHINOSAURS sind:
+	
+Christian „Picko“ Wagner,  Guitar, Vocals
+
+Marcel Kremeike, Drums, Vocals
+
+Jannis Kuhn, Guitar
+
+Daniel „Kitto“ von Rüden, Bass, Vocals
+
+
 [Facebook](https://www.facebook.com/Rhinosaurs.band/)
