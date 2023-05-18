@@ -9,7 +9,9 @@ permalink: /
 
 # 23. Juni 2023 + 24. Juni 2023
 
-![flyer]( {{'/assets/images/2023/flyer_draft.jpg'|relative_url}} ){:class="img-responsive"}
+![Flyer 2023 Vorderseite]( {{ '/assets/images/2023-flyer.jpg' | relative_url }} )
+
+![Flyer 2023 Rückseite]( {{ '/assets/images/2023-flyer2.jpg' | relative_url }} )
 
 <!-- 
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
