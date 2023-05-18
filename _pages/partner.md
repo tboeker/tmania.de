@@ -103,7 +103,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Hartmann Bau](/assets/partner-logos/hartmann-bau.png){: .center-image }](https://www.hartmann-bau.de)
 
-
 [![Organge Blossom Special Festival](/assets/partner-logos/obs.png){: .center-image }](https://orangeblossomspecial.de)
 
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg){: .center-image }](http://www.schlossbrauerei-rheder.de)
