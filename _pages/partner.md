@@ -68,8 +68,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![Physiotherapie Stromberg](/assets/partner-logos/stromberg.jpg)
 
-[![Rempe Heizung Kälte Klima](/assets/partner-logos/rempe-kaelte.png)](https://www.rempe-anlagenbau.de)
-
 [![Hubert Suermann GmbH](/assets/partner-logos/suermann-sanitaer.jpg)](https://suermannsanitaer.de)
 
 
