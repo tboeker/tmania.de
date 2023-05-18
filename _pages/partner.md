@@ -104,7 +104,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 [![Hartmann Bau](/assets/partner-logos/hartmann-bau.png){: .center-image }](https://www.hartmann-bau.de)
 
 
-[![Organge Blossom Special Festival](/assets/partner-logos/obs.jpg){: .center-image }](https://orangeblossomspecial.de)
+[![Organge Blossom Special Festival](/assets/partner-logos/obs.png){: .center-image }](https://orangeblossomspecial.de)
 
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg){: .center-image }](http://www.schlossbrauerei-rheder.de)
 
@@ -114,7 +114,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![wildwechsel](/assets/partner-logos/ww_web.jpg){: .center-image }](https://www.wildwechsel.de)
 
-[![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.png){: .center-image }](https://wiesmann-service.de)
+[![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.jpeg){: .center-image }](https://wiesmann-service.de)
 
 
 ## Downloads
