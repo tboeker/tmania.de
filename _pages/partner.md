@@ -78,16 +78,15 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![BQ Rohrsysteme](/assets/partner-logos/bq.jpg)
 
-[Fleischerei Ernst](/assets/partner-logos/fleischerei-ernst.jpg)
+![Fleischerei Ernst](/assets/partner-logos/fleischerei-ernst.jpg)
 
-[Heimatgenuss](/assets/partner-logos/heimatgenuss.jpeg)
+![Heimatgenuss](/assets/partner-logos/heimatgenuss.jpeg)
 
-[LVM-Versicherungsagentur Thomas Lotze](/assets/partner-logos/lvm-lotze.jpg)
+![LVM-Versicherungsagentur Thomas Lotze](/assets/partner-logos/lvm-lotze.jpg)
 
 ![Bäckerei Mann](/assets/partner-logos/baeckerei-mann.jpg)
 
 ![Zentis Grilleck](/assets/partner-logos/zenti.jpg)
-
 
 
 
