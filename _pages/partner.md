@@ -27,7 +27,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png)](https://www.kaelte-voessing.de/)
 
-[![KW-Engineering](/assets/partner-logos/kw.png)](https://kwcg.de)
+[![KW-Engineering](/assets/partner-logos/kw.jpg)](https://kwcg.de)
 
 [![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png)](https://www.sanders-online.de/)
 
