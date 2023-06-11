@@ -20,7 +20,7 @@ Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
 
 Für Vereinsmitglieder gibt es noch einmal 20% Rabatt.
 
-Jugendliche zahlen ab dem 16. Lebensjahr vollen Eintritt.
+Jugendliche zahlen ab dem 16. Lebensjahr vollen Eintritt. Also nachdem der 16. Geburtstag begangen wurde.
 
 <!-- Auch wenn es auf jeden Fall genügend Tageskasse gibt, hier ein Link zu unserem Ticket-Partner zum Vorverkauf:  -->
 
