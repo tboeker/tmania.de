@@ -1,5 +1,5 @@
 ---
-title:  "Line-Up fast komplett!!"
+title:  "Line-Up komplett!!"
 ---
 
 Unser Lineup ist nun komplett. Der neue Opener wurde gefunden! 

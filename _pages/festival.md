@@ -13,14 +13,14 @@ type: page
 
 ## Eintrittspreise und Tickets
 
-<!-- 
 Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
 - Freitag Abendkasse: 20€
-- Samstag Tageskasse: 20€
-- Kombiticket: 35 €
+- Samstag Tageskasse: 25€
+- Kombiticket: 30 €
 
-Für Vereinsmitglieder wird es noch einen ordentlichen Rabatt geben. Genaue Zahlen werden noch bekannt gegeben.
- -->
+Für Vereinsmitglieder gibt es noch einmal 20% Rabatt.
+
+Jugendliche zahlen ab dem 16. Lebensjahr vollen Eintritt.
 
 <!-- Auch wenn es auf jeden Fall genügend Tageskasse gibt, hier ein Link zu unserem Ticket-Partner zum Vorverkauf:  -->
 
@@ -49,3 +49,9 @@ Bitte nur in den vorgesehen Flächen in der Urentalstraße parken. Sollte dies b
 ## Camping
 
 Wir freuen uns immer auf unsere Campinggäste. Ihr könnt kostenlos euer Zelt direkt hinter dem Festivalgelände aufbauen. Aber bitte vor der Abreise aufräumen und den Müll einsammeln.
+
+## Cashless 
+
+Da wir in Dalhausen leider immer noch keinen funktionierenden Geldautomaten haben, könnt ihr den Eintritt und eure Wertmarken ab diesem Jahr auch cashless erwerben.
+
+![cashless](/assets/images/cashless.png){:class="img-responsive"}
