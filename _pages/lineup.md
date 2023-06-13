@@ -133,9 +133,10 @@ Aber hören sie selbst
 
 ![fresse]( {{'/assets/images/2023/fresse.jpg'|relative_url}} ){:class="img-responsive"}
 
-FRESSE, fünf mittelalte Herren sind im Namen des Punk unterwegs. Seit Gründung 2010 ist viel passiert und heute, 2019, is das Stand der Dinge:
+FRESSE, seid über 12 Jahren fester Bestandteil der münsteraner Musikscene. Das zweite Album "Ohh, Bier!" ist aktuell in der Pressung und möchte zum Spätsommer 2023 endlich unters Volk gebracht werden. 
 
-Spaßpunk mit Asitüde, witzig aber bestimmend, schnell und dynamisch, deutschsprachig und gerne auch albern, mehr Bier als Politik.
+Bis dahin gedulden wir uns mit ein par Konzerten um dies zu promoten. Auf der Bühne heißt es: "Hauptsache Spaß und gute Laune". In der heutigen achso ernsten (Punk)welt kommt der Spaß leider oft zu kurz. Dem wollen Fresse mit freundlich pöbelden Parolen ein Riegel vor schieben. Dosenstechen, Bierduschen, Schreien, sich in den Armen liegen... Punkrock, simple as F**** 
+
 
 [Backstagepro](https://m.backstagepro.de/fresse)4
 
