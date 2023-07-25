@@ -8,11 +8,27 @@ type: page
 
 # 23. und 24. Juni 2023
 
-![2023]( {{ '/assets/images/2023-plakat.png' | relative_url }} )
+![2023]( {{ '/assets/images/2023-plakat.jpg' | relative_url }} )
 
 ![Flyer 2023 Vorderseite]( {{ '/assets/images/2023-flyer.jpg' | relative_url }} )
 
 ![Flyer 2023 Rückseite]( {{ '/assets/images/2023-flyer2.jpg' | relative_url }} )
+
+
+| Freitag |
+|-------|
+| [JOE ASTRAY](#joeastray) |
+| [THE GREAT CRUSADES](#thegreatcrusades) |
+
+| Samstag |
+| [RHINOSAURS](#rhinosaurs) |
+| [FRESSE](#fresse) |
+| [MUSKELPROTZ](#muskelprotz) |
+| [WE AGAINST MONDAY](#weagainstmonday) |
+| [LUCAS RIEGER](#lucasrieger) |
+| [ACHT EIMER HÜHNERHERZEN](#achteimerhuehnerherzen) |
+| [TRIXSI](#trixsi) |
+| [UWE AGAINST THE MACHINE](#uweagainstthemachine) |
 
 # Freitag
 
