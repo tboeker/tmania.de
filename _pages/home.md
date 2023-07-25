@@ -5,9 +5,7 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-# 19. T-Mania Open-Air Festival
-
-# 21. Juni 2024 + 22. Juni 2024
+# 19. T-Mania Open-Air Festival 21. Juni 2024 + 22. Juni 2024
 
 <!-- ![Flyer 2023 Vorderseite]( {{ '/assets/images/2023-flyer.jpg' | relative_url }} )
 
