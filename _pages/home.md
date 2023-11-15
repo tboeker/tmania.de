@@ -5,26 +5,24 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-# 18. T-Mania Open-Air Festival
+# 19. T-Mania Open-Air Festival 21. Juni 2024 + 22. Juni 2024
 
-# 23. Juni 2023 + 24. Juni 2023
+<!-- ![Flyer 2023 Vorderseite]( {{ '/assets/images/2023-flyer.jpg' | relative_url }} )
 
-![Flyer 2023 Vorderseite]( {{ '/assets/images/2023-flyer.jpg' | relative_url }} )
-
-![Flyer 2023 Rückseite]( {{ '/assets/images/2023-flyer2.jpg' | relative_url }} )
+![Flyer 2023 Rückseite]( {{ '/assets/images/2023-flyer2.jpg' | relative_url }} ) -->
 
 <!-- 
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
  -->
 Hallo Liebe Festival-Freunde,
 
-dieses Jahr wird es wieder ein T-Mania geben. 
+<!-- dieses Jahr wird es wieder ein T-Mania geben.  -->
 
-<!--
-Wir arbeiten fleißig am Line-Up und melden uns wieder.
- -->
+Der Termin für das 19. Festival steht und wir arbeiten fleißig am Line-Up.
 
-Das [Line-Up](/lineup) ist komplett und wir sind schon fleißig am Organisieren.
+Melden uns demnächst wieder.
+ 
+<!-- Das [Line-Up](/lineup) ist komplett und wir sind schon fleißig am Organisieren. -->
 
 Wir freuen uns!
 

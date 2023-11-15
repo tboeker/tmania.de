@@ -4,7 +4,7 @@ title: T-Mania 17
 type: page
 ---
 
-[2021 - 17 X](/history/2021) -- [2022](/history/2022)
+[2021 - 17 X](/history/2021) -- [2023 - 18](/history/2023)
 
 # 24. und 25. Juni 2022
 
