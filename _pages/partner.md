@@ -18,6 +18,8 @@ type: page
 
 Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
+[Sponsoringvertrag-2024 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2024.pdf' | relative_url }} )
+
 <!-- Stand: 13.05.2019 -->
 
 <!-- [![alt text](image link)](web link) -->
@@ -117,7 +119,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 
 ## Downloads
-- [Sponsoringvertrag]( {{ '/assets/downloads/Sponsoringvertrag.pdf' | relative_url }} )
+- [Sponsoringvertrag-2024 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2024.pdf' | relative_url }} )
 
 <!-- ![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg) -->
 <!-- ![Sartor Systemintegration](/assets/partner-logos/sartor.png) -->
