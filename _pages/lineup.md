@@ -20,7 +20,7 @@ type: page
 [SIMPLE STRICKTS](#simplestrickts)
 [KELLERGEISTER](#kellergerister)
 [RANDALE](#randale)
-[IDEREEN](#idereen)
+[IEDEREEN](#iedereen)
 [CROCOZEBRÁ](#crocozebra)
 [BUTTERWEGGE](#butterwegge)
 [BAD NENNDORF BOYS](#bnboys)
@@ -95,12 +95,13 @@ Seit 2002 musiziert sich die niedersächsische Ska-Punk-Kapelle mit ihren deutsc
 Aber nicht nur auf der Bühne haben sich die sechs Musiker einen Namen gemacht. Nach dem Debütalbum „Le Ska c‘est moi“ legten sie mit „Wir lügen nicht“, „Ich will alles“ und „Noch ´ne Runde“ in den vergangenen Jahren drei weitere überzeugende Gesamtkompositionen auf den Plattenteller. Die Jungs ruhen sich aber keineswegs auf ihren Hits aus. Es juckt ihnen in den Fingern, und so halten die Bad Nenndorf Boys immer neue Rock´n´Roll-verliebte Skanummern für die Zukunft bereit
 
 [Homepage](https://www.bnboys.de/)
+<!-- [Instagram](https://www.instagram.com/iedereen.band/?hl=de) -->
 <!-- [Facebook](https://www.facebook.com/goldenkanine/) -->
 
-### IDEREEN
+### IEDEREEN
 
-{: #idereen }
-![goldenkanine]( {{'/assets/images/2024/idereen.jpg'|relative_url}} ){:class="img-responsive"}
+{: #iedereen }
+![goldenkanine]( {{'/assets/images/2024/iedereen.jpg'|relative_url}} ){:class="img-responsive"}
 
 Das Duo in der Rockmusik funktioniert nach dem Prinzip der Reduktion. Weniger ist mehr, heißt die Devise, wenn man wie Tom Sinke (Gesang, Gitarre) und Ron Hufnaegels (Schlagzeug) nur zu zweit auf der Bühne steht. Da muss man einfach mit höherem Engagement spielen, und es ist vor allem die Dringlichkeit und die Energie der beiden Freunde, die einen direkt am Kragen packt. Haben wir 2023 oder 1981? Ist das Post-Punk, Noise-Rock oder Alt.Pop? Wollen die jetzt düster oder fröhlich klingen? IEDEREEN lassen diese Fragen gut und gerne offen. Sie zeigen trotz kleinstmöglicher Besetzung eine größtmögliche musikalische Spannbreite, die durch die herrlich rotzige Attitüde der Band zusammengehalten wird. Was hier zählt, ist der Augenblick, Mit lauten Gitarren und weirden Texten feiern IEDEREEN den Moment des Schwindels, zelebrieren die Körperlichkeit, lassen den Hedonismus hochleben. Ihr habt den Alltag? Wir haben den Fluchtweg! Eskapismus klang lange nicht mehr so verlockend.
 
