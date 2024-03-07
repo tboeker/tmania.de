@@ -31,23 +31,20 @@ type: page
 
 ## Freitag
 
-## THE GREAT CRUSADES
+### THE GREAT CRUSADES
 
 {: #thegreatcrusades }
-
 ![thegreatcrusades]( {{'/assets/images/2023/thegreatcrusades.jpg'|relative_url}} ){:class="img-responsive"}
 
 Like the bands they admire, such as Camper Van Beethoven, Nick Cave and the Bad Seeds and Kaiser Chiefs, the Great Crusades seem to be in it for the long haul—still writing outstanding tunes and playing mind-blowing live shows. Vocalist/guitarist Brian Krumm gathered the current band members in Chicago 20 years ago, including collaborators Brian Hunt, Brian Leach and Christian Moder. He had already released the band’s first album, The First Spilled Drink of the Evening. Soon after, Rolling Stone’s David Fricke wrote, “The Great Crusades look at life through a shot-glass lens, mixing anger, muscle and minor-key remorse like a roughneck Tindersticks with the bonus of a singer who’s got the tubercular pipes of Tom Waits and Axl Rose’s love child.” (Mud Records reissued First Spilled Drink in Summer 2017.)
 
 [Homepage](https://thegreatcrusades.com/?cat=3)
-
 [Facebook](https://www.facebook.com/greatcrusades)
 
-## JOE ASTRAY
+### JOE ASTRAY
 
 {: #joeastray }
-
-![trixsi]( {{'/assets/images/2023/joeastray.jpg'|relative_url}} ){:class="img-responsive"}
+![joeastray]( {{'/assets/images/2023/joeastray.jpg'|relative_url}} ){:class="img-responsive"}
 
 Joe Astray veröffentlicht 2021 mit „Reconstruction“ seine erste LP, die viel preisgibt, (wieder-) aufbaut und neue Wege einschlägt. Joe sah sich sowohl in
 privater als auch in künstlerischer Hinsicht an einem Scheideweg angelangt, wusste, dass sich etwas ändern muss und wollte diese spannende Zeit in einem
@@ -62,15 +59,13 @@ reduziert und opulent sein und man glaubt ihr beides. Schließlich endet sie mit
 Grund genug für noch mehr Rekonstruktion.
 
 [Homepage](https://joeastray.com)
-
 [Backstagepro](https://www.backstagepro.de/musiker/joe-astray-musiker-saenger-gitarrist-bassist-hamburg-Cb6BGGFNq)
 
 ## Samstag
 
-## TRIXSI
+### TRIXSI
 
 {: #trixsi }
-
 ![trixsi]( {{'/assets/images/2023/trixsi.jpg'|relative_url}} ){:class="img-responsive"}
 
 It´s not a trick. It´s just TRIXSI.
@@ -85,17 +80,16 @@ Die Band aus Hamburg spielt sowohl mit den funktionalen, antrainierten Momenten 
 
 [Facebook](https://m.facebook.com/100046858042069/)
 
-## ACHT EIMER HÜHNERHERZEN
+### ACHT EIMER HÜHNERHERZEN
 
 {: #achteimerhuehnerherzen }
-
 ![achteimerhuehnerherzen]( {{'/assets/images/2023/achteimerhuehnerherzen.jpg'|relative_url}} ){:class="img-responsive"}
 
 ACHT EIMER HÜHNERHERZEN aus Berlin-Kreuzberg sind ein halbakustisches Nylon-Punk-Trio mit den drei Musikstilen Powerviolence-Folk, Kakophonie und Bindungsangst. Sie spielen Wandergitarren-Hardcore mit Fuzz und Driver für die drei grossen „A“s im S-Bahn-Gürtel: Alleinerziehende, Alkoholiker und Allergiker ... und für alle Heiter-Depressiven. (Ox Fanzine)
 
 [Homepage](https://achteimerhuehnerherzen.info/)
 
-## UWE AGAINST THE MACHINE
+### UWE AGAINST THE MACHINE
 
 {: #uweagainstthemachine }
 
@@ -112,7 +106,7 @@ Beim Show-Programm wird für jeden etwas dabei sein, sodass alle Anwesenden mind
 
 [Instagram](https://www.instagram.com/uwe_againstthemachine/)
 
-## LUCAS RIEGER
+### LUCAS RIEGER
 
 {: #lucasrieger }
 
@@ -131,7 +125,7 @@ Aber hören sie selbst
 
 [Backstagepro](https://m.backstagepro.de/lucasrieger)
 
-## FRESSE
+### FRESSE
 
 {: #fresse }
 
@@ -143,7 +137,7 @@ Bis dahin gedulden wir uns mit ein par Konzerten um dies zu promoten. Auf der B�
 
 [Backstagepro](https://m.backstagepro.de/fresse)4
 
-## MUSKELPROTZ
+### MUSKELPROTZ
 
 {: #muskelprotz }
 
@@ -165,7 +159,7 @@ Ich bin MuskelProtz!
 [Instagram](https://www.instagram.com/muskelprotzpunk/)
 [Twitter](https://twitter.com/msklprtz)
 
-## WE AGAINST MONDAY
+### WE AGAINST MONDAY
 
 {: #weagainstmonday }
 
@@ -205,7 +199,7 @@ Join our journey. Für alle Montagshasser und Fans des Bühnenpop & Radiorocks!
 
 [Facebook](https://m.facebook.com/100085912365473)
 
-## RHINOSAURS
+### RHINOSAURS
 
 {: #rhinosaurs }
 
