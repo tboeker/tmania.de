@@ -7,6 +7,7 @@ url: "http://t-mania.de"
 
 logo: /assets/images/t-mania-logo.png
 
+
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 

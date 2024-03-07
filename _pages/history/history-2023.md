@@ -6,14 +6,13 @@ type: page
 
 [2022 - 17](/history/2022)
 
-# 23. und 24. Juni 2023
+## 23. und 24. Juni 2023
 
 ![2023]( {{ '/assets/images/2023-plakat.jpg' | relative_url }} )
 
 ![Flyer 2023 Vorderseite]( {{ '/assets/images/2023-flyer.jpg' | relative_url }} )
 
 ![Flyer 2023 Rückseite]( {{ '/assets/images/2023-flyer2.jpg' | relative_url }} )
-
 
 | Freitag |
 |-------|
@@ -30,9 +29,10 @@ type: page
 | [TRIXSI](#trixsi) |
 | [UWE AGAINST THE MACHINE](#uweagainstthemachine) |
 
-# Freitag
+## Freitag
 
 ## THE GREAT CRUSADES
+
 {: #thegreatcrusades }
 
 ![thegreatcrusades]( {{'/assets/images/2023/thegreatcrusades.jpg'|relative_url}} ){:class="img-responsive"}
@@ -44,6 +44,7 @@ Like the bands they admire, such as Camper Van Beethoven, Nick Cave and the Bad 
 [Facebook](https://www.facebook.com/greatcrusades)
 
 ## JOE ASTRAY
+
 {: #joeastray }
 
 ![trixsi]( {{'/assets/images/2023/joeastray.jpg'|relative_url}} ){:class="img-responsive"}
@@ -64,9 +65,10 @@ Grund genug für noch mehr Rekonstruktion.
 
 [Backstagepro](https://www.backstagepro.de/musiker/joe-astray-musiker-saenger-gitarrist-bassist-hamburg-Cb6BGGFNq)
 
-# Samstag
+## Samstag
 
 ## TRIXSI
+
 {: #trixsi }
 
 ![trixsi]( {{'/assets/images/2023/trixsi.jpg'|relative_url}} ){:class="img-responsive"}
@@ -84,6 +86,7 @@ Die Band aus Hamburg spielt sowohl mit den funktionalen, antrainierten Momenten 
 [Facebook](https://m.facebook.com/100046858042069/)
 
 ## ACHT EIMER HÜHNERHERZEN
+
 {: #achteimerhuehnerherzen }
 
 ![achteimerhuehnerherzen]( {{'/assets/images/2023/achteimerhuehnerherzen.jpg'|relative_url}} ){:class="img-responsive"}
@@ -93,78 +96,77 @@ ACHT EIMER HÜHNERHERZEN aus Berlin-Kreuzberg sind ein halbakustisches Nylon-Pun
 [Homepage](https://achteimerhuehnerherzen.info/)
 
 ## UWE AGAINST THE MACHINE
+
 {: #uweagainstthemachine }
 
 ![uweagainstthemachine]( {{'/assets/images/2023/uweagainstthemachine.jpg'|relative_url}} ){:class="img-responsive"}
 
-Ausnahmekünstler „Uwe“ hat für die Dalhäuser Punk-Rock Familie wieder eine ganz besondere Auswahl an 90er Coversongs vorbereitet. 
-
+Ausnahmekünstler „Uwe“ hat für die Dalhäuser Punk-Rock Familie wieder eine ganz besondere Auswahl an 90er Coversongs vorbereitet.
 
 In den letzten vier Jahren hat die Band nun ein optimales Verhältnis zwischen Spaß und Wahnsinn gefunden. Die Musiker haben Ihre Heimat bereits vor vielen Jahren in der Hardcore-, Punk-, Rock- und Metalszene gefunden und wollen euch am Samstag einen würdevolles Festivalfinale bieten.
 
-
-Ein besonderes Dankeschön geht jetzt schon an die gesamte T-Mania Truppe, denn ohne diese Mannschaft würden wir wahrscheinlich nicht in dieser Form existieren. 
-Fester Bestandteil der Band ist zudem die aus Dalhausen stammende Sängerin Stefanie (vonne Kolonie wech). 
+Ein besonderes Dankeschön geht jetzt schon an die gesamte T-Mania Truppe, denn ohne diese Mannschaft würden wir wahrscheinlich nicht in dieser Form existieren.
+Fester Bestandteil der Band ist zudem die aus Dalhausen stammende Sängerin Stefanie (vonne Kolonie wech).
 
 Beim Show-Programm wird für jeden etwas dabei sein, sodass alle Anwesenden mindestens bei einem Lied komplett durchdrehen können! Also, vorab bitte ausreichend Flüssigkeiten einnehmen!
 
 [Instagram](https://www.instagram.com/uwe_againstthemachine/)
 
 ## LUCAS RIEGER
+
 {: #lucasrieger }
 
 ![lucasrieger]( {{'/assets/images/2023/lucasrieger.jpg'|relative_url}} ){:class="img-responsive"}
 
-Lucas Rieger (mit C) schreibt nun seit einigen Jahren seine Songs irgendwo zwischen Pop, Punk und Folk. Also Musik sowohl für Boots, als auch für 
-Sneakers. 
+Lucas Rieger (mit C) schreibt nun seit einigen Jahren seine Songs irgendwo zwischen Pop, Punk und Folk. Also Musik sowohl für Boots, als auch für
+Sneakers.
 
 Was sich textlich um Alltag, Politik oder auch mal Coming-of-Age dreht, wird Live mit Akustikgitarre und Stimme dargeboten. Die Loop-Station ist genauso oft dabei, wie hier und da ein kleiner Beat. Das macht er alleine, sowohl auf der Bühne als auch im eigenen Studio.
-Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er 
+Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er
 bundesweit, sowie im deutschsprachigen Ausland tourte und sich die Bühne mit Acts wie Bela B. oder auch Revolverheld teilte.
 
 Solo spielte er mit Acts wie Jupiter Jones, Kapelle Petra, Austin Lucas oder Matze Rossi.
-
 
 Aber hören sie selbst
 
 [Backstagepro](https://m.backstagepro.de/lucasrieger)
 
 ## FRESSE
+
 {: #fresse }
 
 ![fresse]( {{'/assets/images/2023/fresse.jpg'|relative_url}} ){:class="img-responsive"}
 
-FRESSE, seid über 12 Jahren fester Bestandteil der münsteraner Musikscene. Das zweite Album "Ohh, Bier!" ist aktuell in der Pressung und möchte zum Spätsommer 2023 endlich unters Volk gebracht werden. 
+FRESSE, seid über 12 Jahren fester Bestandteil der münsteraner Musikscene. Das zweite Album "Ohh, Bier!" ist aktuell in der Pressung und möchte zum Spätsommer 2023 endlich unters Volk gebracht werden.
 
-Bis dahin gedulden wir uns mit ein par Konzerten um dies zu promoten. Auf der Bühne heißt es: "Hauptsache Spaß und gute Laune". In der heutigen achso ernsten (Punk)welt kommt der Spaß leider oft zu kurz. Dem wollen Fresse mit freundlich pöbelden Parolen ein Riegel vor schieben. Dosenstechen, Bierduschen, Schreien, sich in den Armen liegen... Punkrock, simple as F**** 
-
+Bis dahin gedulden wir uns mit ein par Konzerten um dies zu promoten. Auf der Bühne heißt es: "Hauptsache Spaß und gute Laune". In der heutigen achso ernsten (Punk)welt kommt der Spaß leider oft zu kurz. Dem wollen Fresse mit freundlich pöbelden Parolen ein Riegel vor schieben. Dosenstechen, Bierduschen, Schreien, sich in den Armen liegen... Punkrock, simple as F****
 
 [Backstagepro](https://m.backstagepro.de/fresse)4
 
 ## MUSKELPROTZ
+
 {: #muskelprotz }
 
 ![muskelprotz]( {{'/assets/images/2023/muskelprotz.jpg'|relative_url}} ){:class="img-responsive"}
 
-Der fleischgewordene Traum aus fettfreier Muskelmasse verwandelt mit seinem Synthesizer garnierten Pop-Punk Laucharme in echte 50er. 
+Der fleischgewordene Traum aus fettfreier Muskelmasse verwandelt mit seinem Synthesizer garnierten Pop-Punk Laucharme in echte 50er.
 
-MuskelProtz glänzt wie ein eingelölter Beachbody und bleibt mit Hits wie „Arm statt Abi“, „Fürst der Fitness“ oder „Venice Beach“ nicht nur für immer in deinem Ohr, sondern erzählt auch authentische Geschichten aus dem Gym ohne dabei das Augenzwinkern zu vergessen. 
-Live überzeugt MuskelProtz mit seiner starken Bühnenpräsenz und perfekt abgestimmten Sound. 
+MuskelProtz glänzt wie ein eingelölter Beachbody und bleibt mit Hits wie „Arm statt Abi“, „Fürst der Fitness“ oder „Venice Beach“ nicht nur für immer in deinem Ohr, sondern erzählt auch authentische Geschichten aus dem Gym ohne dabei das Augenzwinkern zu vergessen.
+Live überzeugt MuskelProtz mit seiner starken Bühnenpräsenz und perfekt abgestimmten Sound.
 
 Lass dir dieses schwitzende Gold’s Gym Ehrenmitglied auf dem Weg zur Legende nicht entgehen und sing laut mit, wenn es wieder heißt:
 
-#MuskelProtz #FuenfzigerArm #FuerstDerFitness
+'# MuskelProtz #FuenfzigerArm #FuerstDerFitness'
 
 Ich bin MuskelProtz!
-
 
 [Bandcamp](https://muskelprotz.bandcamp.com)
 [Facebook](https://www.facebook.com/muskelprotzpunk)
 [Instagram](https://www.instagram.com/muskelprotzpunk/)
 [Twitter](https://twitter.com/msklprtz)
 
-
 ## WE AGAINST MONDAY
+
 {: #weagainstmonday }
 
 ![weagainstmonday]( {{'/assets/images/2023/weagainstmonday.jpg'|relative_url}} ){:class="img-responsive"}
@@ -176,7 +178,7 @@ Nicht nur eine Band, beste Freunde, Familie.
 
 Erlebtes verbindet, Erinnerungen verblassen, Songs sind für die Ewigkeit.
 Eine magische musikalische Verbindung zwischen 5 genialen Künstlern.
-Newcomer, die ihr Handwerk verstehen und es auch benutzen werden. 
+Newcomer, die ihr Handwerk verstehen und es auch benutzen werden.
 
 Mitglieder:
 
@@ -190,25 +192,24 @@ Laurenz Westermeier Lead Gitarre & Songwriting (2022)
 
 Jonas Schlanstedt Schlagzeug & Songwriting (2022)
 
-
 Coldplay mit einer Prise SexPistols. WeAgainstMonday!
 
 2018 noch als simple Coverband gestartet, steht WeAgainstMonday seit 2021 mit eigenen Songs, perfekter Besetzung fest auf den Füßen und alle Regler sind auf Erfolg gestellt.
-Es gibt einen Punkt in jeder Band wo der Knoten platzt und man weiß, wo man hingehört. 
+Es gibt einen Punkt in jeder Band wo der Knoten platzt und man weiß, wo man hingehört.
 So geschehen im September 2021.
 
-Damals noch unter dem Namen „Kollektiv Mensch“ und eigenen deutschsprachigen Songs kam ein Teil der jetzigen Powerkonstellation das erste Mal zusammen. Perfektioniert durch den Zuwachs im Herbst 2022 wurde uns allen klar, da ist noch so viel mehr unausgeschöpftes Potential. Musik verbindet uns, obwohl jeder aus einem ganz anderen Genre kommt. Ob Metal, Techno, Soul oder Pop/Rock, aus diesen Ursprüngen kreieren WeAgainstMonday einen frisch klingenden Sound für alle Fans der klassischen 2000er Rock Pop Welle. Für alle, die den Text zu „Teenage Dirtbag“ immer noch auswendig mitgrölen können, wird es jetzt Zeit für neue Klassiker. 
-Für uns als Künstler gibt es nichts größeres als die Emotionen die wir in unserer Musik verarbeiten an unsere Zuhörer weiterzugeben. Zu hören, dass unsere Songs durch dunkle Zeiten helfen, in Cabrios auf voller Lautstärke gepumpt oder zum abfeiern genutzt werden. Dafür machen wir Musik. Emotion ist unser Antrieb. Musik erzählt immer eine Geschichte. Step aside. Zeit für unsere Geschichte. 
+Damals noch unter dem Namen „Kollektiv Mensch“ und eigenen deutschsprachigen Songs kam ein Teil der jetzigen Powerkonstellation das erste Mal zusammen. Perfektioniert durch den Zuwachs im Herbst 2022 wurde uns allen klar, da ist noch so viel mehr unausgeschöpftes Potential. Musik verbindet uns, obwohl jeder aus einem ganz anderen Genre kommt. Ob Metal, Techno, Soul oder Pop/Rock, aus diesen Ursprüngen kreieren WeAgainstMonday einen frisch klingenden Sound für alle Fans der klassischen 2000er Rock Pop Welle. Für alle, die den Text zu „Teenage Dirtbag“ immer noch auswendig mitgrölen können, wird es jetzt Zeit für neue Klassiker.
+Für uns als Künstler gibt es nichts größeres als die Emotionen die wir in unserer Musik verarbeiten an unsere Zuhörer weiterzugeben. Zu hören, dass unsere Songs durch dunkle Zeiten helfen, in Cabrios auf voller Lautstärke gepumpt oder zum abfeiern genutzt werden. Dafür machen wir Musik. Emotion ist unser Antrieb. Musik erzählt immer eine Geschichte. Step aside. Zeit für unsere Geschichte.
 
 Join our journey. Für alle Montagshasser und Fans des Bühnenpop & Radiorocks!
 
 [Facebook](https://m.facebook.com/100085912365473)
 
 ## RHINOSAURS
+
 {: #rhinosaurs }
 
 ![rhinosaurs]( {{'/assets/images/2023/rhinosaurs.jpg'|relative_url}} ){:class="img-responsive"}
-
 
 RHINOSAURS – Post-Grunge aus Marsberg
 
@@ -218,14 +219,10 @@ Mit Jannis, Marcel und Kitto ist die Band seitdem komplett. Ihr Credo „More is
 Mit einem Gefühl von „My Way Home“ geht es bald los und ganz im Sinne von Alt-meister Dave Grohl: „It's not about being perfect, it's not about sounding absolutely correct. It's not about what goes on in a computer. It's about what goes on in your heart and what goes on in your head“.
 
 RHINOSAURS sind:
-	
-Christian „Picko“ Wagner,  Guitar, Vocals
 
-Marcel Kremeike, Drums, Vocals
-
-Jannis Kuhn, Guitar
-
-Daniel „Kitto“ von Rüden, Bass, Vocals
-
+* Christian „Picko“ Wagner,  Guitar, Vocals
+* Marcel Kremeike, Drums, Vocals
+* Jannis Kuhn, Guitar
+* Daniel „Kitto“ von Rüden, Bass, Vocals
 
 [Facebook](https://www.facebook.com/Rhinosaurs.band/)

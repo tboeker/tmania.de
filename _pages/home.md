@@ -21,11 +21,9 @@ Hallo Liebe Festival-Freunde,
 Der Termin für das 19. Festival steht und wir arbeiten fleißig am Line-Up.
 
 Melden uns demnächst wieder.
- 
 <!-- Das [Line-Up](/lineup) ist komplett und wir sind schon fleißig am Organisieren. -->
 
 Wir freuen uns!
-
 
 Schöne Grüße
 

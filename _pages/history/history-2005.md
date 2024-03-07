@@ -6,7 +6,7 @@ type: page
 
 [2004 - 01](/history/2004) -- [2006 - 03](/history/2006)
 
-# 2. Juli 2005
+## 2. Juli 2005
 
 <!-- ![2007]( {{ '/assets/images/2007-plakat.jpg' | relative_url }} ) -->
 

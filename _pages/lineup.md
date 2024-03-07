@@ -28,7 +28,6 @@ type: page
 | 20:40 - 21:50 | [TRIXSI](#trixsi) |
 | 22:20 - 23:50 | [UWE AGAINST THE MACHINE](#uweagainstthemachine) | -->
 
-
 <!--
 Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )
 -->

@@ -7,14 +7,13 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
-<style type="text/css">
+<!-- <style type="text/css">
   .center-image
   {
       margin: 0 auto;
       display: block;
   }
-</style>
-
+</style> -->
 
 Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
@@ -48,7 +47,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg){: .center-image }](https://www.zahnarzt-ziegler.de)
 
-
 <!-- 120 -->
 
 [![Marien Apotheke Dalhausen](/assets/partner-logos/apotheke.jpg){: .center-image }](https://www.marien-apotheke-dalhausen.de)
@@ -81,8 +79,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Hubert Suermann GmbH](/assets/partner-logos/suermann-sanitaer.jpg){: .center-image }](https://suermannsanitaer.de)
 
-
-
 <!-- 60 -->
 
 ![BQ Rohrsysteme](/assets/partner-logos/bq.jpg){: .center-image }
@@ -96,8 +92,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 ![Bäckerei Mann](/assets/partner-logos/baeckerei-mann.jpg){: .center-image }
 
 ![Zentis Grilleck](/assets/partner-logos/zenti.jpg){: .center-image }
-
-
 
 <!-- Sonstige -->
 
@@ -117,8 +111,8 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.jpeg){: .center-image }](https://wiesmann-service.de)
 
-
 ## Downloads
+
 - [Sponsoringvertrag-2024 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2024.pdf' | relative_url }} )
 
 <!-- ![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg) -->
