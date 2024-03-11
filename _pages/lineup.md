@@ -10,20 +10,20 @@ type: page
 
 ### Freitag 21.06.2024
 
-[ISABEL NOLTE](#isabelnolte)
-[SULTANS COURT](#sultanscourt)
-[GOLDEN KANINE](#goldenkanine)
+* [GOLDEN KANINE](#goldenkanine)
+* [ISABEL NOLTE](#isabelnolte)
+* [SULTANS COURT](#sultanscourt)
 
 ### Samstag 22.06.2024
 
-[BREMER PLATZMUSIKANTEN](#bpm)
-[SIMPLE STRICKTS](#simplestrickts)
-[KELLERGEISTER](#kellergerister)
-[RANDALE](#randale)
-[IEDEREEN](#iedereen)
-[CROCOZEBRÁ](#crocozebra)
-[BUTTERWEGGE](#butterwegge)
-[BAD NENNDORF BOYS](#bnboys)
+* [BUTTERWEGGE](#butterwegge)
+* [BAD NENNDORF BOYS](#bnboys)
+* [IEDEREEN](#iedereen)
+* [CROCOZEBRÁ](#crocozebra)
+* [RANDALE](#randale)
+* [BREMER PLATZMUSIKANTEN](#bpm)
+* [SIMPLE STRICKTS](#simplestrickts)
+* [KELLERGEISTER](#kellergerister)
 
 <!-- | Freitag 21.06.2024 | Band |
 |-------|--------|
@@ -78,6 +78,7 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ### BUTTERWEGGE
 
 {: #butterwegge }
+![butterwegge]( {{'/assets/images/2024/butterwegge.jpg'|relative_url}} ){:class="img-responsive"}
 
 3 Mädels und 3 Jungs, ne ordentliche Portion Punkrock und immer wieder frische Ausflüge in Reggae- und Skabeats.
 
@@ -86,7 +87,6 @@ Dazu deutschsprachige Texte, die mal politisch intelligent, mal trivial süffsa
 Butterwegge ist seit ein paar Jahren fester Bestandteil der bunten Szene und quatscht und musiziert sich Solo, oder mit Band durch die Clubs der Nation bis hin zu den großen Bühnen wie beim Open Flair, Ruhrpott Rodeo, Punk im Pott, u.v.m..
 
 [Homepage](http://der-butterwegge.de/)
-![butterwegge]( {{'/assets/images/2024/butterwegge.jpg'|relative_url}} ){:class="img-responsive"}
 <!-- [Facebook](https://www.facebook.com/goldenkanine/) -->
 
 ### BAD NENNDORF BOYS
