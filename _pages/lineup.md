@@ -54,7 +54,12 @@ Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | r
 ### GOLDEN KANINE
 
 {: #goldenkanine }
-![goldenkanine]( {{'/assets/images/2024/goldenkanine.png'|relative_url}} ){:class="img-responsive"}
+![goldenkanine]( {{'/assets/images/2024/goldenkanine.jpg'|relative_url}} ){:class="img-responsive"}
+
+Golden Kanine Announces Return to the Stage After Seven-Year Hiatus. Indie folk sensation Golden Kanine has officially broken their six-year silence and is set to embark on an eagerly awaited tour. The Swedish/German six-piece, renowned for their emotionally charged compositions and unique blend of folk and indie elements, is gearing up to enchant audiences once again with their captivating live performances. Having last graced the stage in 2018, Golden Kanine surprised fans with a prolonged hiatus that left many wondering about the future of the band. During this break, the members of Golden Kanine took time to explore individual musical endeavors and personal growth, contributing to the anticipation surrounding their imminent return. Golden Kanine’s decision to break their silence and hit the road again comes as exciting news for fans who have patiently awaited their return. The upcoming tour promises to be a celebration of the band’s discography, featuring both beloved classics and, perhaps, some long-awaited new material.
+
+[Youtube](https://www.youtube.com/watch?v=XSK649P38ZM&t=6s)
+[Youtube](https://www.youtube.com/watch?v=PQ64W9AXr3E)
 [Facebook](https://www.facebook.com/goldenkanine/)
 
 ### ISABEL NOLTE
