@@ -128,7 +128,23 @@ Das Duo in der Rockmusik funktioniert nach dem Prinzip der Reduktion. Weniger is
 ### RANDALE
 
 {: #randale }
-<!-- ![goldenkanine]( {{'/assets/images/2024/goldenkanine.png'|relative_url}} ){:class="img-responsive"} -->
+![randale]( {{'/assets/images/2024/randale.jpg'|relative_url}} ){:class="img-responsive"}
+
+2004 – 2022 18 Jahre Randale "Sandkastenrocker"
+
+als ob DIE ÄRZTE gemeinsam mit den RAMONES und IGGY POP Kindermusik machen würden.
+RANDALE sind zurück! Mit neuer Power und dem im Mai 2022 erscheinenden Album „Sandkastenrocker“ sind die Männer aus Bielefeld wieder am Start, um ihrer Version von familientauglicher Rock- und Punkmusik fortzusetzen.
+
+Sie haben die Corona-Pause gut genutzt. Über 1200 Anrufe bei Geburtstagskindern, Konzerte unter Corona-Bedingungen und eine Tour durch die Gärten von 140 Kitas waren starke Zeichen in besonderen Zeiten.
+
+Und neue Songs für das 12.Album sind entstanden. Die Mischung ist bewährt. Rock und Punk, Reggae und Ska, Pop und sogar Disco sind dabei.
+
+Garrelt, Marc, Christian und Jochen können kaum abwarten, die neuen Lieder kombiniert mit den Hits der Band auf die Bühne zu bringen.
+
+Never mind the Blockflöte – hier kommt Randale!
+
+[Homepage](https://www.randale-musik.de/)
+[Videos](https://www.randale-musik.de/videos)
 <!-- [Facebook](https://www.facebook.com/goldenkanine/) -->
 
 ### BREMER PLATZMUSIKANTEN
