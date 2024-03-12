@@ -122,6 +122,13 @@ Das Duo in der Rockmusik funktioniert nach dem Prinzip der Reduktion. Weniger is
 ### CROCOZEBRÁ
 
 {: #crocozebra }
+
+Crocozebra kommen aus der Gegend und machen Indiepop, wie er 2008 mal cool war: Ein Bisschen Uffta-Uffta, ein Bisschen Düdeldü und noch ein ganz kleines Bisschen Zirkus.
+
+Ihre Songs sind wie alter Wein - alt. Und ja, sie könnten neue schreiben, aber welchen Sinn hätte das? Sie bleiben lieber bei dem alten Kram. Mit viel zu wenig neuem Material kann man sich darauf verlassen, dass man hört, was man kennt. Super, oder? Wo gibts heute noch so viel Verlässliches?
+
+Zum Tanzen hat das immer gut funktioniert und sollte es auch heute noch. Lasst uns das einfach mal machen! Dann kann man wenigstens hinterher behaupten, dass man wirklich getanzt hat.
+
 <!-- ![goldenkanine]( {{'/assets/images/2024/goldenkanine.png'|relative_url}} ){:class="img-responsive"} -->
 <!-- [Facebook](https://www.facebook.com/goldenkanine/) -->
 
