@@ -172,8 +172,14 @@ Bei Monasteria Recordz hat BPM das Debutalbum "The Kiez are allright" als Tape u
 ### SIMPLE STRICKTS
 
 {: #simplestrickts }
-<!-- ![goldenkanine]( {{'/assets/images/2024/goldenkanine.png'|relative_url}} ){:class="img-responsive"} -->
-<!-- [Facebook](https://www.facebook.com/goldenkanine/) -->
+![simplestrickts]( {{'/assets/images/2024/simplestrickts.jpg'|relative_url}} ){:class="img-responsive"}
+
+Die Simple Strickts bewegen sich seit 2006 musikalisch quer durch den Ruhrpott und selten darüber hinaus.
+Nach etlichen Jahren ist es ihnen gelungen, das Album für den Punkrocker der Spätmoderne rauszuhauen. Frei nach dem Motto einer drittklassigen Fleischerei kommen sie mit „Gutem von gestern zum halben Preis“ um die Ecke. So marodieren sie von Punkrockschuppen zu Trinkerkneipe und bieten bemitleidenswerten Ohren hier und dort ihren Punkrock an.
+
+[Youtube](https://youtu.be/SRRKjnGXUeU?si=bqCWM3S2hF0GwTnH)
+[Facebook](https://www.facebook.com/simplestrickts)
+[Spotify](https://open.spotify.com/album/31cS1Ssti7y2zoyX70X6Sp?si=IZMVXUtTTW2OZi_IlHUWzA)
 
 ### KELLERGEISTER
 
