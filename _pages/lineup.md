@@ -74,7 +74,7 @@ Golden Kanine Announces Return to the Stage After Seven-Year Hiatus. Indie folk 
 ### SULTANS COURT
 
 {: #sultanscourt }
-[sultanscourt]( {{'/assets/images/2024/sultanscourt.jpg'|relative_url}} ){:class="img-responsive"}
+![sultanscourt]( {{'/assets/images/2024/sultanscourt.jpg'|relative_url}} ){:class="img-responsive"}
 
 Sultans Court, eine Berliner Band, die auf dem Dockville Festival 2014 ins Leben gerufen wurde, zeichnet sich durch eine eklektische Fusion von Klängen aus. Ihre Musik entzieht sich einer klaren Kategorisierung und bewegt sich geschickt zwischen Analogem und Elektronischem. Dunkle Motive werden durch einen energiegeladenen Groove und treibende Percussions aufgelockert, während der Gesang mal die Musik leitet und mal spielerisch darin aufgeht. Vergleiche mit Künstlern wie Alt-J, Chet Faker und Glass Animals sind zwar naheliegend, können jedoch nur grob die Vielschichtigkeit von Sultans Court einfangen.
 
