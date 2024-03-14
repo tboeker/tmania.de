@@ -23,7 +23,7 @@ type: page
 * [RANDALE](#randale)
 * [BREMER PLATZMUSIKANTEN](#bpm)
 * [SIMPLE STRICKTS](#simplestrickts)
-* [KELLERGEISTER](#kellergerister)
+* [KELLERGEISTER](#kellergeister)
 
 <!-- | Freitag 21.06.2024 | Band |
 |-------|--------|
@@ -74,8 +74,13 @@ Golden Kanine Announces Return to the Stage After Seven-Year Hiatus. Indie folk 
 ### SULTANS COURT
 
 {: #sultanscourt }
+[sultanscourt]( {{'/assets/images/2024/sultanscourt.jpg'|relative_url}} ){:class="img-responsive"}
+
+Sultans Court, eine Berliner Band, die auf dem Dockville Festival 2014 ins Leben gerufen wurde, zeichnet sich durch eine eklektische Fusion von Klängen aus. Ihre Musik entzieht sich einer klaren Kategorisierung und bewegt sich geschickt zwischen Analogem und Elektronischem. Dunkle Motive werden durch einen energiegeladenen Groove und treibende Percussions aufgelockert, während der Gesang mal die Musik leitet und mal spielerisch darin aufgeht. Vergleiche mit Künstlern wie Alt-J, Chet Faker und Glass Animals sind zwar naheliegend, können jedoch nur grob die Vielschichtigkeit von Sultans Court einfangen.
+
+Mit Auftritten bei renommierten Festivals wie dem Fuchsbau Festivall, Nürnberg Pop und dem Reeperbahn Festival sowie Radiosendern wie radioeins, Das Ding, Radio Fritz, MDR Sputnik, egoFM und FluxFM haben sie sich einen festen Platz in der Indie-Szene Deutschlands erobert.
+
 [Homepage](https://sultanscourt.com/)
-<!-- [goldenkanine]( {{'/assets/images/2024/goldenkanine.png'|relative_url}} ){:class="img-responsive"} -->
 <!-- [Facebook](https://www.facebook.com/goldenkanine/) -->
 
 ## Samstag
@@ -183,6 +188,13 @@ Nach etlichen Jahren ist es ihnen gelungen, das Album für den Punkrocker der Sp
 
 ### KELLERGEISTER
 
-{: #kellergerister }
-<!-- ![goldenkanine]( {{'/assets/images/2024/goldenkanine.png'|relative_url}} ){:class="img-responsive"} -->
+{: #kellergeister }
+![kellergeister]( {{'/assets/images/2024/kellergeister.jpg'|relative_url}} ){:class="img-responsive"}
+
+Die Kellergeister bestehen aus 5 in die Jahre gekommenen Alt-Punk´s, die sich gern mit dem Genre des Deutschpunks beschäfigen und sich selbst nicht allzu ernst nehmen. Gedanklich in der rebellisch und provozierenden Zeit der 80er Jahre hängengeblieben, fällt es ihnen weiterhin schwer, den musikalischen Horizont über 3 Akkorde hinaus zu erweitern. Die Rock n Roll Butterfahrt 2015 auf Helgoland war die Inizalzündung zur Gründung der Kellergeister. Vielen sind die Zwiebelbauern aus Lüchtringen vielleicht noch bekannt und der ein oder andere kann sich an Miss Marple and the Magictones erinnern. Teile beider Bands ergeben heute die Kellergeister, die sich wie Folgt aufstellen.
+
+Am Gesang das Rostkehlchen Andi Missing. Andi besitzt ein eigenes und einmaliges Takt- & Rhythmusgefühl sowie ein kleines Spektrum an Höhen - & Tiefen im Gesang, was die Proben sehr lustig  gestaltet aber wenn’s drauf ankommt, dann ist er da. An der Sologitarre steht Frank Beinlich und das darf man auch wörtlich nehmen, er steht. Frank verfügt über einen eigenen LKW für die über tausend Effektgeräte die ein Gitarrist so braucht. Da ist unser Jörg Schmid etwas einfacher gestrickt. Er spielt eine Charvel. Punkt! Dem gibt es nichts hinzuzufügen. Nach eigener Aussage 1986 gestimmt gekauft und bis heute gestimmt erhalten. Gleich neben Jörg im Proberaum und auf der Bühne steht Harry Ormann, liebevoll der Basstölpel gennant. Harry kontrolliert vor jeder Probe ob noch alle Saiten aufgezogen sind, da Jörg der Meinung ist, Harry braucht eigentlich nur 2. Da hat er nicht ganz unrecht. An den Drums Jörg Rojahn. Jörg stieß etwas später zu den Kellergeistern und zu allem Erstaunen brachte er etwas mit in die Band, was man durchaus als musikalisches Grundverständnis und Rhythmusgefühl bezeichnen kann. Mit unermüdlichen Wums sorgt er für den einschlägigen PunkRock-Sound.
+
+Fazit: Niemand von uns hätte ernsthaft daran geglaubt irgendwann wieder auf der Bühne zu stehen, begleitet von Sex and Drugs and Rock´ n Roll und nicht so ernst gemeinten Punk Rock.
+
 <!-- [Facebook](https://www.facebook.com/goldenkanine/) -->
