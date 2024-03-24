@@ -22,49 +22,79 @@ Willst du auch dabei sein? Dann einfach hier klicken [Sponsoringvertrag-2024 Dow
 ## Unsere Platin Partner
 
 [![AGC Interpane](/assets/partner-logos/agc-interpane.png){: .center-image }](https://interpane.com)
+
 [![DMA Maschinen und Anlagenbau](/assets/partner-logos/dma.png){: .center-image }](https://www.dma.de)
+
 [![Lieber und Lieber](/assets/partner-logos/lieber-lieber.jpg){: .center-image }](https://www.lieber-lieber.de)
 
 ## Unsere Gold Partner
 
 [![BQ Rohrsysteme](/assets/partner-logos/bq.jpg){: .center-image }](https://bq-germany.de)
+
 [![EDEKA Falke](/assets/partner-logos/falke.png){: .center-image }](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
+
 [![Hartmann Bau](/assets/partner-logos/hartmann-bau.png){: .center-image }](https://www.hartmann-bau.de)
+
 [![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png){: .center-image }](https://www.kaelte-voessing.de/)
+
 [![Organge Blossom Special Festival](/assets/partner-logos/obs.png){: .center-image }](https://orangeblossomspecial.de)
+
 [![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png){: .center-image }](https://www.sanders-online.de/)
+
 [![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
+
 [![Software Pioniere GmbH und Co. KG](/assets/partner-logos/sopi.png){: .center-image }](https://softwarepioniere.de)
+
 [![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.jpeg){: .center-image }](https://wiesmann-service.de)
 
 ## Unsere Silber Partner
 
 [![Marien Apotheke Dalhausen](/assets/partner-logos/apotheke.jpg){: .center-image }](https://www.marien-apotheke-dalhausen.de)
+
 [![Autohaus Bodach](/assets/partner-logos/bodach-web.jpg){: .center-image }](https://www.ford-bodach-borgentreich.de)
+
 [![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg){: .center-image }](http://www.elektro-hartmann.de)
+
 [![Baumarkt Hartung](/assets/partner-logos/hartung.png){: .center-image }](https://www.baumarkt-hartung.de)
+
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg){: .center-image }](https://www.kuehlert.de/)
+
 [![Meschede Heizsparfreund GmbH](/assets/partner-logos/meschede.jpg){: .center-image }](https://www.meschede-haustechnik.de)
+
 [![Heinrich Nolte GmbH & Co. KG](/assets/partner-logos/nolte_bau.jpg){: .center-image }](http://www.heinrichnolte.de)
+
 [![Kraftfahrzeugtechnik Uwe Nolte](/assets/partner-logos/uwe-nolte.jpg){: .center-image }](https://kraftfahrzeugtechnik-nolte.de)
+
 [![Nübel Beadchungen](/assets/partner-logos/nuebel-dach.jpg){: .center-image }](http://www.nuebeldach.de/)
+
 [![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg){: .center-image }](https://www.wuerttembergische.de/versicherungen/florian.nutt)
+
 [![Rempe Heizung Kälte Klima](/assets/partner-logos/rempe-kaelte.png){: .center-image }](https://www.rempe-anlagenbau.de)
+
 ![Scheideler Schlosserei & Metallbau](/assets/partner-logos/scheideler-schlosserei.jpg){: .center-image }
+
 ![Physiotherapie Stromberg](/assets/partner-logos/stromberg.jpg){: .center-image }
+
 [![Hubert Suermann GmbH](/assets/partner-logos/suermann-sanitaer.jpg){: .center-image }](https://suermannsanitaer.de)
+
 [![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg){: .center-image }](https://www.zahnarzt-ziegler.de)
 
 ## Unsere Bronze Partner
 
 ![Fleischerei Ernst](/assets/partner-logos/fleischerei-ernst.jpg){: .center-image }
+
 [![Heimatgenuss](/assets/partner-logos/heimatgenuss.jpeg){: .center-image }](https://www.heimatgenuss.net)
+
 ![Bäckerei Mann](/assets/partner-logos/baeckerei-mann.jpg){: .center-image }
 
 [![Conzedruck](/assets/partner-logos/conzedruck_web.png){: .center-image }](https://www.conzedruck.de)
+
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg){: .center-image }](http://www.schlossbrauerei-rheder.de)
+
 [![Sportverein Dalhausen](/assets/partner-logos/svd.png){: .center-image }](https://www.sv-dalhausen.de)
+
 [![Turnverein Dalhausen](/assets/partner-logos/tvd.jpg){: .center-image }](http://tv-dalhausen.de)
+
 [![wildwechsel](/assets/partner-logos/ww_web.jpg){: .center-image }](https://www.wildwechsel.de)
 
 ## Downloads
