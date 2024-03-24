@@ -87,6 +87,8 @@ Willst du auch dabei sein? Dann einfach hier klicken [Sponsoringvertrag-2024 Dow
 
 ![Bäckerei Mann](/assets/partner-logos/baeckerei-mann.jpg){: .center-image }
 
+## Unsere Weiteren Partner
+
 [![Conzedruck](/assets/partner-logos/conzedruck_web.png){: .center-image }](https://www.conzedruck.de)
 
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg){: .center-image }](http://www.schlossbrauerei-rheder.de)
