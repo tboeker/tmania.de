@@ -10,10 +10,10 @@ type: page
 
 <!-- Download folgt, wenn die Zeiten fest stehen. -->
 
-
 ## Eintrittspreise und Tickets
 
 Wir legen wert auf günstige Eintrittspreise. Die Tickets kosten:
+
 - Freitag Abendkasse: 20€
 - Samstag Tageskasse: 25€
 - Kombiticket: 30 €
@@ -23,6 +23,10 @@ Für Vereinsmitglieder gibt es noch einmal 20% Rabatt.
 Jugendliche zahlen ab dem 16. Lebensjahr vollen Eintritt. Also nachdem der 16. Geburtstag begangen wurde.
 
 Für Kinder und Jugendliche bis zum 16. Lebensjahr ist der Eintritt frei.
+
+## Online Tickets
+
+Tickets könnt ihr hier bei unserem Partner Ticketino bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434).
 
 <!-- Auch wenn es auf jeden Fall genügend Tageskasse gibt, hier ein Link zu unserem Ticket-Partner zum Vorverkauf:  -->
 
@@ -34,10 +38,10 @@ Für Kinder und Jugendliche bis zum 16. Lebensjahr ist der Eintritt frei.
 
 Der ganze Spaß findet auf dem Sportplatz in Dalhausen in der Urentalstraße statt. 
 
-
 ## Essen und Trinken
 
 Wir vom Verein organsieren
+
 - Bierbude mit Rheder Bier, Cola, Fanta, Sprite, Wasser, Bionade...
 - und eine Waffelbude mit Waffeln, Kaffe und Tee...
 - sowie eine Wurst-Grill-Station.
@@ -52,8 +56,9 @@ Bitte nur in den vorgesehen Flächen in der Urentalstraße parken. Sollte dies b
 
 Wir freuen uns immer auf unsere Campinggäste. Ihr könnt kostenlos euer Zelt direkt hinter dem Festivalgelände aufbauen. Aber bitte vor der Abreise aufräumen und den Müll einsammeln.
 
-## Cashless 
+## Cashless
 
-Da wir in Dalhausen leider immer noch keinen funktionierenden Geldautomaten haben, könnt ihr den Eintritt und eure Wertmarken ab diesem Jahr auch cashless erwerben.
+Ihr könnt auch in diesem Jahr den Eintritt und eure Wertmarken mit Karte zahlen.
+<!-- Da wir in Dalhausen leider immer noch keinen funktionierenden Geldautomaten haben, könnt ihr -->
 
 ![cashless](/assets/images/cashless.png){:class="img-responsive"}
