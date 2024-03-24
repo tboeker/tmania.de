@@ -13,13 +13,11 @@ type: page
   }
 </style>
 
-# T-Mania Partner 2024
+## T-Mania Partner 2024
 
 Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
-Willst du auch dabei sein? Dann einfach hier klicken [Sponsoringvertrag-2024 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2024.pdf' | relative_url }} )
-
-## Unsere Platin Partner
+### Unsere Platin Partner
 
 [![AGC Interpane](/assets/partner-logos/agc-interpane.png){: .center-image }](https://interpane.com)
 
@@ -27,27 +25,27 @@ Willst du auch dabei sein? Dann einfach hier klicken [Sponsoringvertrag-2024 Dow
 
 [![Lieber und Lieber](/assets/partner-logos/lieber-lieber.jpg){: .center-image }](https://www.lieber-lieber.de)
 
-## Unsere Gold Partner
+### Unsere Gold Partner
 
 [![BQ Rohrsysteme](/assets/partner-logos/bq.jpg){: .center-image }](https://bq-germany.de)
+
+[![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png){: .center-image }](https://www.sanders-online.de/)
+
+[![Software Pioniere GmbH und Co. KG](/assets/partner-logos/sopi.png){: .center-image }](https://softwarepioniere.de)
+
+[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png){: .center-image }](https://www.kaelte-voessing.de/)
+
+[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
 
 [![EDEKA Falke](/assets/partner-logos/falke.png){: .center-image }](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
 [![Hartmann Bau](/assets/partner-logos/hartmann-bau.png){: .center-image }](https://www.hartmann-bau.de)
 
-[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png){: .center-image }](https://www.kaelte-voessing.de/)
-
 [![Organge Blossom Special Festival](/assets/partner-logos/obs.png){: .center-image }](https://orangeblossomspecial.de)
-
-[![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png){: .center-image }](https://www.sanders-online.de/)
-
-[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
-
-[![Software Pioniere GmbH und Co. KG](/assets/partner-logos/sopi.png){: .center-image }](https://softwarepioniere.de)
 
 [![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.jpeg){: .center-image }](https://wiesmann-service.de)
 
-## Unsere Silber Partner
+### Unsere Silber Partner
 
 [![Marien Apotheke Dalhausen](/assets/partner-logos/apotheke.jpg){: .center-image }](https://www.marien-apotheke-dalhausen.de)
 
@@ -79,7 +77,7 @@ Willst du auch dabei sein? Dann einfach hier klicken [Sponsoringvertrag-2024 Dow
 
 [![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg){: .center-image }](https://www.zahnarzt-ziegler.de)
 
-## Unsere Bronze Partner
+### Unsere Bronze Partner
 
 ![Fleischerei Ernst](/assets/partner-logos/fleischerei-ernst.jpg){: .center-image }
 
@@ -87,7 +85,7 @@ Willst du auch dabei sein? Dann einfach hier klicken [Sponsoringvertrag-2024 Dow
 
 ![Bäckerei Mann](/assets/partner-logos/baeckerei-mann.jpg){: .center-image }
 
-## Unsere Weiteren Partner
+### Unsere weiteren Partner
 
 [![Conzedruck](/assets/partner-logos/conzedruck_web.png){: .center-image }](https://www.conzedruck.de)
 
@@ -99,7 +97,7 @@ Willst du auch dabei sein? Dann einfach hier klicken [Sponsoringvertrag-2024 Dow
 
 [![wildwechsel](/assets/partner-logos/ww_web.jpg){: .center-image }](https://www.wildwechsel.de)
 
-## Downloads
+### Downloads
 
 - [Sponsoringvertrag-2024 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2024.pdf' | relative_url }} )
 
