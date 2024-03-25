@@ -38,11 +38,7 @@ Euer T-Mania Team
 
 <!--
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
-
 ![Flyer 2022 Vorderseite]( {{ '/assets/images/2022-flyer.png' | relative_url }} )
-
 ### Gefördert von:
-
 [![Neustart Miteinander](/assets/partner-logos/neustart-miteinander.png)](https://www.bra.nrw.de/foerderportal-wirtschaft/foerderportal/verbaende-vereine/sonderprogramm-neustart-miteinander)
-
  -->
