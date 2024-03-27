@@ -27,17 +27,17 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![BQ Rohrsysteme](/assets/partner-logos/bq.jpg){: .center-image }](https://bq-germany.de)
 
-[![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png){: .center-image }](https://www.sanders-online.de/)
-
-[![Software Pioniere GmbH und Co. KG](/assets/partner-logos/sopi.png){: .center-image }](https://softwarepioniere.de)
-
-[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png){: .center-image }](https://www.kaelte-voessing.de/)
-
-[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
-
 [![EDEKA Falke](/assets/partner-logos/falke.png){: .center-image }](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
 [![Hartmann Bau](/assets/partner-logos/hartmann-bau.png){: .center-image }](https://www.hartmann-bau.de)
+
+[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png){: .center-image }](https://www.kaelte-voessing.de/)
+
+[![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png){: .center-image }](https://www.sanders-online.de/)
+
+[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
+
+[![Software Pioniere GmbH und Co. KG](/assets/partner-logos/sopi.png){: .center-image }](https://softwarepioniere.de)
 
 [![Organge Blossom Special Festival](/assets/partner-logos/obs.png){: .center-image }](https://orangeblossomspecial.de)
 
