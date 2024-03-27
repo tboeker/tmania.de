@@ -6,6 +6,8 @@ type: page
 #   image: /assets/images/header4.jpg
 ---
 
+Hier die wichtigsten Informationen rund ums Festival.
+
 <!-- ![Logo]({{site.url}}{{site.baseurl}}/assets/images/logo_vermuku.png) -->
 
 <!-- Download folgt, wenn die Zeiten fest stehen. -->

@@ -6,6 +6,8 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
+Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusammen zu stellen.
+
 ## Spielplan
 
 ### Freitag 21.06.2024
