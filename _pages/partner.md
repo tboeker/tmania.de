@@ -1,7 +1,7 @@
 ---
 permalink: /partner/
-title: Partner
-description: Partner und Sponsoren
+title: Partner und Sponsoren 2024
+description: Partner und Sponsoren 2024
 type: page
 ---
 
@@ -13,11 +13,9 @@ type: page
   }
 </style>
 
-## T-Mania Partner 2024
+Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser kleines Festival nicht möglich.
 
-Wir bedanken und bei unseren Partnern und Sponsoren!!!
-
-### Unsere Platin Partner
+## Platin Partner
 
 [![AGC Interpane](/assets/partner-logos/agc-interpane.png){: .center-image }](https://interpane.com)
 
@@ -25,7 +23,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Lieber und Lieber](/assets/partner-logos/lieber-lieber.jpg){: .center-image }](https://www.lieber-lieber.de)
 
-### Unsere Gold Partner
+## Gold Partner
 
 [![BQ Rohrsysteme](/assets/partner-logos/bq.jpg){: .center-image }](https://bq-germany.de)
 
@@ -45,7 +43,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.jpeg){: .center-image }](https://wiesmann-service.de)
 
-### Unsere Silber Partner
+## Silber Partner
 
 [![Marien Apotheke Dalhausen](/assets/partner-logos/apotheke.jpg){: .center-image }](https://www.marien-apotheke-dalhausen.de)
 
@@ -77,7 +75,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 [![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg){: .center-image }](https://www.zahnarzt-ziegler.de)
 
-### Unsere Bronze Partner
+## Bronze Partner
 
 ![Fleischerei Ernst](/assets/partner-logos/fleischerei-ernst.jpg){: .center-image }
 
@@ -85,7 +83,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren!!!
 
 ![Bäckerei Mann](/assets/partner-logos/baeckerei-mann.jpg){: .center-image }
 
-### Unsere weiteren Partner
+## weitere Partner
 
 [![Conzedruck](/assets/partner-logos/conzedruck_web.png){: .center-image }](https://www.conzedruck.de)
 
