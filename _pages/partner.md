@@ -95,7 +95,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![wildwechsel](/assets/partner-logos/ww_web.jpg){: .center-image }](https://www.wildwechsel.de)
 
-### Downloads
+## Downloads
 
 - [Sponsoringvertrag-2024 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2024.pdf' | relative_url }} )
 
