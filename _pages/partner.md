@@ -31,21 +31,20 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![Hartmann Bau](/assets/partner-logos/hartmann-bau.png){: .center-image }](https://www.hartmann-bau.de)
 
-[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png){: .center-image }](https://www.kaelte-voessing.de/)
+[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
+
+[![Organge Blossom Special Festival](/assets/partner-logos/obs.png){: .center-image }](https://orangeblossomspecial.de)
 
 [![Sanders GmbH & Co. KG](/assets/partner-logos/sanders.png){: .center-image }](https://www.sanders-online.de/)
 
-[![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
-
 [![Software Pioniere GmbH und Co. KG](/assets/partner-logos/sopi.png){: .center-image }](https://softwarepioniere.de)
 
-[![Organge Blossom Special Festival](/assets/partner-logos/obs.png){: .center-image }](https://orangeblossomspecial.de)
+[![Kälte - Vössing](/assets/partner-logos/kaelte-voessing.png){: .center-image }](https://www.kaelte-voessing.de/)
 
 [![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.jpeg){: .center-image }](https://wiesmann-service.de)
 
 ## Silber Partner
 
-[![Marien Apotheke Dalhausen](/assets/partner-logos/apotheke.jpg){: .center-image }](https://www.marien-apotheke-dalhausen.de)
 
 [![Autohaus Bodach](/assets/partner-logos/bodach-web.jpg){: .center-image }](https://www.ford-bodach-borgentreich.de)
 
@@ -54,6 +53,8 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 [![Baumarkt Hartung](/assets/partner-logos/hartung.png){: .center-image }](https://www.baumarkt-hartung.de)
 
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg){: .center-image }](https://www.kuehlert.de/)
+
+[![Marien Apotheke Dalhausen](/assets/partner-logos/apotheke.jpg){: .center-image }](https://www.marien-apotheke-dalhausen.de)
 
 [![Meschede Heizsparfreund GmbH](/assets/partner-logos/meschede.jpg){: .center-image }](https://www.meschede-haustechnik.de)
 
