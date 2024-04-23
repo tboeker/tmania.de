@@ -10,42 +10,28 @@ Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusam
 
 ## Spielplan
 
-### Freitag 21.06.2024
+Hier ist der vorläufige Spielplan. Es kann möglicherweise noch kleine Änderungen geben.
 
-* [GOLDEN KANINE](#goldenkanine)
-* [ISABEL NOLTE](#isabelnolte)
-* [SULTANS COURT](#sultanscourt)
+<!-- ### Freitag 21.06.2024 -->
 
-### Samstag 22.06.2024
+| Freitag 21.06.2024 | Band |
+|-------------|--------|
+| 20:00 - 20:45 | [ISABEL NOLTE](#isabelnolte) |
+| 21:15 - 22:00 | [SULTANS COURT](#sultanscourt) |
+| 22:30 - 00:00 | [GOLDEN KANINE](#goldenkanine) |
 
-* [BUTTERWEGGE](#butterwegge)
-* [BAD NENNDORF BOYS](#bnboys)
-* [IEDEREEN](#iedereen)
-* [CROCOZEBRÁ](#crocozebra)
-* [RANDALE](#randale)
-* [BREMER PLATZMUSIKANTEN](#bpm)
-* [SIMPLE STRICKTS](#simplestrickts)
-* [KELLERGEISTER](#kellergeister)
+<!-- ### Samstag 22.06.2024 -->
 
-<!-- | Freitag 21.06.2024 | Band |
+| Samstag 22.06.2024 | Band |
 |-------|--------|
-|...|...| -->
-
-<!-- | 20:00 - 21:00 | [JOE ASTRAY](#joeastray) |
-| 21:00 - 23:00 | [THE GREAT CRUSADES](#thegreatcrusades) | -->
-
-<!-- | Samstag 22.06.2024 | Band |
-|-------|--------|
-|...|...| -->
-
-<!-- | 14:30 - 15:00 | [RHINOSAURS](#rhinosaurs) |
-| 15:20 - 15:50 | [FRESSE](#fresse) |
-| 16:10 - 16:45 | [MUSKELPROTZ](#muskelprotz) |
-| 17:05 - 17:40 | [WE AGAINST MONDAY](#weagainstmonday) |
-| 17:55 - 18:30 | [LUCAS RIEGER](#lucasrieger) |
-| 19:00 - 20:10 | [ACHT EIMER HÜHNERHERZEN](#achteimerhuehnerherzen) |
-| 20:40 - 21:50 | [TRIXSI](#trixsi) |
-| 22:20 - 23:50 | [UWE AGAINST THE MACHINE](#uweagainstthemachine) | -->
+| 14:30 - 15:00 | [BREMER PLATZMUSIKANTEN](#bpm) |
+| 15:20 - 15:50 | [SIMPLE STRICKTS](#simplestrickts) |
+| 16:10 - 16:45 | [KELLERGEISTER](#kellergeister) |
+| 17:05 - 18:05 | [RANDALE](#randale) |
+| 18:25 - 19:15 | [IEDEREEN](#iedereen) |
+| 19:45 - 20:45 | [CROCOZEBRÁ](#crocozebra) |
+| 21:15 - 22:25 | [BUTTERWEGGE](#butterwegge) |
+| 22:55 - 23:45 | [BAD NENNDORF BOYS](#bnboys) |
 
 <!--
 Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )
