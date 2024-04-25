@@ -15,9 +15,9 @@ Das Lineup ist komplett.
 
 Tickets könnt ihr hier bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434).
 
-<!-- ![Flyer 2023 Vorderseite]( {{ '/assets/images/2023-flyer.jpg' | relative_url }} )
+![Flyer 2024 Vorderseite]( {{ '/assets/images/2024-flyer.jpg' | relative_url }} )
 
-![Flyer 2023 Rückseite]( {{ '/assets/images/2023-flyer2.jpg' | relative_url }} ) -->
+![Flyer 2024 Rückseite]( {{ '/assets/images/2024-flyer2.jpg' | relative_url }} )
 
 <!-- 
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!

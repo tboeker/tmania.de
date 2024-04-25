@@ -156,7 +156,7 @@ Als dritte Band durften wir im Januar 2022 BPM - Die Bremer Platz Musikanten aus
 
 Bierschinken hat den Stil der Band passenderweise wie folgt zusammengefasst: „Fun-Punk im besten Wortsinne. Keine platten Witze und hohlen Phrasen, sondern frischer Wind".
 
-Bei Monasteria Recordz hat BPM das Debutalbum "The Kiez are allright" als Tape und online veröffentlicht. 
+Bei Monasteria Recordz hat BPM das Debutalbum "The Kiez are allright" als Tape und online veröffentlicht.
 
 [Instagram](https://www.instagram.com/bremerplatzmusikanten/)
 [Facebook](https://www.facebook.com/BPMdieBand)
