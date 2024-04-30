@@ -53,7 +53,12 @@ Golden Kanine Announces Return to the Stage After Seven-Year Hiatus. Indie folk 
 ### ISABEL NOLTE
 
 {: #isabelnolte }
-<!-- ![isabelnolte]( {{'/assets/images/2024/isabelnolte.png'|relative_url}} ){:class="img-responsive"} -->
+![isabelnolte]( {{'/assets/images/2024/isabelnolte.jpg'|relative_url}} ){:class="img-responsive"}
+
+Isabel Nolte ist keine reine Interpretin; sie ist Liedermacherin, Geschichtenerzählerin. Sie ist die Freundin fürs Ohr, Ein-Frauen-Mädelsabend und Männertraum in einem, zuckersüß und verrucht zur gleichen Zeit.  2022 erschien ihr erstes Album „Die Ambivalenz der Weiblichkeit“ bei dem hannoveraner Label Magic Mile Music.
+
+Will man die rotgelockte Songpoetin aus Dortmund mit anderen vergleichen, dann vereint Isabel die Textgewalt von Annett Louisan und Franz Josef Degenhardt mit einer sprachlichen Unverblümtheit, die an Element of Crime erinnert. Mal auf Deutsch, mal auf Englisch und ab und an auf Holländisch. Stimmlich klingt Isabel wie Rotwein, Zigarre und Lagerfeuer; musikalisch wie ein Trinkgelage mit Melanie Safka, Edith Piaf und Hildegard Knef.
+
 [Homepage](https://www.isabelnolte.de/)
 [Facebook](https://www.facebook.com/IsabelNolteMusik)
 [Youtube](https://www.youtube.com/channel/UC0bBI3JeGKnQCu44mv8UoBg?view_as=subscriber)
