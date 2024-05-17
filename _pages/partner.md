@@ -45,12 +45,13 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 ## Silber Partner
 
-
 [![Autohaus Bodach](/assets/partner-logos/bodach-web.jpg){: .center-image }](https://www.ford-bodach-borgentreich.de)
 
 [![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg){: .center-image }](http://www.elektro-hartmann.de)
 
 [![Baumarkt Hartung](/assets/partner-logos/hartung.png){: .center-image }](https://www.baumarkt-hartung.de)
+
+[![HEGLA](/assets/partner-logos/hegla.png){: .center-image }](https://hegla.com/)
 
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg){: .center-image }](https://www.kuehlert.de/)
 
@@ -112,7 +113,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 <!-- [![Haarbude](/assets/partner-logos/haarbude_web.jpg)](https://haarbude.de) -->
 <!-- [![Bauer & Humburg Bauelemente](/assets/partner-logos/bundh.png)](https://b-h-bauelemente.de) -->
 <!-- [![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://decker.de) -->
-<!-- [![HEGLA](/assets/partner-logos/hegla.png)](https://hegla.com/) -->
 <!-- ![Gasthaus Groll](/assets/partner-logos/groll.png) -->
 <!-- [![Tischlerei Pape](/assets/partner-logos/pape_web.png)](http://www.tischlerei-pape.com) -->
 <!-- ![Bröker und Nolte](/assets/partner-logos/broeker-nolte.png) -->
