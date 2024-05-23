@@ -14,6 +14,8 @@ Hallo Liebe Festival-Freunde,
 Das Lineup ist komplett.
 
 Tickets könnt ihr hier bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434).
+
+
 Shirts und Krams könnt ihr hier kaufen : [T-MANIA MERCH SHOP](https://t-mania.myspreadshop.de).
 
 ![Flyer 2024 Vorderseite]( {{ '/assets/images/2024-flyer.jpg' | relative_url }} )
