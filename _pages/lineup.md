@@ -25,8 +25,8 @@ Hier ist der vorläufige Spielplan. Es kann möglicherweise noch kleine Änderun
 | Samstag 22.06.2024 | Band |
 |-------|--------|
 | 14:30 - 15:00 | [BREMER PLATZMUSIKANTEN](#bpm) |
-| 15:20 - 15:50 | [SIMPLE STRICKTS](#simplestrickts) |
-| 16:10 - 16:45 | [KELLERGEISTER](#kellergeister) |
+| 15:20 - 15:50 | [KELLERGEISTER](#kellergeister) |
+| 16:10 - 16:45 | [SIMPLE STRICKTS](#simplestrickts) |
 | 17:05 - 18:05 | [RANDALE](#randale) |
 | 18:25 - 19:15 | [IEDEREEN](#iedereen) |
 | 19:45 - 20:45 | [CROCOZEBRÁ](#crocozebra) |
