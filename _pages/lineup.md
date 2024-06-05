@@ -25,13 +25,13 @@ Hier ist der vorläufige Spielplan. Es kann möglicherweise noch kleine Änderun
 | Samstag 22.06.2024 | Band |
 |-------|--------|
 | 14:30 - 15:00 | [BREMER PLATZMUSIKANTEN](#bpm) |
-| 15:20 - 15:50 | [KELLERGEISTER](#kellergeister) |
-| 16:10 - 16:45 | [SIMPLE STRICKTS](#simplestrickts) |
-| 17:05 - 18:05 | [RANDALE](#randale) |
-| 18:25 - 19:15 | [IEDEREEN](#iedereen) |
-| 19:45 - 20:45 | [CROCOZEBRÁ](#crocozebra) |
-| 21:15 - 22:25 | [BUTTERWEGGE](#butterwegge) |
-| 22:55 - 00:05 | [BAD NENNDORF BOYS](#bnboys) |
+| 15:20 - 15:55 | [KELLERGEISTER](#kellergeister) |
+| 16:15 - 16:50 | [SIMPLE STRICKTS](#simplestrickts) |
+| 17:10 - 18:10 | [RANDALE](#randale) |
+| 18:30 - 19:20 | [IEDEREEN](#iedereen) |
+| 19:50 - 20:50 | [CROCOZEBRÁ](#crocozebra) |
+| 21:20 - 22:30 | [BUTTERWEGGE](#butterwegge) |
+| 23:00 - 00:10 | [BAD NENNDORF BOYS](#bnboys) |
 
 Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan2024.pdf' | relative_url }} )
 
