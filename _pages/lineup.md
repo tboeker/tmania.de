@@ -33,9 +33,7 @@ Hier ist der vorläufige Spielplan. Es kann möglicherweise noch kleine Änderun
 | 21:15 - 22:25 | [BUTTERWEGGE](#butterwegge) |
 | 22:55 - 23:45 | [BAD NENNDORF BOYS](#bnboys) |
 
-<!--
-Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan_2018.pdf' | relative_url }} )
--->
+Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan2024.pdf' | relative_url }} )
 
 ## Freitag
 
