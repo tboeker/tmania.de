@@ -31,7 +31,7 @@ Hier ist der vorläufige Spielplan. Es kann möglicherweise noch kleine Änderun
 | 18:25 - 19:15 | [IEDEREEN](#iedereen) |
 | 19:45 - 20:45 | [CROCOZEBRÁ](#crocozebra) |
 | 21:15 - 22:25 | [BUTTERWEGGE](#butterwegge) |
-| 22:55 - 23:45 | [BAD NENNDORF BOYS](#bnboys) |
+| 22:55 - 00:05 | [BAD NENNDORF BOYS](#bnboys) |
 
 Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan2024.pdf' | relative_url }} )
 
