@@ -9,3 +9,7 @@ main:
     url: /history/
   - title: "Partner"
     url: /partner/
+  - title: "Shop"
+    url: "https://t-mania.myspreadshop.de"
+  - title: "Shop"
+    url: /shop/

@@ -5,22 +5,21 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-# 19. T-Mania Open-Air Festival
+![Save the Date 2025]( {{ '/assets/images/2025/save-the-date.jpg' | relative_url }} )
 
-## 21. Juni 2024 + 22. Juni 2024
+<!-- # 19. T-Mania Open-Air Festival
 
-Hallo Liebe Festival-Freunde,
+## 21. Juni 2024 + 22. Juni 2024 -->
 
-Das Lineup ist komplett.
+<!-- Hallo Liebe Festival-Freunde, -->
 
-Tickets könnt ihr hier bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434).
+<!-- Das Lineup ist komplett. -->
 
+<!-- Tickets könnt ihr hier bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434). -->
 
-Shirts und Krams könnt ihr hier kaufen : [T-MANIA MERCH SHOP](https://t-mania.myspreadshop.de).
+<!-- ![Flyer 2024 Vorderseite]( {{ '/assets/images/2024-flyer.jpg' | relative_url }} ) -->
 
-![Flyer 2024 Vorderseite]( {{ '/assets/images/2024-flyer.jpg' | relative_url }} )
-
-![Flyer 2024 Rückseite]( {{ '/assets/images/2024-flyer2.jpg' | relative_url }} )
+<!-- ![Flyer 2024 Rückseite]( {{ '/assets/images/2024-flyer2.jpg' | relative_url }} ) -->
 
 <!-- 
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
@@ -33,11 +32,11 @@ Shirts und Krams könnt ihr hier kaufen : [T-MANIA MERCH SHOP](https://t-mania.m
 <!-- Melden uns demnächst wieder. -->
 <!-- Das [Line-Up](/lineup) ist komplett und wir sind schon fleißig am Organisieren. -->
 
-Wir freuen uns!
+<!-- Wir freuen uns!
 
 Schöne Grüße
 
-Euer T-Mania Team
+Euer T-Mania Team -->
 
 <!--
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
