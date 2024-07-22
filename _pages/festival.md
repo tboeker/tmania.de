@@ -1,6 +1,6 @@
 ---
 permalink: /festival/
-title: Festival
+title: Festival-Infos
 type: page
 # header:
 #   image: /assets/images/header4.jpg

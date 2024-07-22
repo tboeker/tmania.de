@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: Open-Air Festival
 permalink: /
 # header:
 #   image: /assets/images/header1.jpg
