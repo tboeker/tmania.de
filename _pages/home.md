@@ -5,7 +5,7 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-![Save the Date 2025]( {{ '/assets/images/2025/save-the-date.jpg' | relative_url }} )
+![Save the Date 2025]( {{ '/assets/images/2025/save-the-date.jpg' | relative_url }} ){:class="img-responsive"}
 
 <!-- # 19. T-Mania Open-Air Festival
 
