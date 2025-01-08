@@ -1,7 +1,7 @@
 ---
 permalink: /partner/
-title: Partner und Sponsoren 2024
-description: Partner und Sponsoren 2024
+title: Partner und Sponsoren 2025
+description: Partner und Sponsoren 2025
 type: page
 ---
 
@@ -99,7 +99,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 ## Downloads
 
-- [Sponsoringvertrag-2024 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2024.pdf' | relative_url }} )
+- [Sponsoringvertrag-2025 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2025.pdf' | relative_url }} )
 
 <!-- [![BeSte Stadtwerke](/assets/partner-logos/beste.jpg){: .center-image }](https://beste-stadtwerke.de) -->
 <!-- [![KW-Engineering](/assets/partner-logos/kw.jpg){: .center-image }](https://kwcg.de) -->
