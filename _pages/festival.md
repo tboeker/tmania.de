@@ -28,7 +28,7 @@ Für Kinder und Jugendliche bis zum 16. Lebensjahr ist der Eintritt frei.
 
 ## Online Tickets
 
-Tickets könnt ihr hier bei unserem Partner Ticketino bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434).
+Tickets könnt ihr hier bei unserem Partner Ticketino bestellen: [Ticketino](https://www.ticketino.com/de/event/20-t-mania-2025/198559).
 
 <!-- Auch wenn es auf jeden Fall genügend Tageskasse gibt, hier ein Link zu unserem Ticket-Partner zum Vorverkauf:  -->
 
