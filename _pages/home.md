@@ -6,9 +6,9 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-Jetzt Early Bird Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434).
+Jetzt Early Bird Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/event/20-t-mania-2025/198559).
 
-![Early Birds Tickets 2025]( {{ '/assets/images/2025/early-bird.jpg' | relative_url }} ){:class="img-responsive"}(https://www.ticketino.com/de/event/20-t-mania-2025/198559)
+[![Early Birds Tickets 2025]( {{ '/assets/images/2025/early-bird.jpg' | relative_url }} ){:class="img-responsive"}](https://www.ticketino.com/de/event/20-t-mania-2025/198559)
 
 <!-- ![Save the Date 2025]( {{ '/assets/images/2025/save-the-date.jpg' | relative_url }} ){:class="img-responsive"} -->
 
