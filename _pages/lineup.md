@@ -64,6 +64,20 @@ Elijah, bürgerlich Elia Gunnar Salomon, ist am 20.08.1986 als Sohn eines Italie
 ### SCHNUPPE
 
 {: #schnuppe }
+![SCHNUPPE]( {{'/assets/images/2025/schnuppe.jpg'|relative_url}} )
+
+Die Songs der Kölner Band SCHNUPPE gehen ins Ohr und in die Beine. Ihre Texte legen mit Humor und Selbstironie den Finger in die Wunden gegenwärtiger Lebensrealitäten. SCHNUPPE ist eklektisch, hat 80er NDW- und deutliche Punkelemente, ist Noise-Pop, pendelt auch zwischen Sixties-Garage und Wave.  
+
+Man mag hier und da auch an die Lassie Singers denken, an Ideal, an Stefan Remmlers lakonische Zustandsbeschreibungen. Auch die Breeders mit ihrem wir-geben-einen-Scheiß-auf-Erwartungen-Dekonstruktivismus sind SCHNUPPE nah.
+
+Aus den Minen der Einfachheit schürfen SCHNUPPE pures Gold und haben dabei ein Händchen für musikalische und textliche Reduktion und die Ausformulierung von zugespitzten Slogans, die sich aufdrängen, aber nicht aufdringlich sind.
+Im März 2025 erscheint ihr Debütalbum “Drin was draufsteht” beim HH-Punklabel Rookie Records.
+
+Das OX-fanzine (#174 3/2024) schreibt: „sehr charmant und überzeugend mit ihrem All-female-NDW-Postpunk-Noisepop, den sie mit absoluter Spielfreude darbieten. Tipp!“
+
+[Homepage](www.schnuppe.bandcamp.com)
+[Facebook](www.facebook.com/schnuppe.music)
+[Instagram](www.instagram.com/schnuppe_music)
 
 ### DRUNKEN WAR
 

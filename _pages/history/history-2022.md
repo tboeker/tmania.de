@@ -17,6 +17,7 @@ type: page
 # Freitag
 
 ## THORBJØRN RISAGER & THE BLACK TORNADO
+
 {: #tris }
 
 ![RISAGER]( {{'/assets/images/2022/TRBand2.jpg'|relative_url}} ){:class="img-responsive"}
@@ -36,7 +37,6 @@ Fast 10 Jahre sind seit John Allen's beinahe märchenhafter Entdeckung durch Fra
 
 [Homepage](https://www.john-allen.de/)
 
-
 # Samstag
 
 ## MONSTERS OF LIEDERMACHING
@@ -52,6 +52,7 @@ Fast 10 Jahre sind seit John Allen's beinahe märchenhafter Entdeckung durch Fra
 [Homepage](https://scunks.bandcamp.com/)
 
 ## HALFTIME
+
 {: #halftime }
 
 ![HALFTIME]( {{'/assets/images/2022/halftime.jpeg'|relative_url}} ){:class="img-responsive"}
@@ -77,7 +78,6 @@ doc7e4f2b07bc9ri6lnckz)
 ## DER TAG DES DÜMMSTEN GESICHTS
 
 <!-- [Homepage](https://scunks.bandcamp.com/) -->
-
 
 ## VOSTOK IMPORT
 
