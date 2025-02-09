@@ -102,7 +102,6 @@ Drunken War sind eine junge dreiköpfige Grunge-, Punk-, Alternative-Band aus Wa
 Ende 2023 haben sie ihre erste EP "Vol.1" Veröffentlicht und erstmal etwas für die Ewigkeit geschaffen. Dieses Jahr haben sie größeres vor und werden ebenfalls gegen Ende des Jahres ein Album veröffentlichen.
 
 [Instagram](https://www.instagram.com/drunkenwar.band?igsh=Ym9zYmdvZXVodDN6)
-
 [Spotify](https://open.spotify.com/album/2PXGaYekL5cnMrQuPbSdtf?si=ou_4b8NhQhWwbDt9zNmr5Q)
 
 <!-- Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusammen zu stellen. -->
