@@ -95,6 +95,15 @@ Das OX-fanzine (#174 3/2024) schreibt: „sehr charmant und überzeugend mit ihr
 ### DRUNKEN WAR
 
 {: #drunkenwar }
+![DRUNKEN WAR]( {{'/assets/images/2025/drunkenwar.jpg'|relative_url}} )
+
+Drunken War sind eine junge dreiköpfige Grunge-, Punk-, Alternative-Band aus Warburg/Borgentreich. Inspiriert von den großen Bands der 70er & 90er handeln ihre Songs von Rebellion, Selbstfindung und der Suche nach Wahrheit. Themen, die sie mit bissigen Riffs und ehrlichen Texten auf die Bühne bringen.
+
+Ende 2023 haben sie ihre erste EP "Vol.1" Veröffentlicht und erstmal etwas für die Ewigkeit geschaffen. Dieses Jahr haben sie größeres vor und werden ebenfalls gegen Ende des Jahres ein Album veröffentlichen.
+
+[Instagram](https://www.instagram.com/drunkenwar.band?igsh=Ym9zYmdvZXVodDN6)
+
+[Spotify](https://open.spotify.com/album/2PXGaYekL5cnMrQuPbSdtf?si=ou_4b8NhQhWwbDt9zNmr5Q)
 
 <!-- Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusammen zu stellen. -->
 
