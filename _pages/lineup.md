@@ -6,6 +6,17 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
+SCUNKS
+TREPTOW
+
+DRUNKEN WAR
+SCHNUPPE
+KNARRE
+LOW KEY ORCHESTRA
+ELIJAH SALOMON
+LUCKY GINGER
+MASSIVE MADNESS
+
 Wenn es was zu veröffentlichen gibt, dann findet ihr es hier...
 
 <!-- Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusammen zu stellen. -->

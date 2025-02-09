@@ -6,6 +6,12 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
+## LINE-UP
+
+TREPTOW | ELIJAH SALOMON | SCUNKS | DRUNKEN WAR | SCHNUPPE | KNARRE | LOW KEY ORCHESTRA | LUCKY GINGER | MASSIVE MADNESS
+
+## TICKETS
+
 <!-- Bild mit Link ! -->
 [![Early Birds Tickets 2025]( {{ '/assets/images/2025/early-bird.jpg' | relative_url }} ){:class="img-responsive"}](https://www.ticketino.com/de/event/20-t-mania-2025/198559)
 
