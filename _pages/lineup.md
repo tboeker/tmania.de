@@ -61,6 +61,11 @@ Persönliche Überzeugung von alledem ist möglich, 2025 wird die Band einige fe
 ### KNARRE
 
 {: #knarre }
+![KNARRE]( {{'/assets/images/2025/knarre.jpg'|relative_url}} )
+
+Vor sechs Jahren gegründet bleibt Knarre aus Berlin ein Produkt aus Freundschaft und Zufall. Zufällig in derselben Stadt, zufällig am selben Küchentisch, zufällig Lust auf gemeinsamen Krach mit Melodie. „Hundeleben“ erschien im Sommer 2024 bei Through Love Records. Irgendwo zwischen Screamo, Punk und irgendwas mit Vorsilbe „post“. Manchmal albern, hoffentlich immer mit stabiler Haltung und nun auch irgendwie ein bisschen Ü30.
+
+[Homepage](https://knar.re/)
 
 ### MASSIVE MADNESS
 
