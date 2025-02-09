@@ -48,6 +48,11 @@ Elijah, bürgerlich Elia Gunnar Salomon, ist am 20.08.1986 als Sohn eines Italie
 ### LUCKY GINGER
 
 {: #luckyginger }
+![LUCKY GINGER]( {{'/assets/images/2025/luckyginger.jpg'|relative_url}} ){:class="img-responsive"}
+
+Lucky Ginger aus Karlsruhe beschallen auch in Jahr 21 ihres Bestehens die Republik mit feinstem Punkrock der alten Schule. Doch jetzt schlagen die Herren das nächste Kapitel auf: Nach einer kleinen Durststrecke sind die ersten neuen Songs seit der "You"-EP von 2017 aus der Hüfte geschüttelt. Ähnlich rough, aber mit melodischem Facelift und einem textlichen Software-Update bei dem sich jegliche künstliche Intelligenz in ihren Algorithmuskeller verkriechen kann. Klar, auch weiterhin ist man irgendwo zwischen alten Meistern wie Bad Religion, The Descendents und The Bouncing Souls zu finden und es werden weiter fleißig die Finger in allerhand Wunden unserer Zeit gelegt. Ein bisschen erwachsener und gereifter dürfte es in der dritten Banddekade dann aber wohl doch zugehen, sind alle vier Bandmitglieder doch inzwischen von anderen Projekten, Jobs, Weltschmerz und insgesamt vom Leben gezeichnet. Wer zudem Frontmann Joe Astray mit seinem Solo-Projekt bereits live erlebt hat, kann mit Lucky Ginger den alten neuen Joe kennenlernen, gereift aber doch wieder zu den Wurzeln zurückgekehrt.
+
+Persönliche Überzeugung von alledem ist möglich, 2025 wird die Band einige feine Festival- und Clubshows spielen, vielleicht wird man auch die eine oder andere Nummer noch durchs Interface jagen. In jedem Fall touren die Vier mit einem gesunden Mix aus Altem und Neuem auch in Zukunft wie frisch aus dem Ei gepellt durch die Lande. Forever twenty-one, let the Luck return!
 
 ### LOW KEY ORCHESTRA
 
