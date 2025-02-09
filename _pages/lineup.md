@@ -6,18 +6,62 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
-SCUNKS
 TREPTOW
+SCUNKS
 
-DRUNKEN WAR
-SCHNUPPE
-KNARRE
-LOW KEY ORCHESTRA
 ELIJAH SALOMON
 LUCKY GINGER
+LOW KEY ORCHESTRA
+KNARRE
 MASSIVE MADNESS
+SCHNUPPE
+DRUNKEN WAR
 
-Wenn es was zu veröffentlichen gibt, dann findet ihr es hier...
+### TREPTOW
+
+{: #treptow }
+![goldenkanine]( {{'/assets/images/2025/treptow.jpg'|relative_url}} ){:class="img-responsive"}
+
+Drei Sommer mit über 75 Festivalauftritten und immer noch hungrig: Treptow, ein mit allen Wassern gewaschenes Rock-Duo aus Berlin und mittlerweile eine der deutschen Festivalbands schlechthin. Mit über 12 Millionen Streams und weit über 300 Konzerten in mehr als 10 Ländern auf dem Tacho stehen die beiden Berliner für eine weitere pickepackevolle Saison in den Startlöchern.Nachdem sich Treptow bereits Bühnen mit bekannten Namen wie Pussy Riot, Ton Steine Scherben, Montreal und Sondaschule teilten, packt das Zweigespann für 2025 noch eine Kohle drauf und behauptet sich nicht nur einmal in diesem Sommer als verdienter Festival-Headliner. Denn ohne Playback und doppelten Boden fahren Treptow zu zweit mit der Spielwut einer gesamten Punkband auf und liefern einen drückenden internationalen Sound, den man so von einem  deutschsprachigen Duo noch nie gehört hat. Mit Poesie, politischer Kante und Humor sprechen die beiden Freunde zu all denen, die noch nicht aufgegeben haben und auch nicht aufgeben wollen.
+Dieser Kampfgeist und die Zuversicht, dass man in dieser Welt etwas ändern kann, wenn man nur will, schweißt das Duo zu einer Ausnahmefreundschaft zusammen. 2017 rufen sie im Berliner Stadtteil Treptow ihre gleichnamige Band ins Leben und mischen seither die deutschsprachige Musikszene unermüdlich auf.
+
+[Homepage](www.treptow.wtf)
+[Spotify](http://spoti.fi/2w7y1Hc)
+[Wikipedia](https://de.wikipedia.org/wiki/Treptow_(Band))
+[YouTube](https://www.youtube.com/treptow_official)
+[Instagram](https://www.instagram.com/treptow.official)
+
+### SCUNKS
+
+{: #scunks }
+
+### ELIJAH SALOMON
+
+{: #elijahsalomon }
+
+### LUCKY GINGER
+
+{: #luckyginger }
+
+### LOW KEY ORCHESTRA
+
+{: #lowkeyorchestra }
+
+### KNARRE
+
+{: #knarre }
+
+### MASSIVE MADNESS
+
+{: #massivemadness }
+
+### SCHNUPPE
+
+{: #schnuppe }
+
+### DRUNKEN WAR
+
+{: #drunkenwar }
 
 <!-- Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusammen zu stellen. -->
 
