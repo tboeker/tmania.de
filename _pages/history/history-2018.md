@@ -17,7 +17,7 @@ type: page
 ![mariustilly]( {{'/assets/images/2018/mariustilly.jpg'|relative_url}} ){:class="img-responsive"}
 
 Marius Tilly gilt heute als musikalischer Weltenwandler, der vom Ruhrgebiet aus seinen eigenen Crossover-Atlas aus Landkarten des Blues, Punk, Soul und Psychedelic Rock gezeichnet hat. Er ist damit auf der Suche nach immer neuen Reiserouten, die zu spannend sind, um zwingend irgendwo enden zu müssen. Die Reise führt auf Tillys viertem Album Words From The Wilderness zu wagemutigen Arrangements, bislang ungehörten Sounds und neuen persönlichen Einsichten in die Welt. Für seine mitunter steilen musikalischen Thesen muss Tilly die Bodenständigkeit seiner Ruhrpott-Heimat Bochum nicht verlassen.
-Dort entsteht in weniger als acht Wochen das Grundgerüst der zwölf Songs auf Words From The Wilderness. Das Album wirkt mutiger, tiefgründiger und auch eine Spur ernster als sein Vorgänger Nebula Rising – eher wie ein Glas Whiskey On The Rocks als ein frisch gezapftes Pils. Tilly: „Der Eindruck mag auch damit zusammenhängen, dass ich vor einiger Zeit Nick Cave und seine unorthodoxe Art, Musik zu machen für mich entdeckt habe. Auf dem neuen Album haben oft die Texte den Ausgangspunkt gebildet. Words From The Wilderness ist auch die erste Platte, auf der ich etwas gesellschaftskritischer werde.“ 
+Dort entsteht in weniger als acht Wochen das Grundgerüst der zwölf Songs auf Words From The Wilderness. Das Album wirkt mutiger, tiefgründiger und auch eine Spur ernster als sein Vorgänger Nebula Rising – eher wie ein Glas Whiskey On The Rocks als ein frisch gezapftes Pils. Tilly: „Der Eindruck mag auch damit zusammenhängen, dass ich vor einiger Zeit Nick Cave und seine unorthodoxe Art, Musik zu machen für mich entdeckt habe. Auf dem neuen Album haben oft die Texte den Ausgangspunkt gebildet. Words From The Wilderness ist auch die erste Platte, auf der ich etwas gesellschaftskritischer werde.“
 
 Inzwischen steht der Mann mit Schnauzer (immer) und Hut (immer öfter) erheblich freigeistiger da als die traditionelle Bluesrock-Kiste, in der Tilly das musikalische Parkett einst betreten hat. Weiterhin im Trio-Line-Up unterwegs geht es Tilly als nächstes darum, den stilistischen Wagemut des neuen Albums auch live zu transportieren - in bis zu 60 Shows im Jahr beginnend mit der „Words From The Wilderness“ Tour im Februar.
 Und im August dann auch bei uns....
@@ -77,13 +77,13 @@ Indes als Gegenereignis ungenutzter Energie,haben die vier vor knapp zwei Jahren
 
 ![aliennation]( {{'/assets/images/2018/aliennation.jpg'|relative_url}} ){:class="img-responsive"}
 
-Alien-Nation gründet sich im Jahr 2017 auf dem Planeten Erde. Max, Aaron und Erwin proben im beschaulichen Marburg, ausgestattet mit Gitarre, Bass, Keyboard und Gesang. Damit diese Band nicht nur außergewöhnlich, sondern außerirdisch wird muss ein Telefonat geführt werden: „Kannst du bei uns Schlagzeug spielen?“ schallt es durch den Hörer. „Klar!“ so die knappe, aber kompetente Antwort. 
+Alien-Nation gründet sich im Jahr 2017 auf dem Planeten Erde. Max, Aaron und Erwin proben im beschaulichen Marburg, ausgestattet mit Gitarre, Bass, Keyboard und Gesang. Damit diese Band nicht nur außergewöhnlich, sondern außerirdisch wird muss ein Telefonat geführt werden: „Kannst du bei uns Schlagzeug spielen?“ schallt es durch den Hörer. „Klar!“ so die knappe, aber kompetente Antwort.
 
 Aus drei wurden vier, aus Motivation wurde Ambition und sie probten bis zum Morgengrauen.
 
-Die Songs von Alien-Nation könnten aus dem Paralleluniversum von Funk, Rock, Folk und Pop stammen. Genre-Schubladen existieren nur in der Theorie. Stoner und Motown schließen sich ebenso wenig aus wie Reggae und Indie. Einflüsse sollen harmonieren ohne dass sie mit der Brechstange erzwungen werden. Vor allem aber soll jeder Song eingängig sein, Spaß machen und jeden mitnehmen der zuhört. 
+Die Songs von Alien-Nation könnten aus dem Paralleluniversum von Funk, Rock, Folk und Pop stammen. Genre-Schubladen existieren nur in der Theorie. Stoner und Motown schließen sich ebenso wenig aus wie Reggae und Indie. Einflüsse sollen harmonieren ohne dass sie mit der Brechstange erzwungen werden. Vor allem aber soll jeder Song eingängig sein, Spaß machen und jeden mitnehmen der zuhört.
 
-## Metzter58
+## Metzer58
 
 ![metzer58]( {{'/assets/images/2018/metzer58.jpg'|relative_url}} ){:class="img-responsive"}
 
@@ -91,13 +91,12 @@ Punk Rock aus Münster auf dem Radweg zur nächsten Tanke weil Chips, Cola und B
 
 Wir schreiben das Jahr 2007. Die junge Lebenshilfe Münster initiiert ein inklusives Bandprojekt mit dem Kern Schlagersongs zu covern. Instrumente werden angeschafft, ein Proberaum eingerichtet.
 
-2011, das Projekt geht zu Ende. Die Mitglieder zerstreuen sich, die Leitung verzieht. Was bleib sind die Instrumente. Staubfänger und Relikte alter Tage. 
+2011, das Projekt geht zu Ende. Die Mitglieder zerstreuen sich, die Leitung verzieht. Was bleib sind die Instrumente. Staubfänger und Relikte alter Tage.
 Anfang 2012. Zeit für einen Neuanfang. So rufen wir ein neues Bandprojekt aus. Ein offener Musiktreff. Keine Ziele. Keine Pflichten.
-Was wir wollen? 
+Was wir wollen?
 Einen Weg raus aus den gewohnten Umgebungen und Strukturen.
 Freiräume erschließen und gestalten.
 Zwei Jahre nach Beginn wird aus dem Treff eine Band.
 Erste eigene Lieder werden geschrieben.
 Wie das klingt? Nach Punk.
 Ende 2014, erstes Konzert.Wir eröffnen. Finden erste Fans. Finden uns. Zur richtigen Zeit am richtigen Ort. Ab jetzt keine Heimfeste mehr. Nur voran. In die Szene. Ins Unbekannte. Von da an hießen und heißen wir Metzer 58. Aufnahmen wurden gemacht,im Internet veröffentlicht und viele Konzerte gespielt.
-

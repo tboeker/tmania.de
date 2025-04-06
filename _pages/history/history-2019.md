@@ -16,12 +16,13 @@ type: page
 
 # Freitag
 
-## STRAIGHT 
+## STRAIGHT
+
 {: #straight }
 
 ![STRAIGHT]( {{'/assets/images/2019/straight.jpg'|relative_url}} ){:class="img-responsive"}
 
-30 Jahre Banderfahrung prägen die Beverunger Rockformation „Straight“. Neben den altgedienten Musikern der ersten Stunde -Thomas Neu (guitars), Gerherd Gretschel (guitars) und Achim Rickmeier (drums)- wird das line up mit Alexander Stiens (vocals), Hanni Otto (bass) und Ralf Liebelt (keys) vervollständigt. 
+30 Jahre Banderfahrung prägen die Beverunger Rockformation „Straight“. Neben den altgedienten Musikern der ersten Stunde -Thomas Neu (guitars), Gerherd Gretschel (guitars) und Achim Rickmeier (drums)- wird das line up mit Alexander Stiens (vocals), Hanni Otto (bass) und Ralf Liebelt (keys) vervollständigt.
 
 Straight steht nach wie vor für dieselbe Gangart: Qualitativ hochwertig gespielter erdiger Rock. Das Fähnchen nach dem jeweiligen Wind der Musikszene zu hängen ist nicht ihr Ding. Das Programm der Band hält die großen Hits der Rockgeschichte genauso bereit, wie einige Raritäten.
 
@@ -32,6 +33,7 @@ Die Jungs beherrschen das Alphabet von AC/DC bis ZZ Top mit echtem Wiedererkennu
 # Samstag
 
 ## KAPELLE PETRA
+
 {: #kapelle }
 
 ![KAPELLE PETRA]( {{'/assets/images/2019/kapellepetra.jpg'|relative_url}} ){:class="img-responsive"}
@@ -52,6 +54,7 @@ Nach einer ausverkauften Jubiläumstour und einigen Sommerfestivals gilt der Fok
 [YouTube](https://www.youtube.com/channel/UChvRAHxXFVj9dnAKK_Su3Tw)
 
 ## BAD NENNDORF BOYS
+
 {: #bnboys }
 
 ![BAD NENNDORF BOYS]( {{'/assets/images/2019/bnboys.jpg'|relative_url}} ){:class="img-responsive"}
@@ -68,22 +71,23 @@ Aber nicht nur auf der Bühne haben sich die sechs Musiker einen Namen gemacht. 
 [Facebook](https://www.facebook.com/BadNenndorfBoys)
 
 ## UWE AGAINST THE MACHINE
+
 {: #uwe }
 
-Ausnahmekünstler „Uwe“ hat extra für die T-Mania Familie eine Rock-Show mit Coversongs aus den 90ern gezaubert. Er kommt aus dem Ruhrpott angereist, mit einer Auswahl an exzellenten Musikern aus dem Paderborner Raum. Mit „uwe against the machine“ spielen Musiker, die seit Jahrzehnten auf den Bühnen der Hardcore-, Punk-, Rock- und Metalszene ihr Unwesen treiben. Weit über 1.000 Konzerte in Deutschland und Europa haben sie gespielt und kommen nun endlich nach Dalhausen! Die Musiker haben nicht nur internationale Bühnenerfahrung, man munkelt sie seien auch aus Funk und Fernsehen bekannt - im Zusammenhang mit verschiedenen Gesetzeskonflikten. 
+Ausnahmekünstler „Uwe“ hat extra für die T-Mania Familie eine Rock-Show mit Coversongs aus den 90ern gezaubert. Er kommt aus dem Ruhrpott angereist, mit einer Auswahl an exzellenten Musikern aus dem Paderborner Raum. Mit „uwe against the machine“ spielen Musiker, die seit Jahrzehnten auf den Bühnen der Hardcore-, Punk-, Rock- und Metalszene ihr Unwesen treiben. Weit über 1.000 Konzerte in Deutschland und Europa haben sie gespielt und kommen nun endlich nach Dalhausen! Die Musiker haben nicht nur internationale Bühnenerfahrung, man munkelt sie seien auch aus Funk und Fernsehen bekannt - im Zusammenhang mit verschiedenen Gesetzeskonflikten.
 
-
-Ein besonderes Highlight: Uwe konnte die aus Dalhausen stammende Sängerin Stefanie für die Bühne gewinnen. 
+Ein besonderes Highlight: Uwe konnte die aus Dalhausen stammende Sängerin Stefanie für die Bühne gewinnen.
 Beim Show-Programm wird für jeden etwas dabei sein, sodass alle Anwesenden mindestens bei einem Lied komplett durchdrehen können! Also, vorab bitte ausreichend Flüssigkeiten einnehmen!
 
 ## BLACK PALMS
+
 {: #blackpalms }
 
 ![BLACK PALMS]( {{'/assets/images/2019/blackpalms.jpg'|relative_url}} ){:class="img-responsive"}
 
-Black Palms ist eine Psychedelic-/Garage Rock Projekt aus Berlin, das von Fabian Peters (Gitarre//Bass/Gesang) gegründet wurde. Zusammen mit Jan Sönnichsen (Gitarre/Gesang) bilden die beiden ein Duo, das die musikalischen Ideen hinter dem Projekt verkörpert und mit teilweise wechselnden Live-Musikern auf die Bühne bringt. 
+Black Palms ist eine Psychedelic-/Garage Rock Projekt aus Berlin, das von Fabian Peters (Gitarre//Bass/Gesang) gegründet wurde. Zusammen mit Jan Sönnichsen (Gitarre/Gesang) bilden die beiden ein Duo, das die musikalischen Ideen hinter dem Projekt verkörpert und mit teilweise wechselnden Live-Musikern auf die Bühne bringt.
 
-Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (Drums). Sowohl sämtliche Instrumentalspuren als auch die Gesänge für die beiden bisher veröffentlichten Singles „9/4“ und „LSD-Cleopatra, haben Black Palms darüber hinaus ausschließlich mit Smartphones aufgenommen und anschließend am Computer für das Mixing & Mastering arrangiert. Die Musik transportiert dabei einen rohen, melodischen Sound und liefert Freiraum für die Instrumente. 
+Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (Drums). Sowohl sämtliche Instrumentalspuren als auch die Gesänge für die beiden bisher veröffentlichten Singles „9/4“ und „LSD-Cleopatra, haben Black Palms darüber hinaus ausschließlich mit Smartphones aufgenommen und anschließend am Computer für das Mixing & Mastering arrangiert. Die Musik transportiert dabei einen rohen, melodischen Sound und liefert Freiraum für die Instrumente.
 
 [Facebook](https://www.facebook.com/blackpalmsband)
 [Instagram](https://www.instagram.com/blackllpalms)
@@ -91,18 +95,19 @@ Zur aktuellen Besetzung zählen darüber hinaus Paul Ernst (Bass) und Danny We (
 [Spotify](https://open.spotify.com/artist/7u6KwmWRrCKIbawNTQqFuw?si=GBjVZqKxTSusVp8qDJk8RA)
 
 ## SCUNKS
+
 {: #scunks }
 
-![SPIT PINK]( {{'/assets/images/2019/scunks.jpg'|relative_url}} ){:class="img-responsive"}
+![SCUNKS]( {{'/assets/images/2019/scunks.jpg'|relative_url}} ){:class="img-responsive"}
 
-Erfolg ist ja immer relativ: Für die einen ist es ein Erfolg, in die heute unbedeutenden Charts zu kommen, für die anderen schon, morgens überhaupt aufzustehen. Für die SCUNKS ist es Erfolg, nach über 16 Jahren Bandgeschichte immer noch in Originalbesetzung zu spielen und sich dabei zwar langsam, aber kontinuierlich weiter zu entwickeln. „Der stete Tropfen höhlt den Stein“, weiß Bandorakel Hippe und blickt dabei bedeutungsschwanger in die Ferne. Einige der Songs, die den Typen von Chefdenker an eine „Mischung aus Kettcar, Muff Potter und Pascow“ erinnert haben, sind in der SCUNKS-Heimat um Paderborn fast schon kleine Szenehits. 
+Erfolg ist ja immer relativ: Für die einen ist es ein Erfolg, in die heute unbedeutenden Charts zu kommen, für die anderen schon, morgens überhaupt aufzustehen. Für die SCUNKS ist es Erfolg, nach über 16 Jahren Bandgeschichte immer noch in Originalbesetzung zu spielen und sich dabei zwar langsam, aber kontinuierlich weiter zu entwickeln. „Der stete Tropfen höhlt den Stein“, weiß Bandorakel Hippe und blickt dabei bedeutungsschwanger in die Ferne. Einige der Songs, die den Typen von Chefdenker an eine „Mischung aus Kettcar, Muff Potter und Pascow“ erinnert haben, sind in der SCUNKS-Heimat um Paderborn fast schon kleine Szenehits.
 
 Mit ihrer unaufgeregten Art erobern die vier Schulfreunde (Realschulabschluss 2003) eh jedes Publikum. Das konnten sie auf vielen größeren Bühnen (AStA-Sommerfestival 2017, Support für Knorkator [warum auch immer], Drittel Wahl, Sondaschule, und immer und immer wieder T-Mania.) beweisen, aber auch immer wieder in Kneipen und bei ausverkauften Heimspielen rund um Warburg. „Unsere treue Anhängerschaft hat schon so manche marode Wirtschaft durch den Kauf von Bier gesundgesoffen“, orakelt Hippe weiter und mahnt gleichsam, die Getränkepreise im Rahmen zu halten: „Sonst drohen Unruhen!“
 
 [Homepage](www.scunks.de)
 
-
 ## SPIT PINK
+
 {: #spitpink }
 
 ![SPIT PINK]( {{'/assets/images/2019/spitpink.jpg'|relative_url}} ){:class="img-responsive"}
@@ -110,17 +115,18 @@ Mit ihrer unaufgeregten Art erobern die vier Schulfreunde (Realschulabschluss 20
 Spit Pink sind energiegeladener 77er-Punk mit Einflüssen von Rock'n‘Roll und Garage, irgendwo zwischen den Kids und Iggy Pop, als der noch kein Yoga gemacht hat. Schweißtreibend, dreckig, wie das Detroit der 70er. Mit stampfendem Beat und massivem Gitarrensound - ausgefeilt und brachial. Live immer ein Erlebnis. Bring einen Freund mit, du wirst einen brauchen!
 
 ## LUCAS RIEGER
+
 {: #lucasrieger }
 
 ![LUCAS RIEGER]( {{'/assets/images/2019/lucasrieger.jpg'|relative_url}} ){:class="img-responsive"}
 
-Ankommen war gestern, denn ein Heimweg endet nie. Und der von Lucas Rieger (mit C) sowieso nicht. Seit einigen Jahren schreibt er deutschsprachige Songs, wo jeder seinen Platz findet, egal ob in oder zwischen den Zeilen. Platz finden diese Songs nicht nur in Kopf und Herz, sondern auch in einigen Radiosendern und auf vielen Bühnen. 
+Ankommen war gestern, denn ein Heimweg endet nie. Und der von Lucas Rieger (mit C) sowieso nicht. Seit einigen Jahren schreibt er deutschsprachige Songs, wo jeder seinen Platz findet, egal ob in oder zwischen den Zeilen. Platz finden diese Songs nicht nur in Kopf und Herz, sondern auch in einigen Radiosendern und auf vielen Bühnen.
 
-Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er bundesweit, sowie im deutschsprachigen Ausland tourte und sich die Bühne mit Acts wie Revolverheld oder Bela B. teilte. 
+Erfahrung auf der Bühne sammelte er nicht nur bei seinen Solo-Gigs. Ab 2010 spielte er längere Zeit bei der nicht unbekannten Punkband „Kafkas“, mit der er bundesweit, sowie im deutschsprachigen Ausland tourte und sich die Bühne mit Acts wie Revolverheld oder Bela B. teilte.
 
-Auf Platte ein bisschen Pop und Live ein bisschen Punk - so nahm er 2015 im eigenen kleinen Studio die mittlerweile nicht mehr erhältliche EP „Durch jede Wand“ auf. 
+Auf Platte ein bisschen Pop und Live ein bisschen Punk - so nahm er 2015 im eigenen kleinen Studio die mittlerweile nicht mehr erhältliche EP „Durch jede Wand“ auf.
 
-Da der Motor immer weiter und runder läuft gibt es nun neue Auftritte und neue Songs. 
+Da der Motor immer weiter und runder läuft gibt es nun neue Auftritte und neue Songs.
 
 Und die sind gut. Richtig gut.
 

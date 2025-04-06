@@ -9,6 +9,7 @@ type: page
 | BANDS |
 | --------|
 | [TREPTOW](#treptow) |
+| [PALILA](#palila) |
 | [ELIJAH SALOMON](#elijahsalomon ) |
 | [SCUNKS](#scunks) |
 | [DRUNKEN WAR](#drunkenwar) |
@@ -32,9 +33,20 @@ Dieser Kampfgeist und die Zuversicht, dass man in dieser Welt etwas ändern kann
 [YouTube](https://www.youtube.com/treptow_official)
 [Instagram](https://www.instagram.com/treptow.official)
 
+### PALILA
+
+{: #palila }
+
+[Linktree](https://linktr.ee/palilamusic)
+[Spotify](https://open.spotify.com/artist/2sYDElQqOVVk6sTPlSWIlE?si=4dBY2TrLTLeaLZ2lgMpqMg)
+[YouTube](https://youtube.com/channel/UCFMFRzjLzOW3ep6rIBeEtAg)
+[Instagram](https://instagram.com/palila.music)
+[Bandcamp](https://palila.bandcamp.com/)
+
 ### SCUNKS
 
 {: #scunks }
+![SCUNKS]( {{'/assets/images/2019/scunks.jpg'|relative_url}} ){:class="img-responsive"}
 
 [Homepage](https://scunks.bandcamp.com/)
 

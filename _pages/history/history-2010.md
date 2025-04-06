@@ -10,7 +10,6 @@ type: page
 
 ![2010]( {{ '/assets/images/2010-flyer.jpg' | relative_url }} )
 
-
 # Freitag
 
 ## Six Nation
@@ -21,14 +20,14 @@ Acht Musiker aus sechs Nationen Argentinien, Deutschland, Italien, Kosovo, Polen
 
 Six Nation entstand Anfang des Jahres 2006 aus diversen Bandprojekten/Vorläuferprojekten von Frontmann Pachango und Moe „Basshead“, welche seit 2002 zusammenarbeiten. Mittlerweile zählt die Band acht Mitglieder, alles leidenschaftliche Musiker, die sich vorgenommen haben, den Reggae mit Elementen des Ska und lateinamerikanischen Rhythmen aufzumischen. Während ihres relativ kurzen Bestehens war die Band dank ihrer hervorragenden Live-Qualitäten bereits bei zahlreichen Auftritten erfolgreich.
 
-# Samstag 
+# Samstag
 
 ## Dritte Wahl
 
 ![Dritte Wahl]( {{'/assets/images/2010/drittewahl.jpg'|relative_url}} ){:class="img-responsive"}
 
 Die Geschichte von DRITTE WAHL
- 
+
 Im Herbst 1988, also noch im Untergrund der DDR-Kultur, gaben die drei Rostocker Gunnar (voc/g), Busch´n (voc/bg) und Krel (dr) ihr erstes Konzert in der Schülerspeisung Rostock/Evershagen. In ironischer Anspielung auf ihr eigenes Spielvermögen sowie der gesellschaftlichen Bedeutung von Menschen mit Widerspruchsgeist nannten sie sich „DRITTE WAHL“.
 Ein wüstes Gemisch aus Coverversionen (u.a. Die Toten Hosen, Die Goldenen Zitronen, Sex Pistols) und eigenen Songs hatte schon von Anfang an seinen eigenen Reiz! Sie verstehen es wie kaum eine andere Band, Elemente des Punk und Metal druckvoll mit ausdrucksstarken Texten zu verbinden.
 Live entwickelt sich die Band zu einem richtigen „Renner“. Ehrlich vermitteltes Lebensgefühl voller textlicher und musikalischer Dynamik verschmilzt mit einem wilden Pogo-Reigen vor der Bühne. Ausgedehnte Touren durch alle Teile der Bundesrepublik sowie ins Ausland (bisherige Konzerte führten sie u.a. nach Holland, Belgien, Frankreich, Österreich, Italien, Spanien, in die Schweiz sowie nach Tschechien, Serbien, Kroatien, in die Slowakei und nach Ungarn) machten DRITTE WAHL auch über die Landesgrenzen hinweg bekannt.
@@ -37,7 +36,7 @@ Januar 2005. Ein harter Schicksalsschlag trifft die Band. Am 17. 1. 2005 verstir
 Im September 2005 erschien dann mit „Fortschritt“ das verflixte siebte deutschsprachige Album von DRITTE WAHL, erneut beim bandeigenen Label DRITTE WAHL Records.
 Für das Jahr 2006 ist eine Live-DVD und eine LP/CD mit mehreren Singles, die zum Teil lange vergriffen sind, geplant.
 
-## Dreadnut INC.
+## Dreadnut INC
 
 ![Dreadnut INC]( {{'/assets/images/2010/dreadnut.png'|relative_url}} ){:class="img-responsive"}
 
@@ -61,7 +60,7 @@ Im Sommer 2011 erschien ihr Debüt Namens „First Drop“ in Zusammenarbeit mit
 
 Vier junge Musiker aus der Nähe von Beverungen proben die Indie-Rock Rebellion in der Provinz. Nun kommen die Vocals mit ihrem Entwurf von Rockmusik und mit dem unbedingten Willen zu dynamischem Rock, hergestellt aus einer hemmungslosen Mischung exzessiver Tönen und dem bittersüßen Duft der Melancholie auf das Tittemania Festival. Im Reisegepäck haben sie ihr erstes Album Between Moles and Durans. Damit alle Mädels laut ihre Namen kreischen können, wenn möglich in der Verniedlichungsform: Basti, Andy, Henni und ähhh .... Erwi (??)...Musik aus der Peripherie sollte jedenfalls niemals unterschätzt werden.
 
-##  Barney´s Boogie Train
+## Barney´s Boogie Train
 
 ![barneys]( {{'/assets/images/2010/barneys.jpg'|relative_url}} ){:class="img-responsive"}
 
@@ -119,4 +118,4 @@ Hubi Redlich am Bass
 
 Mathias Redlich am Schlagzeug und an der Gitarre
 Nico Redlich mit Gitarre und Lead-Stimme
-Jan Lietzmann am Schlagzeug und in der verantwortungsvollen Rolle des Tempokatalysators
+Jan Lietzmann am Schlagzeug und in der verantwortungsvollen Rolle des Tempokatalysators.

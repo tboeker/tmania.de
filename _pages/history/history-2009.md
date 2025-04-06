@@ -20,7 +20,7 @@ Und nun freuen wir uns schon auf das nächste Jahr und würden uns freuen, wenn 
 
 ## Bands
 
-### Freitag 
+### Freitag
 
 - Dub Spencer & Trance Hill
 - Elijah and the dubby conquerors

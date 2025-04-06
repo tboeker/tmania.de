@@ -16,7 +16,6 @@ Mit Sprengsatz konnten wir eine Kult - Punkband nach Dalhausen locken. Desweiter
 
 Ein Highlight waren Panic Blues, die mit ihrem Stoner Rock dem Publikum einheizten. In diesem Jahr konnten No Mayers 50, 2 Jahre nach ihrem ersten Mal bei uns, endlich mal ohne Unterbrechung (Spiel um Platz Drei bei der WM) richtig rocken. Den Abschluss bildete Kapelle Petra, von der das gesamte Publikum angetan war.
 
-
 ## Bands
 
 - The Face of Life

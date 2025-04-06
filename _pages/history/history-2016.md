@@ -18,14 +18,14 @@ type: page
 
 Vorhang auf und Bühne frei für „Disco Halt“! Fette Beats und Bässe garniert mit allerlei scharfen Bläsern und leckeren Vocals. Die neunköpfige münsteraner Combo spielt eine Mischung aus Pop, Funk, Reggae, Soul und Rock.
 Dabei verschmelzen die Stilrichtungen zu einem frischen energiegeladenen Sound, der über Bauch und Ohren jedes Tanzbein zucken lässt. Tanzbare Grooves von sympathischen Typen mit 'ner ordentlichen Portion Spaß – Disco Halt!
-Mit stetig wachsender Besetzung arbeitet die mittlerweile neunköpfige DiscoHalt-Crew an neuen Tunes: 
-Die messerscharfe Bläser-Section mit Daniel und Jannik am Saxophon, Armin an der Trompete und Lukas an der Posaune kann sich auf die beinharten Rhythmusgruppe mit Sese an den Drums, Christoph am Bass, Nils an den Keys und Carlo an der Gitarre verlassen. Den letzten Schliff gibt’s von David, dem Mann am Mikrofon, der mit seinen Vocals den Bandsound zu einem grandiosen Ganzen abrundet... eben Disco Halt! 
+Mit stetig wachsender Besetzung arbeitet die mittlerweile neunköpfige DiscoHalt-Crew an neuen Tunes:
+Die messerscharfe Bläser-Section mit Daniel und Jannik am Saxophon, Armin an der Trompete und Lukas an der Posaune kann sich auf die beinharten Rhythmusgruppe mit Sese an den Drums, Christoph am Bass, Nils an den Keys und Carlo an der Gitarre verlassen. Den letzten Schliff gibt’s von David, dem Mann am Mikrofon, der mit seinen Vocals den Bandsound zu einem grandiosen Ganzen abrundet... eben Disco Halt!
 
 ## Rocco Recycle
 
 ![rocco]( {{'/assets/images/2016/rocco.jpg'|relative_url}} ){:class="img-responsive"}
 
-One Man – One Band: Rocco Recycle Der Mann in Silber spielte in etlichen Polo-Filialen, als Support für Santana, tourte durch die USA und Portugal und trat kürzlich sogar auf einer Beerdigung auf. Ob mit eigener mobiler Chopperbühne, auf großen Bühnen, in Clubs, Kneipen oder auf der Strasse: Rocco rockt mit selbstgebauten Instrumenten aus Schrott: Bezinkanister recycelt er zu Gitarren, aus Mülltonnnen macht Rocco Recycle Bassdrums. Seine Band ist er selbst. Gern recycelt er Rockklassiker. 
+One Man – One Band: Rocco Recycle Der Mann in Silber spielte in etlichen Polo-Filialen, als Support für Santana, tourte durch die USA und Portugal und trat kürzlich sogar auf einer Beerdigung auf. Ob mit eigener mobiler Chopperbühne, auf großen Bühnen, in Clubs, Kneipen oder auf der Strasse: Rocco rockt mit selbstgebauten Instrumenten aus Schrott: Bezinkanister recycelt er zu Gitarren, aus Mülltonnnen macht Rocco Recycle Bassdrums. Seine Band ist er selbst. Gern recycelt er Rockklassiker.
 
 # Samstag
 
@@ -48,20 +48,20 @@ Dank des Internets findet Mandowar auch immer mehr internationale Fans: Über It
 
 ![ove]( {{'/assets/images/2016/ove.jpg'|relative_url}} ){:class="img-responsive"}
 
-All you need is OVE 
-Raus aus der verrauchten Dichterstube, rauf auf Bühne! 
-Ove kommt auf Gastspielreise und positioniert seine Spielfiguren auf den knarzigen Brettern der Republik. 
-Die fünf Wahlhamburger haben nicht nur einen Strauß bunter Melodien ihrer Ende 2016 erscheinenden Langspielplatte »Ich will mir nicht so sicher sein« im Gepäck, 
-sondern haben sich im sechsten Jahr ihres Bestehens gleich auch einen Relaunch gegönnt. 
-Der Bandname »Game Ove & Die Spielfiguren« landete unter dem Messer, wurde per Facelifting auf die Formel OVE gestrafft. 
-Doch durch die neuen Schläuche fließt guter, alter Wein: Die Musik ist weiterhin das, was sie ist. 
-Kantig und doch weich. Kunstvoll und doch echt. Nordfriesische Eigentümlichkeit trifft auf urbanen, unprätentiösen Charme. 
-Aus diesem kreativen Kraftfeld lassen OVE ein Album erwachsen, in dem Sprache und Musik eine stürmische Liaison eingehen. 
-Oves Wortakrobatik wird von einem sauber geknüpften Klangtrapez aus Folk, Pop und Country-Anleihen abgesichert. 
-Circus Sarrasani trifft auf Handwerkskammer. Stilistischer Streuselkuchen mit poetischem Zuckerguss. 
-Alle hungrigen Träumer und Musikliebhaber können sich ab Ende April bei der Live-Verkostung die Bäuche vollstopfen, 
-denn OVE servieren ihr Mehr-Gänge-Menü (auf Zuruf auch mit Nachschlag) bestimmt auch in eurer Nähe. 
-Showcooking mit Chef de Cuisine Ove und seinen Smutjes. Ein akustischer Gruß aus der ehrlichen Hausmannsküche. 
+All you need is OVE
+Raus aus der verrauchten Dichterstube, rauf auf Bühne!
+Ove kommt auf Gastspielreise und positioniert seine Spielfiguren auf den knarzigen Brettern der Republik.
+Die fünf Wahlhamburger haben nicht nur einen Strauß bunter Melodien ihrer Ende 2016 erscheinenden Langspielplatte »Ich will mir nicht so sicher sein« im Gepäck,
+sondern haben sich im sechsten Jahr ihres Bestehens gleich auch einen Relaunch gegönnt.
+Der Bandname »Game Ove & Die Spielfiguren« landete unter dem Messer, wurde per Facelifting auf die Formel OVE gestrafft.
+Doch durch die neuen Schläuche fließt guter, alter Wein: Die Musik ist weiterhin das, was sie ist.
+Kantig und doch weich. Kunstvoll und doch echt. Nordfriesische Eigentümlichkeit trifft auf urbanen, unprätentiösen Charme.
+Aus diesem kreativen Kraftfeld lassen OVE ein Album erwachsen, in dem Sprache und Musik eine stürmische Liaison eingehen.
+Oves Wortakrobatik wird von einem sauber geknüpften Klangtrapez aus Folk, Pop und Country-Anleihen abgesichert.
+Circus Sarrasani trifft auf Handwerkskammer. Stilistischer Streuselkuchen mit poetischem Zuckerguss.
+Alle hungrigen Träumer und Musikliebhaber können sich ab Ende April bei der Live-Verkostung die Bäuche vollstopfen,
+denn OVE servieren ihr Mehr-Gänge-Menü (auf Zuruf auch mit Nachschlag) bestimmt auch in eurer Nähe.
+Showcooking mit Chef de Cuisine Ove und seinen Smutjes. Ein akustischer Gruß aus der ehrlichen Hausmannsküche.
 Guten Appetit!
 
 ## REKK
@@ -72,7 +72,7 @@ Guten Appetit!
 Vermutlich kann man sich genau deshalb so wundervoll von der Musik Rekks tragen lassen. In schnörkelloser Einfachheit schaffen sie es, zu frühes Aufstehen poetisch zu verklären oder etwa die Geräusche der vielen Autos auf der Straße vor dem offenen Fenster zu Fernweh werden zu lassen.
 Die Songs der ersten EP "Turn & Sing" haben allesamt die von Kaiser verfolgten Gefühle eingefangen und präsentieren sie dem Zuhörer in voller Pracht.
 Folkpop mit großem Tiefgang. In der gleichen Tradition wie BON IVER oder BEN HOWARD.
-Hier und da VIC CHESNUTT Momente in denen aus etwas Zerstörtem plötzlich wieder etwas Wunderbares entsteht. 
+Hier und da VIC CHESNUTT Momente in denen aus etwas Zerstörtem plötzlich wieder etwas Wunderbares entsteht.
 
 ## Bad Nenndorf Boys
 
@@ -109,11 +109,11 @@ Im Innenraum: Vier Jungs in bester Feierlaune. Aus der Anlage dröhnen Wahlweise
 ![saendaepause]( {{'/assets/images/2016/saendaepause.jpg'|relative_url}} ){:class="img-responsive"}
 
 "Sing mit oder sei der Einzige, der es nicht tut!“
-So beschrieb die Jury des SPH Bandcontests den "extrem spaßigen Punkrock" von Sändäpause. Diesem Motto stets treu geblieben, treiben es die Vier von Sändäpause stets bis auf die Spitze… 
-und gern auch ein kleines Stück darüber hinaus! Die „wohl bunteste Band der Welt", wie sie sich selbst mit einem Augenzwinkern nennen, kämpft für mehr Farbe in dieser oft viel zu grauen Welt und erinnert, 
-auch gerne mal mit dem gewissen Grad an Selbstironie, an die wirklich wichtigen Dinge im Leben: 
+So beschrieb die Jury des SPH Bandcontests den "extrem spaßigen Punkrock" von Sändäpause. Diesem Motto stets treu geblieben, treiben es die Vier von Sändäpause stets bis auf die Spitze…
+und gern auch ein kleines Stück darüber hinaus! Die „wohl bunteste Band der Welt", wie sie sich selbst mit einem Augenzwinkern nennen, kämpft für mehr Farbe in dieser oft viel zu grauen Welt und erinnert,
+auch gerne mal mit dem gewissen Grad an Selbstironie, an die wirklich wichtigen Dinge im Leben:
 Freunde, Musik und Spaß am Leben.
-Klassische Punkelemente, kraftvolle Rockbeats, 
+Klassische Punkelemente, kraftvolle Rockbeats,
 Skaparts, die garantiert niemanden still stehen lassen, und Texte die zum Mitgröhlen auffordern.
 Kurz: Fun-Punkrock von seiner ehrlichsten Seite.
 Nach einem eindrucksvollen T-Mania 2014 heißt es nun 2016 wieder auf nach Dalhausen!
@@ -122,4 +122,4 @@ Nach einem eindrucksvollen T-Mania 2014 heißt es nun 2016 wieder auf nach Dalha
 
 ![pogopanik]( {{'/assets/images/2016/pogopanik.jpg'|relative_url}} ){:class="img-responsive"}
 
-Pogopanik aus Bielefeld machen deutschsprachigen Punkrock vom Allerfeinsten. Wären sie eine Partei müsste man wohl sagen "Sie ist sehr gut!". Wären sie ein Bier würde man sagen "Das perlt!" und hätte Adorno das Werk der vier analysiert, wäre es Hochkultur. Sozial- und gesellschaftskritische Texte halten dem Pöbel den Spiegel vors Gesicht damit er sich seine hässliche Visage mal ganz genau angucken kann. Man kann aber auch einfach eine Textpassage rauspicken, aus dem Zusammenhang reißen und sagen "Unser Punk ist viel besser, viel besser als eurer". Schlagzeug, Bass, zwei Gitarren und mehrstimmiger Gesang lassen Punkrockherzen höher schlagen und geben dem Hörer das was er verdient. Auf die Fresse! 
+Pogopanik aus Bielefeld machen deutschsprachigen Punkrock vom Allerfeinsten. Wären sie eine Partei müsste man wohl sagen "Sie ist sehr gut!". Wären sie ein Bier würde man sagen "Das perlt!" und hätte Adorno das Werk der vier analysiert, wäre es Hochkultur. Sozial- und gesellschaftskritische Texte halten dem Pöbel den Spiegel vors Gesicht damit er sich seine hässliche Visage mal ganz genau angucken kann. Man kann aber auch einfach eine Textpassage rauspicken, aus dem Zusammenhang reißen und sagen "Unser Punk ist viel besser, viel besser als eurer". Schlagzeug, Bass, zwei Gitarren und mehrstimmiger Gesang lassen Punkrockherzen höher schlagen und geben dem Hörer das was er verdient. Auf die Fresse!

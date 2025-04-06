@@ -50,7 +50,7 @@ Die Münsteraner Spaß-Brass-Section gründete sich 2004 in einer kleinen Rockfo
 
 punkrock aus bielefeld,
 
-Zum 10-jährigen Bandjubiläum gratulieren wir ganz herzlich und heißen euch auf unserer Bühne willkommen 
+Zum 10-jährigen Bandjubiläum gratulieren wir ganz herzlich und heißen euch auf unserer Bühne willkommen
 
 kritisch politisch nicht dogmatisch, doch konsequent antifaschistisch, antisexistisch, reflektiert links eben. das mit der anarchie meinen sie sehr ernst, verlieren dennoch den humor nicht. trotz so ernster themen haben die vier jungs eine menge spaß am leben und an der musik. die meist deutschsprachigen texte bilden daher auch vielfältige themen ab, von gesellschaftskritik – auch mal an den eigenen linken kreisen – und all der abscheu angesichts einer unmenschlichen kapitalistischen welt über fußball und alkohol bis hin zu ganz banalen beobachtungen und alltäglichen gefühlen. mit instrumentaler standardbesetzung bringen sie seit 2007 schnörkellosen und druckvollen punkrock auf zahlreiche bühnen, wo selbst ein ostwestfälisches publikum sich von der energie und spielfreude mitreißen läßt. ende 2012 erschien die erste studio-cd „nein!ich!danke!“, ein nachfolgewerk ist überfällig und zurzeit in planung.
 
@@ -58,17 +58,17 @@ kritisch politisch nicht dogmatisch, doch konsequent antifaschistisch, antisexis
 
 ![atimetostand]( {{'/assets/images/2017/atimetostand.jpg'|relative_url}} ){:class="img-responsive"}
 
-A Time To Stand kennen sich aus der Schule oder haben im Zeltlager aufeinander aufgepasst. Zusammengetan, um Musik zu machen, haben sie sich im Frühjahr 2010. Schnell wurden erste Aufnahmen gemacht, bevor Sänger Nils sich für ein dreiviertel Jahr ins Ausland verabschiedete. 
+A Time To Stand kennen sich aus der Schule oder haben im Zeltlager aufeinander aufgepasst. Zusammengetan, um Musik zu machen, haben sie sich im Frühjahr 2010. Schnell wurden erste Aufnahmen gemacht, bevor Sänger Nils sich für ein dreiviertel Jahr ins Ausland verabschiedete.
 
-Richtig los ging es daher erst ab Spätsommer 2011. Erste Shows wurden gespielt, außerdem wurde die Debut-EP „You Are Here“ im Vertrieb von Major Threat veröffentlicht. Allen widrigen Umständen zum Trotz – Gitarrist Jan zog es u.a. für 3 Jahre (!) nach Dänemark – starteten A Time To Stand ganz gut durch, spielten zahlreiche Shows und konnten im Herbst 2012 dank No Panic! Records mit der 7“ „Torcher“ ein zweites Release vorlegen, das erstaunlich viel Beachtung fand. Im Juli 2014 erblickte dank No Panic! Records eine 3-Way Split 7“ mit den englischen River Jumpers und den schottischen The Walking Targets das Licht der Welt. 
+Richtig los ging es daher erst ab Spätsommer 2011. Erste Shows wurden gespielt, außerdem wurde die Debut-EP „You Are Here“ im Vertrieb von Major Threat veröffentlicht. Allen widrigen Umständen zum Trotz – Gitarrist Jan zog es u.a. für 3 Jahre (!) nach Dänemark – starteten A Time To Stand ganz gut durch, spielten zahlreiche Shows und konnten im Herbst 2012 dank No Panic! Records mit der 7“ „Torcher“ ein zweites Release vorlegen, das erstaunlich viel Beachtung fand. Im Juli 2014 erblickte dank No Panic! Records eine 3-Way Split 7“ mit den englischen River Jumpers und den schottischen The Walking Targets das Licht der Welt.
 
-Im Sommer 2015 wurden die widrigen Umstände schließlich so widrig, dass es wohnortbedingt einen personellen Wechsel gab. In Aushilfsgitarrist und Freund Micha fand man buchstäblich von einem Tag auf den nächsten einen würdigen Ersatz für Jan und es ging nahtlos weiter. 
+Im Sommer 2015 wurden die widrigen Umstände schließlich so widrig, dass es wohnortbedingt einen personellen Wechsel gab. In Aushilfsgitarrist und Freund Micha fand man buchstäblich von einem Tag auf den nächsten einen würdigen Ersatz für Jan und es ging nahtlos weiter.
 
-Heute können A Time To Stand auf knapp 100 Shows, darunter drei größere Touren durch Deutschland und Europa, eine Menge Bier, viele tolle Begegnungen und witzige Momente zurückblicken. Dabei teilten sie u.a. die Bühne mit internationalen Größen wie Polar Bear Club, Masked Intruder, RVIVR, aber auch mit national bekannten Bands wie Rasta Knast oder Rantanplan. 
+Heute können A Time To Stand auf knapp 100 Shows, darunter drei größere Touren durch Deutschland und Europa, eine Menge Bier, viele tolle Begegnungen und witzige Momente zurückblicken. Dabei teilten sie u.a. die Bühne mit internationalen Größen wie Polar Bear Club, Masked Intruder, RVIVR, aber auch mit national bekannten Bands wie Rasta Knast oder Rantanplan.
 
-Aktuell arbeiten die Pop-Punker am ersten Full Length Album. Im Frühjahr 2017 geht’s ins Studio und wenn alles glatt geht, findet noch dieses Jahr die große Album-Releaseparty statt. 
+Aktuell arbeiten die Pop-Punker am ersten Full Length Album. Im Frühjahr 2017 geht’s ins Studio und wenn alles glatt geht, findet noch dieses Jahr die große Album-Releaseparty statt.
 
-A Time To Stand sind nicht besonders außergewöhnlich, aber sie haben Spaß – und darum geht’s doch in erster Linie, oder?! 
+A Time To Stand sind nicht besonders außergewöhnlich, aber sie haben Spaß – und darum geht’s doch in erster Linie, oder?!
 
 ## Ole Hauk
 
@@ -82,9 +82,9 @@ Wenn die vier Jungs aus Bad Münder die Bühne betreten wird kein Stein auf dem 
 
 ![scunks]( {{'/assets/images/2017/scunks.jpg'|relative_url}} ){:class="img-responsive"}
 
-Die SCUNKS, die ihr Hauptquartier im nahegelegenen Peckelsheim haben, sind beim T-Mania schon alte Bekannte: Nach 2007, 2009 und 2014 kommt die Punkrockband in diesem Jahr wieder ins Weserbergland. „Mittlerweile spielen wir unser halbes Leben in dieser Band – und das sogar in Originalbesetzung“, sagt Sänger Hippe, der 30 geworden ist. Wie lange es die SCUNKS nun also gibt, müsst ihr anhand dieser Textaufgabe selbst herausfinden. Fakt ist: Wer auf Pascow, Muff Potter und Artverwandtes steht, dem könnten auch die SCUNKS gefallen. „Alle anderen sollen zur Hölle fahren“, sagt Hippe und verweist im selben Atemzug auf die neue EP „Das Zeitalter der Fische“, die auf einem praktischen 16 GB USB-Stick daherkommt. 
+Die SCUNKS, die ihr Hauptquartier im nahegelegenen Peckelsheim haben, sind beim T-Mania schon alte Bekannte: Nach 2007, 2009 und 2014 kommt die Punkrockband in diesem Jahr wieder ins Weserbergland. „Mittlerweile spielen wir unser halbes Leben in dieser Band – und das sogar in Originalbesetzung“, sagt Sänger Hippe, der 30 geworden ist. Wie lange es die SCUNKS nun also gibt, müsst ihr anhand dieser Textaufgabe selbst herausfinden. Fakt ist: Wer auf Pascow, Muff Potter und Artverwandtes steht, dem könnten auch die SCUNKS gefallen. „Alle anderen sollen zur Hölle fahren“, sagt Hippe und verweist im selben Atemzug auf die neue EP „Das Zeitalter der Fische“, die auf einem praktischen 16 GB USB-Stick daherkommt.
 
-Vorgeschmack? Hier: https://www.youtube.com/watch?v=5kwasOAKY1o
+Vorgeschmack? Hier: <https://www.youtube.com/watch?v=5kwasOAKY1o>
 
 Die SCUNKS findet ihr auch bei spotify und allen anderen coolen Plattformen, auf denen ihr jungen Leute heute eure ersten musikalischen Erfahrungen sammelt.
 
@@ -92,7 +92,7 @@ Die SCUNKS findet ihr auch bei spotify und allen anderen coolen Plattformen, auf
 
 ![abk]( {{'/assets/images/2017/abk.jpg'|relative_url}} ){:class="img-responsive"}
 
-Abk spielen Punkrock mit Trompete – mal aberwitzig, mal bitterernst. Seit 2012 bespaßt die mittlerweile vierköpfige Truppe aus Münster ihr Publikum mit einem Sound, der vom Streetpunk kommt, aber auch in Gefilde des Ska, der NDW oder der sogenannten neuen deutschen Härte abdriftet. Textlich geht es dabei um die allgemeine Scheiße in der Welt und das Tanzen auf den Trümmern derselben, spezielle Scheiße nach Themengebiet sortiert und um Persönliches. Auch ein oder zwei Sauflieder dürfen nicht fehlen. Mit dieser Mischung begeisterten Abk nicht nur Scharen von Konzertgängern in Münster und Umgebung, Sachsen, Hamburg und Berlin, sondern auch die Rezensent*innenfraktion der deutschen Punk-Fanzine-Landschaft ("Weitab von musikalischer Perfektion, aber keineswegs uncharmant", "bei ABK seine masochistischen Skills erweitern", "charmant-schraddelig bis sympathisch-unperfekt", "[...] ein [...] Meisterwerk [...] des [...] Punkrocks [...]"). Wer vor innovativem Einsatz von Blechblasinstrumenten und einer Portion auf die Fresse™ nicht zurückschreckt, für den bringt die staatlich geprüfte DIY-Band ein abwechslungsreiches Set mit, welches extra zur Bewältigung eures nachmittäglichen Katers zusammengestellt wurde. 
+Abk spielen Punkrock mit Trompete – mal aberwitzig, mal bitterernst. Seit 2012 bespaßt die mittlerweile vierköpfige Truppe aus Münster ihr Publikum mit einem Sound, der vom Streetpunk kommt, aber auch in Gefilde des Ska, der NDW oder der sogenannten neuen deutschen Härte abdriftet. Textlich geht es dabei um die allgemeine Scheiße in der Welt und das Tanzen auf den Trümmern derselben, spezielle Scheiße nach Themengebiet sortiert und um Persönliches. Auch ein oder zwei Sauflieder dürfen nicht fehlen. Mit dieser Mischung begeisterten Abk nicht nur Scharen von Konzertgängern in Münster und Umgebung, Sachsen, Hamburg und Berlin, sondern auch die Rezensent*innenfraktion der deutschen Punk-Fanzine-Landschaft ("Weitab von musikalischer Perfektion, aber keineswegs uncharmant", "bei ABK seine masochistischen Skills erweitern", "charmant-schraddelig bis sympathisch-unperfekt", "[...] ein [...] Meisterwerk [...] des [...] Punkrocks [...]"). Wer vor innovativem Einsatz von Blechblasinstrumenten und einer Portion auf die Fresse™ nicht zurückschreckt, für den bringt die staatlich geprüfte DIY-Band ein abwechslungsreiches Set mit, welches extra zur Bewältigung eures nachmittäglichen Katers zusammengestellt wurde.
 
 ## Helgen
 
@@ -106,4 +106,4 @@ die Band auf der Bühne vor Allem eine wirklich mitreißende Spielfreude und
 eine Menge Herz. Die wollen zwar was, aber eben nicht mit übertriebener Beflissenheit und Selbstüberh.hung den Blick nur nach oben
 wendend. Die geistreich wortwitzigen Texte werden begleitet von einer hochkompetenten Popmusik, die sich niemals im Selbstzweck ihrer mannigfaltigen Möglichkeiten suhlt, sondern das Lied an sich in den Mittelpunkt stellt.
 
-Nach einer selbstveröffentlichten EP (2015) und einer 7" (2016) ist jetzt die Zeit reif für das Debüt-Album von HELGEN. Dazu haben sich die 3 Hamburger mit dem Produzenten Olaf Opal im Studio eingeschlossen. Da kann man nur gespannt sein. 
+Nach einer selbstveröffentlichten EP (2015) und einer 7" (2016) ist jetzt die Zeit reif für das Debüt-Album von HELGEN. Dazu haben sich die 3 Hamburger mit dem Produzenten Olaf Opal im Studio eingeschlossen. Da kann man nur gespannt sein.

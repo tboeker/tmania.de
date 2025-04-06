@@ -24,7 +24,6 @@ type: page
 
 Seit er erstmals kurz nach dem Millenium auf dem Radar erschien, als eine Handvoll dänischer Kneipengänger in den Bluesbars von Kopenhagen einen Rohdiamanten entdeckten, hat Thorbjørn Risagers kometenhafter Aufstieg ihm kaum die Zeit gelassen, einmal einen Blick zurück zu werfen. Für diesen von der Kritik gefeierten Songschreiber, unvergleichlichen Sänger, gefühlvollen Gitarristen und Bandleader des mächtigen Black Tornado war es ein Karrierestart, bei dem er stets den Horizont vor Augen hatte: die nächste Stadt, die nächste Show, den nächsten Song, das nächste Album.
 
-
 „Ich kann es kaum glauben, dass es schon 20 Jahre her ist, dass wir diese große Reise begonnen haben“, sagt Risager im Rückblick auf eine Karriere, die ihn prestigeträchtige europäische und britische Bluespreise im Sturm hat abräumen sehen, seine Musik in über 20 Länder tragen und es auf der Bühne mit Legenden wie Buddy Guy aufnehmen ließ. „Wir sind so froh darüber, dieses Jubiläum mit dieser Sammlung von Songs feiern zu können, die die letzten beiden Dekaden repräsentieren.“
 
 [Homepage](https://risager.info/)
@@ -72,7 +71,7 @@ Gitarrensound und einer unfassbar sanften, aber auch kraftvollen Stimme
 unserer Sängerin Jette, sind wir trotz unseres jungen Alters auf einem guten Weg
 uns in die Musikszene zu etablieren.
 
-[Zeitungsartikel Weser Kurier](https://www.weser-kurier.de/bremen/kultur/die-bremer-band-halftime-der-traum-von-vollenstadien-
+[Zeitungsartikel Weser Kurier](<https://www.weser-kurier.de/bremen/kultur/die-bremer-band-halftime-der-traum-von-vollenstadien->
 doc7e4f2b07bc9ri6lnckz)
 
 ## DER TAG DES DÜMMSTEN GESICHTS

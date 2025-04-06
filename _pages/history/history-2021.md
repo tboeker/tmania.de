@@ -10,7 +10,7 @@ type: page
 
 # 24. und 25. Juni 2021
 
-# ABGESAGT WEGEN COVID-19 !!!
+# ABGESAGT WEGEN COVID-19
 
 ![2021]( {{ '/assets/images/2021-plakat.jpg' | relative_url }} )
 

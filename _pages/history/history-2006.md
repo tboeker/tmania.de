@@ -16,7 +16,7 @@ Die Party in diesem Jahr war super. Alle hatten Spaß, und als wir dann auch noc
 
 Zu erwähnen ist noch eine Band der ersten "TITTEMANIA" Stunde: Vier Zurück! Sie waren bis hierhin jedes Jahr bei uns und wir hatten ne Menge Spaß mit Ihnen (während und auch nach den Auftritten)!
 
-## Bands 
+## Bands
 
 - Syd Pistol & the loaded guns
 - Tao Zulu
@@ -27,4 +27,3 @@ Zu erwähnen ist noch eine Band der ersten "TITTEMANIA" Stunde: Vier Zurück! Si
 - Bad Nenndorf Boys
 - No Mayers 50
 - Capricorn
-
