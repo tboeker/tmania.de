@@ -19,9 +19,9 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![AGC Interpane](/assets/partner-logos/agc-interpane.png){: .center-image }](https://interpane.com)
 
-[![DMA Maschinen und Anlagenbau](/assets/partner-logos/dma2.jpg){: .center-image }](https://www.dma.de)
+<!-- [![DMA Maschinen und Anlagenbau](/assets/partner-logos/dma2.jpg){: .center-image }](https://www.dma.de) -->
 
-[![Lieber und Lieber](/assets/partner-logos/lieber-lieber.jpg){: .center-image }](https://www.lieber-lieber.de)
+<!-- [![Lieber und Lieber](/assets/partner-logos/lieber-lieber.jpg){: .center-image }](https://www.lieber-lieber.de) -->
 
 ## Gold Partner
 
@@ -30,6 +30,8 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 [![EDEKA Falke](/assets/partner-logos/falke.png){: .center-image }](https://www.edeka.de/eh/hessenring/edeka-falke-untere-hauptstra%C3%9Fe-148/index.jsp)
 
 [![Hartmann Bau](/assets/partner-logos/hartmann-bau.png){: .center-image }](https://www.hartmann-bau.de)
+
+[![HEGLA](/assets/partner-logos/hegla.png){: .center-image }](https://hegla.com/)
 
 [![Schlüsseldienst Kottwitz](/assets/partner-logos/kottwitz.png){: .center-image }](https://www.dasoertliche.de/Themen/Schl%C3%BCssel-u-Notdienst-S-Kottwitz-Beverungen-Lange-Str)
 
@@ -43,15 +45,17 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![Wiesmann Gerüstbau und Sonderkonstruktionen](/assets/partner-logos/wiesmann.jpeg){: .center-image }](https://wiesmann-service.de)
 
+[![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg){: .center-image }](https://www.zahnarzt-ziegler.de)
+
 ## Silber Partner
 
 [![Autohaus Bodach](/assets/partner-logos/bodach-web.jpg){: .center-image }](https://www.ford-bodach-borgentreich.de)
 
+[![BeSte Stadtwerke](/assets/partner-logos/beste.jpg){: .center-image }](https://beste-stadtwerke.de)
+
 [![Elektro Hartmann](/assets/partner-logos/elektro-hartmann.jpg){: .center-image }](http://www.elektro-hartmann.de)
 
 [![Baumarkt Hartung](/assets/partner-logos/hartung.png){: .center-image }](https://www.baumarkt-hartung.de)
-
-[![HEGLA](/assets/partner-logos/hegla.png){: .center-image }](https://hegla.com/)
 
 [![Bauzentrum Kühlert](/assets/partner-logos/kuehlert_web.jpg){: .center-image }](https://www.kuehlert.de/)
 
@@ -65,8 +69,6 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![Nübel Beadchungen](/assets/partner-logos/nuebel-dach.jpg){: .center-image }](http://www.nuebeldach.de/)
 
-[![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg){: .center-image }](https://www.wuerttembergische.de/versicherungen/florian.nutt)
-
 [![Rempe Heizung Kälte Klima](/assets/partner-logos/rempe-kaelte.png){: .center-image }](https://www.rempe-anlagenbau.de)
 
 ![Scheideler Schlosserei & Metallbau](/assets/partner-logos/scheideler-schlosserei.jpg){: .center-image }
@@ -75,19 +77,19 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![Hubert Suermann GmbH](/assets/partner-logos/suermann-sanitaer.jpg){: .center-image }](https://suermannsanitaer.de)
 
-[![Zahnarztpraxis Michael Ziegler](/assets/partner-logos/ziegler.jpg){: .center-image }](https://www.zahnarzt-ziegler.de)
+[![Zentis Grilleck](/assets/partner-logos/zenti.jpg){: .center-image }](https://www.zentis-grilleck.de)
 
 ## Bronze Partner
 
 ![Fleischerei Ernst](/assets/partner-logos/fleischerei-ernst.jpg){: .center-image }
 
-[![Heimatgenuss](/assets/partner-logos/heimatgenuss.jpeg){: .center-image }](https://www.heimatgenuss.net)
+![LVM-Versicherungsagentur Thomas Lotze](/assets/partner-logos/lvm-lotze.jpg){: .center-image }
 
 ![Bäckerei Mann](/assets/partner-logos/baeckerei-mann.jpg){: .center-image }
 
-## weitere Partner
+[![Tischlerei Pape](/assets/partner-logos/pape_web.png)](http://www.tischlerei-pape.com)
 
-[![Conzedruck](/assets/partner-logos/conzedruck_web.png){: .center-image }](https://www.conzedruck.de)
+## weitere Partner
 
 [![Schlossbrauerei Rheder](/assets/partner-logos/rheder.jpg){: .center-image }](http://www.schlossbrauerei-rheder.de)
 
@@ -101,12 +103,12 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 - [Sponsoringvertrag-2025 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2025.pdf' | relative_url }} )
 
-<!-- [![BeSte Stadtwerke](/assets/partner-logos/beste.jpg){: .center-image }](https://beste-stadtwerke.de) -->
+<!-- [![Conzedruck](/assets/partner-logos/conzedruck_web.png){: .center-image }](https://www.conzedruck.de) -->
+<!-- [![Heimatgenuss](/assets/partner-logos/heimatgenuss.jpeg){: .center-image }](https://www.heimatgenuss.net) -->
+<!-- [![Württembergische Versicherung AG Florian Nutt](/assets/partner-logos/wundw.jpg){: .center-image }](https://www.wuerttembergische.de/versicherungen/florian.nutt) -->
 <!-- [![KW-Engineering](/assets/partner-logos/kw.jpg){: .center-image }](https://kwcg.de) -->
 <!-- [![SCHEIDELER GmbH & Co. KG](/assets/partner-logos/scheideler-stanz.png){: .center-image }](https://scheideler-gmbh.de) -->
 <!-- ![Forstunternehmen Nübel](/assets/partner-logos/forst-nuebel.jpg){: .center-image } -->
-<!-- ![LVM-Versicherungsagentur Thomas Lotze](/assets/partner-logos/lvm-lotze.jpg){: .center-image } -->
-<!-- ![Zentis Grilleck](/assets/partner-logos/zenti.jpg){: .center-image } -->
 <!-- ![Verbund Volksbank OWL](/assets/partner-logos/verbundvvbowl.jpg) -->
 <!-- ![Sartor Systemintegration](/assets/partner-logos/sartor.png) -->
 <!-- ![SIBA Bauunternehmen](/assets/partner-logos/siba_web.png) -->
@@ -114,5 +116,4 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 <!-- [![Bauer & Humburg Bauelemente](/assets/partner-logos/bundh.png)](https://b-h-bauelemente.de) -->
 <!-- [![Decker Massivholzmöbel](/assets/partner-logos/teamdecker-logo-web.png)](https://decker.de) -->
 <!-- ![Gasthaus Groll](/assets/partner-logos/groll.png) -->
-<!-- [![Tischlerei Pape](/assets/partner-logos/pape_web.png)](http://www.tischlerei-pape.com) -->
 <!-- ![Bröker und Nolte](/assets/partner-logos/broeker-nolte.png) -->
