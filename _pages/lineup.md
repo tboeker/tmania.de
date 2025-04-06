@@ -73,7 +73,7 @@ Persönliche Überzeugung von alledem ist möglich, 2025 wird die Band einige fe
 {: #lowkeyorchestra }
 ![LOW KEY ORCHESTRA]( {{'/assets/images/2025/lowkeyorchestra.jpg'|relative_url}} )
 
-[Homepage](lowkeyorchestra.com)
+[Homepage](https://lowkeyorchestra.com)
 
 ### KNARRE
 
