@@ -36,6 +36,14 @@ Dieser Kampfgeist und die Zuversicht, dass man in dieser Welt etwas ändern kann
 ### PALILA
 
 {: #palila }
+![PALILA]( {{'/assets/images/2025/palila.jpg'|relative_url}} ){:class="img-responsive"}
+
+Man nehme Melodie, Melancholie und eine gute Portion Verstärkerliebe – und raus kommt Palila. Das Hamburger Indie-Trio bringt mit seinem neuen Album Children Will Be Furious genau die Mischung auf die Bühne, die Festivalherzen schneller schlagen lässt: große Songs im kleinen Bandformat, mal warmherzig und hymnisch, mal rau, kantig und ordentlich wütend.
+
+Nach Auftritten beim Orange Blossom Special und dem Rolling Stone Beach machen Palila jetzt auch das T-Mania unsicher – im Gepäck: ihr bislang lautestes und mutigstes Album, das von zwischenmenschlichen Brüchen bis zu kosmischem Chaos alles verhandelt, was in die Seele rauscht. Fans von Built To Spill, Nada Surf oder Dinosaur Jr. dürfen sich freuen – alle anderen auch.
+
+Einsteigen, mitreißen lassen – und einfach abgehen!
+
 
 [Linktree](https://linktr.ee/palilamusic)
 [Spotify](https://open.spotify.com/artist/2sYDElQqOVVk6sTPlSWIlE?si=4dBY2TrLTLeaLZ2lgMpqMg)
