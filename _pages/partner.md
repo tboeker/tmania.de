@@ -19,7 +19,7 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![AGC Interpane](/assets/partner-logos/agc-interpane.png){: .center-image }](https://interpane.com)
 
-<!-- [![DMA Maschinen und Anlagenbau](/assets/partner-logos/dma2.jpg){: .center-image }](https://www.dma.de) -->
+[![DMA Maschinen und Anlagenbau](/assets/partner-logos/dma2.jpg){: .center-image }](https://www.dma.de)
 
 <!-- [![Lieber und Lieber](/assets/partner-logos/lieber-lieber.jpg){: .center-image }](https://www.lieber-lieber.de) -->
 
