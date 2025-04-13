@@ -54,9 +54,18 @@ Einsteigen, mitreißen lassen – und einfach abgehen!
 ### SCUNKS
 
 {: #scunks }
-![SCUNKS]( {{'/assets/images/2019/scunks.jpg'|relative_url}} ){:class="img-responsive"}
+![SCUNKS]( {{'/assets/images/2025/scunks.jpg'|relative_url}} ){:class="img-responsive"}
+
+Und so schließt sich der Kreis: Die SCUNKS sind dem gleichen schlammigen Boden entsprungen wie das T-Mania an sich. Von den 20 Festivals waren sie mindestens sechs Mal dabei – vielleicht öfter. 
+
+Unvergessen ihr nächtlicher Gig 2022, als sie sich zum Headliner hochgeklagt hatten [nachzusehen hier](https://youtu.be/jeLhiWUsYBc?si=kIVGqg25utJ-OL6y). 
+
+Nun gehen sie auf den ihnen zustehenden Nachmittagsplatz zurück. Denn dort fühlen sie sich wohl, wie Sänger Hippe verrät: "Nah am einfachen Volk", erklärt der Berufsteenager populistisch. 
+
+Und für die, die immer noch nicht wissen, worum es geht: Punkrock mit deutschen Texten, Referenzen könnten Pascow und Muff Potter sein. Letzte Runde, *ringringring*!!!
 
 [Homepage](https://scunks.bandcamp.com/)
+
 
 ### ELIJAH SALOMON
 
@@ -95,6 +104,13 @@ Vor sechs Jahren gegründet bleibt Knarre aus Berlin ein Produkt aus Freundschaf
 ### MASSIVE MADNESS
 
 {: #massivemadness }
+![MASSIVE MADNESS]( {{'/assets/images/2025/massivemadness.jpg'|relative_url}} )
+
+20 mal T-Mania, 20 Jahre Massive Madness – es kommt, wie es kommen musste: Die Punkrockcover-Institution aus der Region beerdigt das Festival standesgemäß.
+
+Ein Powerset aus Szene-Klassikern (u.a. Lagwagon, Millencolin, NOFX, Sick of it all, Rise Against) wird dafür sorgen, dass sich in den Abendstunden des 5. Juli alles entladen wird, was an Emotionen in den geschundenen Körpern von Publikum und Crew übergeblieben ist. 
+
+"Give it all" for the last time – und dann kann man auch mit einem lachenden und einem weinenden Auge Schluss machen! 
 
 ### SCHNUPPE
 
