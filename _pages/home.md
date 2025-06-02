@@ -13,9 +13,9 @@ TREPTOW | PALILA | ELIJAH SALOMON | LUCKY GINGER | LOW KEY ORCHESTRA | MASSIVE M
 ## TICKETS
 
 <!-- Bild mit Link ! -->
-[![Early Birds Tickets 2025]( {{ '/assets/images/2025/early-bird.jpg' | relative_url }} ){:class="img-responsive"}](https://www.ticketino.com/de/event/20-t-mania-2025/198559)
+<!-- [![ Tickets 2025]( {{ '/assets/images/2025/early-bird.jpg' | relative_url }} ){:class="img-responsive"}](https://www.ticketino.com/de/event/20-t-mania-2025/198559) -->
 
-Jetzt Early Bird Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/event/20-t-mania-2025/198559).
+Jetzt  Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/event/20-t-mania-2025/198559).
 
 <!-- ![Save the Date 2025]( {{ '/assets/images/2025/save-the-date.jpg' | relative_url }} ){:class="img-responsive"} -->
 
@@ -29,9 +29,9 @@ Jetzt Early Bird Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/
 
 <!-- Tickets könnt ihr hier bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434). -->
 
-<!-- ![Flyer 2024 Vorderseite]( {{ '/assets/images/2024-flyer.jpg' | relative_url }} ) -->
+![Flyer 2025 Vorderseite]( {{ '/assets/images/2025-flyer.jpg' | relative_url }} )
 
-<!-- ![Flyer 2024 Rückseite]( {{ '/assets/images/2024-flyer2.jpg' | relative_url }} ) -->
+![Flyer 2025 Rückseite]( {{ '/assets/images/2025-flyer2.jpg' | relative_url }} )
 
 <!-- 
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!
