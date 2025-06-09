@@ -6,18 +6,42 @@ type: page
 #   image: /assets/images/header1.jpeg
 ---
 
-| BANDS |
+<!-- | BANDS |
 | --------|
 | [TREPTOW](#treptow) |
 | [PALILA](#palila) |
-| [ELIJAH SALOMON](#elijahsalomon ) |
+| [ELIJAH SALOMON](#elijahsalomon) |
 | [SCUNKS](#scunks) |
 | [DRUNKEN WAR](#drunkenwar) |
 | [SCHNUPPE](#schnuppe) |
 | [KNARRE](#knarre) |
 | [LOW KEY ORCHESTRA](#lowkeyorchestra) |
 | [LUCKY GINGER](#luckyginger) |
-| [MASSIVE MADNESS](#massivemadness) |
+| [MASSIVE MADNESS](#massivemadness) | -->
+
+<!-- Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusammen zu stellen. -->
+
+## Spielplan
+
+<!-- Hier ist der vorläufige Spielplan. Es kann möglicherweise noch kleine Änderungen geben. -->
+
+| Freitag 04.07.2025 | Band |
+|-------------|--------|
+| 20:00 - 21:30 | [PALILA](#palila) |
+| 21:00 - 23:00 | [TREPTOW](#treptow) |
+
+| Samstag 05.07.2025 | Band |
+|-------|--------|
+| 14:30 - 15:00 | [DRUNKEN WAR](#drunkenwar) |
+| 15:20 - 16:00 | [SCUNKS](#scunks) |
+| 16:20 - 17:00 | [SCHNUPPE](#schnuppe) |
+| 17:20 - 18:20 | [KNARRE](#knarre) |
+| 18:40 - 19:30 | [LOW KEY ORCHESTRA](#lowkeyorchestra) |
+| 20:00 - 21:00 | [ELIJAH SALOMON](#elijahsalomon) |
+| 21:30 - 22:40 | [LUCKY GINGER](#luckyginger) |
+| 23:10 - 00:10 | [MASSIVE MADNESS](#massivemadness) |
+
+Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan2025.pdf' | relative_url }} )
 
 ### TREPTOW
 
@@ -141,28 +165,3 @@ Ende 2023 haben sie ihre erste EP "Vol.1" Veröffentlicht und erstmal etwas für
 
 [Instagram](https://www.instagram.com/drunkenwar.band?igsh=Ym9zYmdvZXVodDN6)
 [Spotify](https://open.spotify.com/album/2PXGaYekL5cnMrQuPbSdtf?si=ou_4b8NhQhWwbDt9zNmr5Q)
-
-<!-- Wir haben keine Kosten und Mühen gescheut, um für euch das beste Line-Up zusammen zu stellen. -->
-
-<!-- ## Spielplan -->
-
-<!-- Hier ist der vorläufige Spielplan. Es kann möglicherweise noch kleine Änderungen geben. -->
-
-<!-- | Freitag 21.06.2024 | Band |
-|-------------|--------|
-| 20:00 - 20:45 | [ISABEL NOLTE](#isabelnolte) |
-| 21:15 - 22:00 | [SULTANS COURT](#sultanscourt) |
-| 22:30 - 00:00 | [GOLDEN KANINE](#goldenkanine) | -->
-
-<!-- | Samstag 22.06.2024 | Band |
-|-------|--------|
-| 14:30 - 15:00 | [BREMER PLATZMUSIKANTEN](#bpm) |
-| 15:20 - 15:55 | [KELLERGEISTER](#kellergeister) |
-| 16:15 - 16:50 | [SIMPLE STRICKTS](#simplestrickts) |
-| 17:10 - 18:10 | [RANDALE](#randale) |
-| 18:30 - 19:20 | [IEDEREEN](#iedereen) |
-| 19:50 - 20:50 | [CROCOZEBRÁ](#crocozebra) |
-| 21:20 - 22:30 | [BUTTERWEGGE](#butterwegge) |
-| 23:00 - 00:10 | [BAD NENNDORF BOYS](#bnboys) | -->
-
-<!-- Hier zum Download als [Spielplan]( {{ '/assets/downloads/Spielplan2024.pdf' | relative_url }} ) -->
