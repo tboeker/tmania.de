@@ -38,7 +38,16 @@ Tickets könnt ihr hier bei unserem Partner Ticketino bestellen: [Ticketino](htt
 
 ## Location
 
-Der ganze Spaß findet auf dem Sportplatz in Dalhausen in der Urentalstraße statt. 
+Der ganze Spaß findet auf dem Sportplatz in Dalhausen in der Urentalstraße statt.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1238.3358029232982!2d9.287349976860535!3d51.629224513037954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bb1d4b8793a981%3A0xd293ba92abe44a21!2sSportplatz!5e0!3m2!1sen!2sde!4v1749041580232!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Eingabe fürs Navi:
+
+```
+Urentalstraße 59
+37688 Beverungen
+```
 
 ## Essen und Trinken
 
