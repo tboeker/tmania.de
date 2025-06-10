@@ -28,7 +28,7 @@ type: page
 | Freitag 04.07.2025 | Band |
 |-------------|--------|
 | 20:00 - 21:30 | [PALILA](#palila) |
-| 21:00 - 23:00 | [TREPTOW](#treptow) |
+| 22:00 - 23:30 | [TREPTOW](#treptow) |
 
 | Samstag 05.07.2025 | Band |
 |-------|--------|
