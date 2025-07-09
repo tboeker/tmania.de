@@ -24,6 +24,12 @@ Geht weiter auf Konzerte (Auch von uns wird es das ein oder andere noch geben) u
 Wir sagen nicht "Lebewohl", sondern:
 Bis irgendwo, irgendwann - man sieht sich!
 
+## NEWSLETTER
+
+Unser Verein, der _Verein für Musik und Kultur_ wird auch zukünftig Veranstaltungen durchführen.
+
+Wenn du auf dem Laufenden bleiben möchtest, melde dich hier zum [Newsletter](https://vermuku.de/newsletter/) an.
+
 <!-- 
 ## LINE-UP
 
