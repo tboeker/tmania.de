@@ -12,7 +12,7 @@ Unser Verein, der _Verein für Musik und Kultur_ wird auch zukünftig Veranstalt
 
 ## 20 Mal T-Mania - Danke für alles
 
-Am 04. und 05. Juli 2025 fand unser geliebtes T-Mania Festival zum 20. Mal statt - und leider auch zum letzten Mal.
+Am 4. und 5. Juli 2025 fand unser geliebtes T-Mania Festival zum 20. Mal statt - und leider auch zum letzten Mal.
 
 Was bleibt, ist ein riesiges DANKE an alle, die in den letzten Jahren Teil davon waren:
 
