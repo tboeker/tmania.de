@@ -6,26 +6,28 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
-## 20 Mal T-Mania - Danke für alles
+<h2>20 Mal T-Mania - Danke für alles!</h2>
 
-Am 04. und 05. Juli 2025 fand unser geliebtes T-Mania Festival zum 20. Mal statt - und leider auch zum letzten Mal.
-
+Am 4. und 5. Juli 2025 fand unser geliebtes T-Mania Festival zum 20. Mal statt - und leider auch zum letzten Mal.
+</br>
 Was bleibt, ist ein riesiges DANKE an alle, die in den letzten Jahren Teil davon waren:
-
+</br>
 an alle Bands, die bei uns gespielt haben
+</br>
 an alle, die mit uns gefeiert und gute Musik genossen haben
+</br>
 an euch, die die Festivalwiese zum Leben erweckt haben
+</br>
 an alle, die uns unterstützt und dieses Herzensprojekt möglich gemacht haben.
+</br>
 
+</br>
 Ohne euch wäre T-Mania nie das geworden, was es war.
-
+</br>
 Geht weiter auf Konzerte (Auch von uns wird es das ein oder andere noch geben) und supportet kleine Festivals in der Region - es lohnt sich!
-
+</br>
 Wir sagen nicht "Lebewohl", sondern:
 Bis irgendwo, irgendwann - man sieht sich!
-
-
-
 
 <!-- 
 ## LINE-UP
