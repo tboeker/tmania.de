@@ -1,8 +1,8 @@
 main:
   # - title: "Aktuelles"
   #   url: /aktuelles/
-  - title: "Festival"
-    url: /festival/
+  # - title: "Festival"
+  #   url: /festival/
   # - title: "Line-Up"
   #   url: /lineup/
   - title: "History"
