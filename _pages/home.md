@@ -6,6 +6,12 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
+## NEWSLETTER
+
+Unser Verein, der _Verein für Musik und Kultur_ wird auch zukünftig Veranstaltungen durchführen.
+
+Wenn du auf dem Laufenden bleiben möchtest, melde dich hier zum [Newsletter](https://vermuku.de/newsletter/) an.
+
 ## 20 Mal T-Mania - Danke für alles
 
 Am 04. und 05. Juli 2025 fand unser geliebtes T-Mania Festival zum 20. Mal statt - und leider auch zum letzten Mal.
@@ -21,14 +27,7 @@ Ohne euch wäre T-Mania nie das geworden, was es war.
 
 Geht weiter auf Konzerte (Auch von uns wird es das ein oder andere noch geben) und supportet kleine Festivals in der Region - es lohnt sich!
 
-Wir sagen nicht "Lebewohl", sondern:
-Bis irgendwo, irgendwann - man sieht sich!
-
-## NEWSLETTER
-
-Unser Verein, der _Verein für Musik und Kultur_ wird auch zukünftig Veranstaltungen durchführen.
-
-Wenn du auf dem Laufenden bleiben möchtest, melde dich hier zum [Newsletter](https://vermuku.de/newsletter/) an.
+Wir sagen nicht "Lebewohl", sondern: Bis irgendwo, irgendwann - man sieht sich!
 
 <!-- 
 ## LINE-UP
