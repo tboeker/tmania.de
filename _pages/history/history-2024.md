@@ -4,7 +4,7 @@ title: T-Mania 19
 type: page
 ---
 
-[2023 - 18](/history/2023)
+[2023 - 18](/history/2023) -- [2025 - 20](/history/2025)
 
 ## 21. und 22. Juni 2024
 

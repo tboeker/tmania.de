@@ -6,16 +6,39 @@ permalink: /
 #   image: /assets/images/header1.jpg
 ---
 
+## 20 Mal T-Mania - Danke für alles
+
+Am 04. und 05. Juli 2025 fand unser geliebtes T-Mania Festival zum 20. Mal statt - und leider auch zum letzten Mal.
+
+Was bleibt, ist ein riesiges DANKE an alle, die in den letzten Jahren Teil davon waren:
+
+an alle Bands, die bei uns gespielt haben
+an alle, die mit uns gefeiert und gute Musik genossen haben
+an euch, die die Festivalwiese zum Leben erweckt haben
+an alle, die uns unterstützt und dieses Herzensprojekt möglich gemacht haben.
+
+Ohne euch wäre T-Mania nie das geworden, was es war.
+
+Geht weiter auf Konzerte (Auch von uns wird es das ein oder andere noch geben) und supportet kleine Festivals in der Region - es lohnt sich!
+
+Wir sagen nicht "Lebewohl", sondern:
+Bis irgendwo, irgendwann - man sieht sich!
+
+
+
+
+<!-- 
 ## LINE-UP
 
-TREPTOW | PALILA | ELIJAH SALOMON | LUCKY GINGER | LOW KEY ORCHESTRA | MASSIVE MADNESS | SCUNKS | KNARRE | SCHNUPPE | DRUNKEN WAR
+TREPTOW | PALILA | ELIJAH SALOMON | LUCKY GINGER | LOW KEY ORCHESTRA | MASSIVE MADNESS | SCUNKS | KNARRE | SCHNUPPE | DRUNKEN WAR 
+-->
 
-## TICKETS
+<!-- ## TICKETS -->
 
 <!-- Bild mit Link ! -->
 <!-- [![ Tickets 2025]( {{ '/assets/images/2025/early-bird.jpg' | relative_url }} ){:class="img-responsive"}](https://www.ticketino.com/de/event/20-t-mania-2025/198559) -->
 
-Jetzt  Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/event/20-t-mania-2025/198559).
+<!-- Jetzt  Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/event/20-t-mania-2025/198559). -->
 
 <!-- ![Save the Date 2025]( {{ '/assets/images/2025/save-the-date.jpg' | relative_url }} ){:class="img-responsive"} -->
 
@@ -29,9 +52,9 @@ Jetzt  Tickets bestellen bei [Ticketino](https://www.ticketino.com/de/event/20-t
 
 <!-- Tickets könnt ihr hier bestellen: [Ticketino](https://www.ticketino.com/de/event/19-t-mania-open-air-festival/189434). -->
 
-![Flyer 2025 Vorderseite]( {{ '/assets/images/2025-flyer.jpg' | relative_url }} )
+<!-- ![Flyer 2025 Vorderseite]( {{ '/assets/images/2025-flyer.jpg' | relative_url }} )
 
-![Flyer 2025 Rückseite]( {{ '/assets/images/2025-flyer2.jpg' | relative_url }} )
+![Flyer 2025 Rückseite]( {{ '/assets/images/2025-flyer2.jpg' | relative_url }} ) -->
 
 <!-- 
 ### Es gibt keinen Vorverkauf! Nur Tageskasse. Und es kommt garantiert jeder rein!

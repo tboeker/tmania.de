@@ -99,9 +99,9 @@ Wir bedanken und bei unseren Partnern und Sponsoren. Ohne Euch wäre unser klein
 
 [![wildwechsel](/assets/partner-logos/ww_web.jpg){: .center-image }](https://www.wildwechsel.de)
 
-## Downloads
+<!-- ## Downloads
 
-- [Sponsoringvertrag-2025 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2025.pdf' | relative_url }} )
+- [Sponsoringvertrag-2025 Download]( {{ '/assets/downloads/T-Mania-Sponsoring-Vertrag-2025.pdf' | relative_url }} ) -->
 
 <!-- [![Conzedruck](/assets/partner-logos/conzedruck_web.png){: .center-image }](https://www.conzedruck.de) -->
 <!-- [![Heimatgenuss](/assets/partner-logos/heimatgenuss.jpeg){: .center-image }](https://www.heimatgenuss.net) -->
