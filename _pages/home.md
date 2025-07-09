@@ -8,9 +8,7 @@ permalink: /
 
 ## NEWSLETTER
 
-Unser Verein, der _Verein für Musik und Kultur_ wird auch zukünftig Veranstaltungen durchführen.
-
-Wenn du auf dem Laufenden bleiben möchtest, melde dich hier zum [Newsletter](https://vermuku.de/newsletter/) an.
+Unser Verein, der _Verein für Musik und Kultur_ wird auch zukünftig Veranstaltungen durchführen. Melde dich hier zum [Newsletter](https://vermuku.de/newsletter/) an.
 
 ## 20 Mal T-Mania - Danke für alles
 
