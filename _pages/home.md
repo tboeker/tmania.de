@@ -12,13 +12,10 @@ Am 04. und 05. Juli 2025 fand unser geliebtes T-Mania Festival zum 20. Mal statt
 
 Was bleibt, ist ein riesiges DANKE an alle, die in den letzten Jahren Teil davon waren:
 
-an alle Bands, die bei uns gespielt haben
-
-an alle, die mit uns gefeiert und gute Musik genossen haben
-
-an euch, die die Festivalwiese zum Leben erweckt haben
-
-an alle, die uns unterstützt und dieses Herzensprojekt möglich gemacht haben.
+* an alle Bands, die bei uns gespielt haben
+* an alle, die mit uns gefeiert und gute Musik genossen haben
+* an euch, die die Festivalwiese zum Leben erweckt haben
+* an alle, die uns unterstützt und dieses Herzensprojekt möglich gemacht haben.
 
 Ohne euch wäre T-Mania nie das geworden, was es war.
 
